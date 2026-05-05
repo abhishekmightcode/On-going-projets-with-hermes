@@ -40,19 +40,21 @@ COMPETITOR-RESEARCH/
 ## 🏢 Competitors Identified
 
 ### Bangalore-Based (Local)
-| Company | Rating | Phone | Address |
-|---------|--------|-------|---------|
-| EcoSoch Solar | ⭐ 4.8 | +91 81234 10101 | Sha Arcade, 2nd phase, Kodigehalli |
-| Power Planet | ⭐ 4.9 | +91 94839 79469 | Nagarabhavi Main Rd |
-| Kamal Solar | ⭐ 4.9 | +91 98807 39199 | Railway Parallel Rd |
-| SunTrop Solar | ⭐ 4.7 | +91 80 2311 9520 | RPC Layout, Vijaya Nagar |
-| Orange Energy | ⭐ 5.0 | +91 99809 11183 | 3rd Cross Rd |
-| N K Solar | — | — | Bangalore |
+| Company | Rating | Phone | Address | Notes |
+|---------|--------|-------|---------|-------|
+| EcoSoch Solar | ⭐ 4.8 | +91 81234 10101 | Sha Arcade, Kodigehalli | CII certified, 10MW+ installed |
+| Orange Energy | ⭐ 5.0 | +91 99809 11183 | 3rd Cross Rd | Highest rated, solar farming niche |
+| Power Planet | ⭐ 4.9 | +91 94839 79469 | Nagarabhavi Main Rd | West Bangalore |
+| Kamal Solar | ⭐ 4.9 | +91 98807 39199 | Railway Parallel Rd | 24hr operation |
+| SunTrop Solar | ⭐ 4.7 | +91 80 2311 9520 | RPC Layout, Vijaya Nagar | South Bangalore |
+| N K Solar | — | — | Bangalore | Price fighter |
+| Supreme Solar | — | +91 93796 61979 | Yelahanka | Water heater co. since 2004 |
+| **Arkahub** | — | — | Bengaluru & Hyderabad | $2M VC-backed, 4yr FREE maintenance |
+| **SolarSquare** | ⭐ 4.8 (12k reviews) | — | 29 cities, 9 states | Savings guarantee, IIT Bombay |
 
 ### National Players Operating in Bangalore
 - **ZunSolar** — IITian-founded, IoT-powered, 40,000+ customers, 75+ cities
-- **Loom Solar** — Maharashtra-based, strong online presence
-- **Emmvee Solar** — Bangalore HQ,薄膜/柔性组件
+- **Loom Solar** — Haryana HQ, manufacturer, 10,000+ dealers, 50k+ customers
 - **Tata Power Solar** — National brand, B2B heavy
 - **Adani Solar** — National, large-scale projects
 - **Vikram Solar** — Kolkata HQ, EPC focus
