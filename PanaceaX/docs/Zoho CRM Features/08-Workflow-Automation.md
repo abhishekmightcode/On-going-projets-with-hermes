@@ -350,3 +350,87 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **40 KB articles** with **352 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Working with Validation Rules](https://help.zoho.com/portal/en/kb/crm/create-validation-rules) | 31 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-validation-rules) |
+| 2 | [Configuring Workflow Rules](https://help.zoho.com/portal/en/kb/crm/configuring-workflow-rules) | 28 | [View Article](https://help.zoho.com/portal/en/kb/crm/configuring-workflow-rules) |
+| 3 | [FAQs: Approval Process](https://help.zoho.com/portal/en/kb/crm/faqs-on-approval-process) | 23 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-on-approval-process) |
+| 4 | [Connected Workflows](https://help.zoho.com/portal/en/kb/crm/connected-workflows) | 21 | [View Article](https://help.zoho.com/portal/en/kb/crm/connected-workflows) |
+| 5 | [Sales Force Automation (SFA) in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/sales-force-automation-sfa-in-zoho-crm) | 20 | [View Article](https://help.zoho.com/portal/en/kb/crm/sales-force-automation-sfa-in-zoho-crm) |
+| 6 | [FAQs: Workflow Rules](https://help.zoho.com/portal/en/kb/crm/faqs-workflow) | 20 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-workflow) |
+| 7 | [CPQ Rule Execution: Product Configurator](https://help.zoho.com/portal/en/kb/crm/cpq-rule-execution-product-configurator) | 16 | [View Article](https://help.zoho.com/portal/en/kb/crm/cpq-rule-execution-product-configurator) |
+| 8 | [Zia Suggestions for Assignment Rules](https://help.zoho.com/portal/en/kb/crm/record-owner-suggestion-in-assignment-rule) | 15 | [View Article](https://help.zoho.com/portal/en/kb/crm/record-owner-suggestion-in-assignment-rule) |
+| 9 | [Workflow Report](https://help.zoho.com/portal/en/kb/crm/workflow-report) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/workflow-report) |
+| 10 | [Adding an Approval Process](https://help.zoho.com/portal/en/kb/crm/add-approval-process) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/add-approval-process) |
+| 11 | [Scoring Rules](https://help.zoho.com/portal/en/kb/crm/multiple-scoring-rule) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/multiple-scoring-rule) |
+| 12 | [Setting up Data Sharing Rules](https://help.zoho.com/portal/en/kb/crm/data-sharing-rules) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/data-sharing-rules) |
+| 13 | [Workflow for Emails](https://help.zoho.com/portal/en/kb/crm/workflow-for-emails) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/workflow-for-emails) |
+| 14 | [Workflow Scenarios](https://help.zoho.com/portal/en/kb/crm/workflow-scenarios) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/workflow-scenarios) |
+| 15 | [Workflow for Calls](https://help.zoho.com/portal/en/kb/crm/workflow-rules-calls) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/workflow-rules-calls) |
+| 16 | [Working on records in approval process](https://help.zoho.com/portal/en/kb/crm/working-on-records-in-approval-process) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-on-records-in-approval-process) |
+| 17 | [FAQs: Case Escalation Rules](https://help.zoho.com/portal/en/kb/crm/faqs-case-escalation-rules) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-case-escalation-rules) |
+| 18 | [Associating Actions for Approval or Rejection](https://help.zoho.com/portal/en/kb/crm/actions-approval-rejection) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/actions-approval-rejection) |
+| 19 | [Approving or Rejecting from the Approval Tab](https://help.zoho.com/portal/en/kb/crm/approval-tab) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/approval-tab) |
+| 20 | [Reorder Approval Processes and Process Rules](https://help.zoho.com/portal/en/kb/crm/reorder-approval-processes) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/reorder-approval-processes) |
+| 21 | [FAQ: Approval Process](https://help.zoho.com/portal/en/kb/crm/faq-approval-process) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/faq-approval-process) |
+| 22 | [Setting Case Escalation Rules](https://help.zoho.com/portal/en/kb/crm/set-case-escalation-rules) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/set-case-escalation-rules) |
+| 23 | [Workflow Suggestions by Zia](https://help.zoho.com/portal/en/kb/crm/workflow-suggestions) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/workflow-suggestions) |
+| 24 | [Automation in Team Module](https://help.zoho.com/portal/en/kb/crm/automation-in-team-modules) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/automation-in-team-modules) |
+| 25 | [Creating Schedules in Automation](https://help.zoho.com/portal/en/kb/crm/custom-schedules) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/custom-schedules) |
+| 26 | [Converting Records Using Workflow Rules](https://help.zoho.com/portal/en/kb/crm/convert-records-using-workflow-rule) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/convert-records-using-workflow-rule) |
+| 27 | [Troubleshooting Workflows](https://help.zoho.com/portal/en/kb/crm/troubleshooting-workflows) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-workflows) |
+| 28 | [FAQs: Workflow for Emails](https://help.zoho.com/portal/en/kb/crm/faqs-workflow-for-emails) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-workflow-for-emails) |
+| 29 | [What is the key difference between workflow rule for the Calls module and adding Call as an action in a workflow rule?](https://help.zoho.com/portal/en/kb/crm/what-is-the-key-difference-between-workflow-rule-for-the-calls-module-and-adding-call-as-an-action-in-a-workflow-rule) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/what-is-the-key-difference-between-workflow-rule-for-the-calls-module-and-adding-call-as-an-action-in-a-workflow-rule) |
+| 30 | [FAQs: Validation Rules](https://help.zoho.com/portal/en/kb/crm/faqs-validation-rules) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-validation-rules) |
+| 31 | [Zia for Workflow Rules](https://help.zoho.com/portal/en/kb/crm/zia-intelligence-automation) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/zia-intelligence-automation) |
+| 32 | [Creating Validation Rules Using Functions](https://help.zoho.com/portal/en/kb/crm/create-validation-rules-using-functions) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-validation-rules-using-functions) |
+| 33 | [Sales Force Automation - The Concept](https://help.zoho.com/portal/en/kb/crm/sales-force-automation-the-concept) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/sales-force-automation-the-concept) |
+| 34 | [Workflow for Social (Facebook and Twitter)](https://help.zoho.com/portal/en/kb/crm/workflow-for-social) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/workflow-for-social) |
+| 35 | [View Approval History](https://help.zoho.com/portal/en/kb/crm/view-approval-history) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/view-approval-history) |
+| 36 | [Workflow for Appointments](https://help.zoho.com/portal/en/kb/crm/workflow-rules-for-appointments) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/workflow-rules-for-appointments) |
+| 37 | [Adding Layouts Rules](https://help.zoho.com/portal/en/kb/crm/create-conditional-layouts) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-conditional-layouts) |
+| 38 | [Approval processes in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/approval-processes-in-zoho-crm-ios-app) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/approval-processes-in-zoho-crm-ios-app) |
+| 39 | [Setting Assignment Rules](https://help.zoho.com/portal/en/kb/crm/set-assignment-rules) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/set-assignment-rules) |
+| 40 | [FAQs: Sales Force Automation](https://help.zoho.com/portal/en/kb/crm/faqs-sales-force-automation) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-sales-force-automation) |
+
+### Sample Image URLs (from top articles)
+**[Working with Validation Rules](https://help.zoho.com/portal/en/kb/crm/create-validation-rules)** — 31 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57c45457395e9329dc9abc1430c945726555f3cd723b10c030fefd4bf004dc179b47faa64a406ef20830d45fa85a5084ab?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5750218c76a9aa90741066602b45dc885a790ef728eb37609804087fdde240d8da5d95f88bb7f717a95383ee0c84dd9479?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574ade50e671ba7a85480517f01959eda910e435763668b9d1148b74009465fba4f0b47bbd7ef0c17afeb7b98343169756?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57288b201dc2396471185230a620c79731348768f00110796245d8b5bf705f50bdac8b9ef416c7453132df047ce59a1056?inline=true`
+[View all 31 images in article →](https://help.zoho.com/portal/en/kb/crm/create-validation-rules)
+
+**[Configuring Workflow Rules](https://help.zoho.com/portal/en/kb/crm/configuring-workflow-rules)** — 28 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57113877aeead67a0c8ad82d0d25846bd5fa5c94234d24df6097e43c024820d48060a0d73f4e9387b19ac9725e53118e6b?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b577eaa14476f84078076910e4ee379cdbedc097d5664ef6874dedfde6133e3ce87ff87f4c91e05657ef49f73dd29acf1a0?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b578001679551897055d7b3400aad2babbd6e0e785375b9fe1ba08d0951c336138feb6d576feaf31f6522f6f2e068deab67?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f6a2a339f02814fbf46188e97955f71d2e1b1b94f9e12380485ca3507dcdf96abcce3e72f74ae8fe978b830bdbf897ca?inline=true`
+[View all 28 images in article →](https://help.zoho.com/portal/en/kb/crm/configuring-workflow-rules)
+
+**[FAQs: Approval Process](https://help.zoho.com/portal/en/kb/crm/faqs-on-approval-process)** — 23 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e9f1043518512bc248f6fd49977f30b9fec7fe534293a478d57a209ffd9cba879d2061e13b6b702a120064d47279ec3b?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574de8d3fee46a047b09e9036ef5a4245c14106328fc1054a23b3bfa2b89992485449c3718625d2c5bb960258a26719ba0?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57809398d20b9eafd94f3f109467f59d74f770b0e5631a61537c132db78d4378ee99746d07815fe3b76e28a20433272de5?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574834ad2c4a2d61870a23a06a1516ad847046d6d872e0bf86b1b78f7680c1f02b0ea79999d9816a9f042d3d7c8600f01d?inline=true`
+[View all 23 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-on-approval-process)
+
+**[Connected Workflows](https://help.zoho.com/portal/en/kb/crm/connected-workflows)** — 21 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b572e15d6001430b19b74bf819907f1162e6555378df220f22d169753ba6799847a8a03077054ab160b49b703431ae023df?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b570e0a3230db7ce8758f55c9b92c209c05aa0cd835afefe0dfe36f32d58043acca062a872b77c72acfa8f0aba63abd9b33?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b570f7e76d7da2bb2b280552d227f30e0def91b8533cdb209ed4a7cec21dc72f95db04990c6106893e6b8e3d392cbe329f6?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579b7d2ffaa21742f3e5933c1773214ecf06c0486253e99e8d48d68254ccb3e2ab13801055b92cf19fee5d6fb278e93d30?inline=true`
+[View all 21 images in article →](https://help.zoho.com/portal/en/kb/crm/connected-workflows)
+
+**[Sales Force Automation (SFA) in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/sales-force-automation-sfa-in-zoho-crm)** — 20 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b576b0327de694edd767c4369bc8e675a80dc42719c01de30029fd2cebfa4b0f556cff48426802cf9e11304fcdb1797b8f6?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57409725c201041f663456bae404d29a5a82c83fb6f368eba7dbb1912fb8ee3c503ab63c566d180ce58658e74f3a2b6e2f?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5795c1eff203ee2a52be28ce571f658097cb4b945128eb5c75102a13b917698679927a7aec87adeaa4a737eff0b7b1b80c?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5711d0a953836d681523071a9d2c9d95a822c8e135cd104b33315c4829b3e63b25b9a33a7aedd26a50e0dac3961866d6ac?inline=true`
+[View all 20 images in article →](https://help.zoho.com/portal/en/kb/crm/sales-force-automation-sfa-in-zoho-crm)
+

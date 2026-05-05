@@ -354,3 +354,20 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **1 KB articles** with **17 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Building Journeys Through Journey Builder](https://help.zoho.com/portal/en/kb/crm/journey-builder) | 17 | [View Article](https://help.zoho.com/portal/en/kb/crm/journey-builder) |
+
+### Sample Image URLs (from top articles)
+**[Building Journeys Through Journey Builder](https://help.zoho.com/portal/en/kb/crm/journey-builder)** — 17 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b573192259f7047b09cdd3d4edcfca036c3f3290b3b0cd295de33dec17c0df8537737329dd14599a47bdd04c2238cbee849?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ca34187742a6b82b302a7dc4292eb676a538f17822814c7ecfd16ff8dcf3eaefd14553f8835bb23f04302a0f864776bb?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5779cc2ea8752481ba84ec4043931f291c8e4d5a56fbae16fe17eda4a0ed2b99fa0c1f1f4ba694b71f2f8dccedb5c2b74a?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57a4ee7c8581c6af26cfb63eb63827d1225f1bd063c9adc18f3a0e77efffa4e69e881dba11e2290a1f331ff348357206db?inline=true`
+[View all 17 images in article →](https://help.zoho.com/portal/en/kb/crm/journey-builder)
+

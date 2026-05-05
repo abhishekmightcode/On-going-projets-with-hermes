@@ -349,3 +349,53 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **6 KB articles** with **102 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Webform Analytics](https://help.zoho.com/portal/en/kb/crm/webform-analytics) | 32 | [View Article](https://help.zoho.com/portal/en/kb/crm/webform-analytics) |
+| 2 | [Setting up Webforms](https://help.zoho.com/portal/en/kb/crm/set-up-web-forms) | 23 | [View Article](https://help.zoho.com/portal/en/kb/crm/set-up-web-forms) |
+| 3 | [Webform A/B Testing](https://help.zoho.com/portal/en/kb/crm/webform-ab-testing) | 22 | [View Article](https://help.zoho.com/portal/en/kb/crm/webform-ab-testing) |
+| 4 | [FAQs: Webforms](https://help.zoho.com/portal/en/kb/crm/faqs-webforms) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-webforms) |
+| 5 | [Auto-response rules for webforms](https://help.zoho.com/portal/en/kb/crm/web-form-auto-response-rule) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/web-form-auto-response-rule) |
+| 6 | [Including Opt-in Checkbox in Web Forms for Consent](https://help.zoho.com/portal/en/kb/crm/opt-in-checkbox) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/opt-in-checkbox) |
+
+### Sample Image URLs (from top articles)
+**[Webform Analytics](https://help.zoho.com/portal/en/kb/crm/webform-analytics)** — 32 images
+- `https://desk.zoho.in/galleryDocuments/edbsn9214836d08309dddcd341dd5cc1d4eedf09f5ebe711587a3014a0626c14cd9aff4b51fe4bfae29ee3650b7734547615ee79078307c388f3d637ecc811ca9fb03?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn9214836d08309dddcd341dd5cc1d4eed86db6d3e28616b88988bc79ff0c19d3596259eb9102abb91a06554259769c1a30e350f74a13361ddddbd048b807f5b52?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn9214836d08309dddcd341dd5cc1d4eed39414a66f898a808292a0c4df4ecdaf3cb7902a313dbe800dc103e11d0c1034f7b09154f78b4b3b50c1fd9a81a63a4b4?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn9214836d08309dddcd341dd5cc1d4eed448119f43e743ce1d4d0b0eb0c006f0afb1275bb4b283da59e8cb1fa6e9840609263deac3d8b1ed630f372876dabc82b?inline=true`
+[View all 32 images in article →](https://help.zoho.com/portal/en/kb/crm/webform-analytics)
+
+**[Setting up Webforms](https://help.zoho.com/portal/en/kb/crm/set-up-web-forms)** — 23 images
+- `https://desk.zoho.in/galleryDocuments/edbsna63cb8738e51b37a0da094736865778be1c8d6930ab94f8eeb723da63c0aabe4b42ab5a2aee04a94d24362c4d7b3587e8c7ce11878e13d7cbd5ace1ccbee8d50?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b573e255007423282b39e5583b86007b274d93f44c0ae05249ce51b9c5f23b288f321f2844b31decebf63a9848ddbe64052?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsna63cb8738e51b37a0da094736865778b8dc7ed79cae61a0c147079fa7cd05a8a2ac706b36388e111053d4f4873d1e1b857e94f1131c590b2d1ee00adcd469b51?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsna63cb8738e51b37a0da094736865778bb5f5029e970dc373ce56ae7c50d6c185e803ba9a6624b6f6512a594e85b98f3cbc106ebd3e6fb7484daab132c0af9ce1?inline=true`
+[View all 23 images in article →](https://help.zoho.com/portal/en/kb/crm/set-up-web-forms)
+
+**[Webform A/B Testing](https://help.zoho.com/portal/en/kb/crm/webform-ab-testing)** — 22 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b576a14d1c5dbf159ba1cc90d33d7a63bd36f80528dd5ec30c470b739172982a96fe9402dc1d36bdd1cbd9409e084b4d3b7?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5767ea357ac049f0fa6204f52c35179c56cfd435dbb3483b3dfd26a43ce1a4e310469018073fe5f0a8f4447b804530ea70?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5768f1ee30feaea03cea14f8290e2e9cffbb3dfeb9ccac6f4f038a8bba7fff90badd4eddab53500b5717e880615914d444?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5742948e912a78fe9a0e50a9a01e3526d72e2fb712c3218be6655fc79e61326bc009b8b5f497adb424ecce29408104099e?inline=true`
+[View all 22 images in article →](https://help.zoho.com/portal/en/kb/crm/webform-ab-testing)
+
+**[FAQs: Webforms](https://help.zoho.com/portal/en/kb/crm/faqs-webforms)** — 14 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b576f00601d152e0f82145cf8e57f8a06cbb06ea99771258dfa91ff40ec50c719b5c1151ccd305fcf2950de59cc8cf67993?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5758ef23a560d837e3a37e9a879ba8e7c6903c9159af36efee5a6ad108fed96667356265cb09bd6ecfb1c762f6d682fcf2?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5707514463d06814638fa60c6e109028e0dd3b09c1a611b6046337f27a4e54507782a80208df431c0ac011c0a69883b360?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57a56c97bd9abf730fa4315152961a95ed183a32de75e7ecac4d90f6335a9f942e3ef0d52b35a76b49938235c9074ae261?inline=true`
+[View all 14 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-webforms)
+
+**[Auto-response rules for webforms](https://help.zoho.com/portal/en/kb/crm/web-form-auto-response-rule)** — 8 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b577452010edbba36486e72120fde12e105d564b36559552ede53f2acf382f1965c8e8a3cbfe0294067a68fc3039cfec60e?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5742bde8de07498592216501030dcdf40b2262393eaea581524762ec495fb60f593b69132eee9b637de1083bb8dcf831f5?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57cca4cdfb96f89b5856d9cdb5203ba951425c5e3d04caf8700dea293d00907b72efec8531f4096b8c50f68867f99659f0?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5705fa34710518845b338e4391d730e8fac49f5750618e0a3ec2c719642104641709506511d035c4ed5e1ef0a0d99cc526?inline=true`
+[View all 8 images in article →](https://help.zoho.com/portal/en/kb/crm/web-form-auto-response-rule)
+

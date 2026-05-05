@@ -353,3 +353,52 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **5 KB articles** with **47 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Working with Translations](https://help.zoho.com/portal/en/kb/crm/translations) | 22 | [View Article](https://help.zoho.com/portal/en/kb/crm/translations) |
+| 2 | [FAQs: Translation in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/faqs-translation-in-zoho-crm) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-translation-in-zoho-crm) |
+| 3 | [Slack](https://help.zoho.com/portal/en/kb/crm/slack-crm-integration) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/slack-crm-integration) |
+| 4 | [Manage Business Hours](https://help.zoho.com/portal/en/kb/crm/business-hours) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/business-hours) |
+| 5 | [FAQs: Business Hours in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/faqs-business-hours-in-zoho-crm) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-business-hours-in-zoho-crm) |
+
+### Sample Image URLs (from top articles)
+**[Working with Translations](https://help.zoho.com/portal/en/kb/crm/translations)** — 22 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b577b481e0ef823fc35fd6bdc58da9baacf8285f62f195cf1ca9aa54d4b6f29dcb5cd6bef04ed18f438f2f9591e2f581711?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57b5204e2966873638f469e53cb50ea662af7eae3a6efe9b7c41f3eea21eb157e882e1906380a5574d6f46ebde4188ead1?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ebb03d4efdb6244860151c7781b45d32cf3112b6db0d69779c8881fc21671b2170f8157b2744972e66e7eca300123a73?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57320daec22580e8a824c3c8561a1c8a5ff1a8e77fc4c95e0b30644ac49f91192cab11c938b036d9948b63784edc52347d?inline=true`
+[View all 22 images in article →](https://help.zoho.com/portal/en/kb/crm/translations)
+
+**[FAQs: Translation in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/faqs-translation-in-zoho-crm)** — 10 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57a6003b93d731baa3dc3827e26547344a49736fc0decc7615a2e4197f0ae7def1ef00e7f23563a402ed2cf89e58d3c453?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5746be778694cdf4f743e7ba4b7d62d026328bc8ab094e80a2a0ef3a55452f8e9c99cb96ee770e49f7c261c1c18d9e64d5?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5734dbfc8a83cf84c4a7e8cb27ae718844b31c3db8466474acab60cf008820edc0f34a4280e19c4de6e6de15b7815bed5a?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b578be5c097234970d8c1ff536850078f2f14193a51433593ca11ff7197ea20a2935f25484ac65119b2f8de38a63e663e83?inline=true`
+[View all 10 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-translation-in-zoho-crm)
+
+**[Slack](https://help.zoho.com/portal/en/kb/crm/slack-crm-integration)** — 5 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e68532f4dc9c2a35ab1a71bf4ed472259ecc66a9eeb45db468481f394ab60609e319e4fb065edc4a02bf833f44cd6450?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57772cbae673058f9f37a65262a7544e20527591978a8ded67e4fc99f1d97087c4336ae3d93508db7ea9730dad705e1ffe?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e9ed262b4e4fbfc25230518fc83a8c361ee61a9185b242eb3d02da6bf450e07cc70afe1da8c3e04e8076897c7af5061b?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57c909d7ce6e4a645c592ed2c9575b7b7f76600dca6763d8793552dd1ac15c8eda7271668532a50c2de7132afb359f4055?inline=true`
+[View all 5 images in article →](https://help.zoho.com/portal/en/kb/crm/slack-crm-integration)
+
+**[Manage Business Hours](https://help.zoho.com/portal/en/kb/crm/business-hours)** — 5 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571b6bce3da092086e8caab2f5c2131796871ff65c3ffb75d897cd966f8b5fc71004302fdfe2e7c1527ef42dbfeb795795?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5766c360f81f9b6d2495598f3316e2f0f6addf0e4d12d5a0b8778b0c40aacf64b0fb507dd7d3e36aeb8ff3974f2f12eba5?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579262b3901d99d44fe56bc1207bdfd9e1a9a3fd372a7bc5bab3f73b2230e36f820186b8f109ab747e820ff36beee65f26?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5766d34fd3986f600f185fb3a24cd47a1aa3b1d7bc31a61164d3b130148fba1dc7224ed5b5e2f25d9495bc237ade0d23b1?inline=true`
+[View all 5 images in article →](https://help.zoho.com/portal/en/kb/crm/business-hours)
+
+**[FAQs: Business Hours in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/faqs-business-hours-in-zoho-crm)** — 5 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57db501ce46165f3127c134bc04f2a00d19b6fe0a43f3668ac84e469f20e972a026358ecfc8088b8102aa470c3dcf55874?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b577057be46f53c854ad19d57d48a6bdf933ef90f38c925fb8071ba8b804c9d5f26fc97c5c72ddffe017ffca3eab7974872?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57158109fac8afeb50907b9eb291215515b60d5257f59a7389fa41faf68e97159bca1d4803820c15b7c64e43a8e1d8caa6?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b577fcc90c328d3b8cb845d55c37811f4abb8faceb734286c6cb27143d88e577583a0c74cf453a3405672078742af0f7ca3?inline=true`
+[View all 5 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-business-hours-in-zoho-crm)
+

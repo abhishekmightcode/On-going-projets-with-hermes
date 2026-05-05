@@ -348,3 +348,55 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **8 KB articles** with **48 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [FAQs: Assignment](https://help.zoho.com/portal/en/kb/crm/faqs-assignment) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-assignment) |
+| 2 | [Assignment Threshold](https://help.zoho.com/portal/en/kb/crm/assignment-threshold) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/assignment-threshold) |
+| 3 | [Assigning Record Owner](https://help.zoho.com/portal/en/kb/crm/assigning-record-owner) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/assigning-record-owner) |
+| 4 | [Decision Guide for Territory Management](https://help.zoho.com/portal/en/kb/crm/territory-decision-management) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/territory-decision-management) |
+| 5 | [Assignment Threshold in Zoho CRM iOS](https://help.zoho.com/portal/en/kb/crm/assignment-threshold-in-zoho-crm-ios) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/assignment-threshold-in-zoho-crm-ios) |
+| 6 | [Assignment threshold in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/assignment-threshold-in-zoho-crm-android-app) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/assignment-threshold-in-zoho-crm-android-app) |
+| 7 | [Assigning Territories](https://help.zoho.com/portal/en/kb/crm/assign-territories) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/assign-territories) |
+| 8 | [Territory Management - An Overview](https://help.zoho.com/portal/en/kb/crm/territory-management) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/territory-management) |
+
+### Sample Image URLs (from top articles)
+**[FAQs: Assignment](https://help.zoho.com/portal/en/kb/crm/faqs-assignment)** — 14 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b575842f6a351fd51b658ce3c065e4b76a53c13b661e6b2e32dd1b11288c592f67a17c8c7d22cf961cf42e9e8df74355677?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b576da7958d3618ccb2b7619561b77b67c888ff1b24b7df7e995b26085099e60de7e2b4dee379c5c9732591c07826bcee3e?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579f441529f3cda40f4f91f6c9334e4c9d652c0aad7fcc899e2fcfaac654c814b3f27af9331d615189a34a0de682f2089a?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574751fe1b73343e465b22f248a656be5ce0943c63ff88a49716684ad0174bae20fecc63572013a69ddc5d19f11409235e?inline=true`
+[View all 14 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-assignment)
+
+**[Assignment Threshold](https://help.zoho.com/portal/en/kb/crm/assignment-threshold)** — 9 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574a5e629d8e7600415bfe7ac94fedd9e4b55b65782def65746c8c148eb1e128d36eaff74998227529dbfeed245705f28b?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57edf0df16dc8e9e65048f67626800e8c4fe7cef25352d3d06c86f3ea20d1bab153e6718eb6d788bf47e82c98f0041cb53?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f902383093875a3e35335297e0abfebdb57ac54ae00ceb0605c2f7188da8cc22c97aed75288657edba0f0b1da91b08a0?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f089d691127a61c0a8a2273976049f6fcf13c87ada51d34d70c163aff27120b53bde964a27fdd507066ecde304ad659f?inline=true`
+[View all 9 images in article →](https://help.zoho.com/portal/en/kb/crm/assignment-threshold)
+
+**[Assigning Record Owner](https://help.zoho.com/portal/en/kb/crm/assigning-record-owner)** — 6 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57676e8e7e07c8b665db83e1564e1ef5ba9efb55db00f66961c69ab49912ba21d55ed012676e1ad2c68963b5c66d94ac27?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57670bc7d23fbfcee6f2ba8c53df7121427f9e651151ce485c502878ab8c90a7cc1c41c180b38615fc4051784eafe2b9db?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574cd1a6504664e7654998d640ff2dbf882213c627994270b88fd9bf15eec2365e7015ade669d3acff2603bf5b1fe7a23a?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571826c1ed739df0d69d55e24dcab71645d7146d6e9517abf4d888df0f85800f5353f8b668e3bab2d4f861d2dcbc17ad15?inline=true`
+[View all 6 images in article →](https://help.zoho.com/portal/en/kb/crm/assigning-record-owner)
+
+**[Decision Guide for Territory Management](https://help.zoho.com/portal/en/kb/crm/territory-decision-management)** — 5 images
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqz8f65ab5590a848178acef6764df8e901`
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqze121b1bd9c5d4e38b40be35e892d72d0`
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqz098d74bdc38041e297acf1040a4faf83`
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqzcb5221a124434ee1ad36143d1903d5cd`
+[View all 5 images in article →](https://help.zoho.com/portal/en/kb/crm/territory-decision-management)
+
+**[Assignment Threshold in Zoho CRM iOS](https://help.zoho.com/portal/en/kb/crm/assignment-threshold-in-zoho-crm-ios)** — 5 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5730e7525d7e44f4498cae6e2ee5992ed30f702b4dcdd61b2d52fa44e26df2c951f2b27a29cc7c03fc642d9b857f0bc8cd?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b572aa4741348fd83c74421480a35b2a040db7460a2a147c4687e5cdbd22481192b24134e564aa1d8d31c62d4b958f8ea12?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5751d1f49c77e4c411b242424b753e7ce4e68ba4d611a930de87d7d51fc182769aff41541874b53f329a2f4314c506bef8?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57dd5c96d5d212eef2a5fdb6695e4ededfa6fd98a8fcc2b29231ac9212ddc3097812854f2cfb5977d1e24c67c293cf257e?inline=true`
+[View all 5 images in article →](https://help.zoho.com/portal/en/kb/crm/assignment-threshold-in-zoho-crm-ios)
+

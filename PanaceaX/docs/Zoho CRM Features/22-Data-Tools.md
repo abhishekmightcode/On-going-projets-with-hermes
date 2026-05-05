@@ -353,3 +353,74 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **27 KB articles** with **324 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [FAQs: Data Migration](https://help.zoho.com/portal/en/kb/crm/faqs-data-migration) | 73 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-data-migration) |
+| 2 | [Requesting Data Backup](https://help.zoho.com/portal/en/kb/crm/requesting-data-backup) | 29 | [View Article](https://help.zoho.com/portal/en/kb/crm/requesting-data-backup) |
+| 3 | [FAQs: Exporting Data from Zoho CRM](https://help.zoho.com/portal/en/kb/crm/faqs-exporting-data-from-zoho-crm) | 18 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-exporting-data-from-zoho-crm) |
+| 4 | [Export CRM Data](https://help.zoho.com/portal/en/kb/crm/export-crm-data) | 17 | [View Article](https://help.zoho.com/portal/en/kb/crm/export-crm-data) |
+| 5 | [Troubleshooting Data Import and Export](https://help.zoho.com/portal/en/kb/crm/troubleshooting-data-import-export) | 15 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-data-import-export) |
+| 6 | [Data Migration: An Introduction](https://help.zoho.com/portal/en/kb/crm/data-migration-overview) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/data-migration-overview) |
+| 7 | [Import Usage Data to CRM via DataPrep](https://help.zoho.com/portal/en/kb/crm/import-usage-data-to-crm-via-dataprep) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/import-usage-data-to-crm-via-dataprep) |
+| 8 | [Adding, Importing, Modifying, and Re-inviting Users](https://help.zoho.com/portal/en/kb/crm/add-import-modify-re-invite-users) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/add-import-modify-re-invite-users) |
+| 9 | [Company Data Enrichment](https://help.zoho.com/portal/en/kb/crm/zia-data-enrichment) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/zia-data-enrichment) |
+| 10 | [FAQs: Import](https://help.zoho.com/portal/en/kb/crm/faqs-import) | 13 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-import) |
+| 11 | [Importing Data to Zoho CRM](https://help.zoho.com/portal/en/kb/crm/import-data) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/import-data) |
+| 12 | [CRM file storage migration guide](https://help.zoho.com/portal/en/kb/crm/crm-file-storage-migration-guide) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/crm-file-storage-migration-guide) |
+| 13 | [People Data Enrichment - WebAmigo](https://help.zoho.com/portal/en/kb/crm/people-data-enrichment-webamigo) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/people-data-enrichment-webamigo) |
+| 14 | [De-duplicate records (Auto-merge duplicates)](https://help.zoho.com/portal/en/kb/crm/auto-merge-duplicates) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/auto-merge-duplicates) |
+| 15 | [Exported language File](https://help.zoho.com/portal/en/kb/crm/translation-file) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/translation-file) |
+| 16 | [FAQs: Data Enrichment](https://help.zoho.com/portal/en/kb/crm/faqs-data-enrichment) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-data-enrichment) |
+| 17 | [Troubleshooting Data Backup](https://help.zoho.com/portal/en/kb/crm/troubleshooting-data-backup) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-data-backup) |
+| 18 | [Troubleshooting Data Storage](https://help.zoho.com/portal/en/kb/crm/troubleshooting-data-storage) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-data-storage) |
+| 19 | [Data Subject Rights](https://help.zoho.com/portal/en/kb/crm/data-subject-rights) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/data-subject-rights) |
+| 20 | [Checking Duplicate Records in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/check-duplicate-records) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/check-duplicate-records) |
+| 21 | [Merging Duplicate Records](https://help.zoho.com/portal/en/kb/crm/merge-duplicate-record) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/merge-duplicate-record) |
+| 22 | [Data Privacy](https://help.zoho.com/portal/en/kb/crm/data-privacy) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/data-privacy) |
+| 23 | [Manage Data Storage Space](https://help.zoho.com/portal/en/kb/crm/manage-data-storage) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/manage-data-storage) |
+| 24 | [Viewing Import History](https://help.zoho.com/portal/en/kb/crm/view-import-history) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/view-import-history) |
+| 25 | [Duplicate Image Detection](https://help.zoho.com/portal/en/kb/crm/duplicate-image-detection) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/duplicate-image-detection) |
+| 26 | [Data Encryption in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/data-encryption-in-zohocrm) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/data-encryption-in-zohocrm) |
+| 27 | [Pushing Data to Google Ads](https://help.zoho.com/portal/en/kb/crm/push-data-to-google-ads) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/push-data-to-google-ads) |
+
+### Sample Image URLs (from top articles)
+**[FAQs: Data Migration](https://help.zoho.com/portal/en/kb/crm/faqs-data-migration)** — 73 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57c1d1645d01a6925dd6ae978aba0955c4c62b74acb842a727b0a1d74c3b394b6bd5364f4e12c4c91142af66ad2f82a13f?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b576ad69264befdbd9c25eacce8ea51e9d20b3f88521200f65b4d99926c17033b80aecf3840b094251230ab9884f32d4eea?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b575bd4590809f4898124f607d7c0d3578bd69ebb25f43c6954ec79de4f46151a45de07ae7af6db32024d77e1ed87bfe3ef?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57b4ae0a9561b02a7b45e0e6ea8269fd0636313f92fc3109e88b18dbad4cad2ee09a27c8a53c34ab6aeb9f14664d1cd69d?inline=true`
+[View all 73 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-data-migration)
+
+**[Requesting Data Backup](https://help.zoho.com/portal/en/kb/crm/requesting-data-backup)** — 29 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ffc6ec5a5122754e3e6b78d5428a08966320df84922959849da24a7990ddfe4314e05790b0c70d8998f8bea135e05ae0?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57a930d9eca1cfbd26a9a0d88ace271404e514b756fb522cd16d938cf54b02854f777546e70bfae9ed9322bc51fd47f0d4?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57a9aa25f8439f5d8bb062fbf071f907d53e0f66c55a99c9b069e46cee6a94c9e55ebffbe14b346456f2c55e4332b562a3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57df1a1ad3443a496926f87938a961d5dd6e6b7f79ca4f7246af5b36e2f2c09a699eb65a81a565cc8ac685f1b4820fc1ea?inline=true`
+[View all 29 images in article →](https://help.zoho.com/portal/en/kb/crm/requesting-data-backup)
+
+**[FAQs: Exporting Data from Zoho CRM](https://help.zoho.com/portal/en/kb/crm/faqs-exporting-data-from-zoho-crm)** — 18 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b578bbe5621b8caab6ed22c0df73f472a1799ae596a033f85281645c04ed13faff1e9d7cfb7989e1b7ec5a73079de6d3cf3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57904ebb81b3666802ee5dd58f90e6d2eeb2ca7c75b2a655bdda9c519a89c0a0cda0d6637f92bed0889346bedcb808f353?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57589702a9ea5162a072878314144f0a2c79a591b5a95d0f07ed179d8fe45652245a4f0b2dd893ffa4445bf7c25598d521?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57bae73e82a8a111d4d7df15dfda612fff93e4069b419fcf782fffc977a90c79f407a0f6966e7c6f9b0d18c37c5cc30ead?inline=true`
+[View all 18 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-exporting-data-from-zoho-crm)
+
+**[Export CRM Data](https://help.zoho.com/portal/en/kb/crm/export-crm-data)** — 17 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571a7780e47d17facd369f19a81cc60a3221bc250900d4ea40c58904254ee7f4aa417dfb07cb220c4bfc38a889c078239a?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57051cdcb0c8293d85194143e68633f846e3b3737f2d43cdc794bc0021c18bd7c0354aca72c5019d55cffe34b49f5a085a?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn69ec396b4b318e41402416cf55e73fcc6188208fb0122da23f28dd8ad533b4e90c0ae724e25dc3e576753bbd4edefaffbc0f24f768597ce40551e9de1811e8f7?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5770cdd7f5a8600938ffdd36f5b7fa03e16cf6946bb4e0c47fb023543fa630915be65099dafdc1e43afff44b8f3d8a0254?inline=true`
+[View all 17 images in article →](https://help.zoho.com/portal/en/kb/crm/export-crm-data)
+
+**[Troubleshooting Data Import and Export](https://help.zoho.com/portal/en/kb/crm/troubleshooting-data-import-export)** — 15 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ac6b52c3c99dbb6a25d2639bc2ce3e9e0d1a3849016aba039017f033fd11d0860bf67e9cd5c22382ad54cc227cfd73c5?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5791a4fe77bad96ed7f09d5a005cb6af39ba0b832026239e40b2a90f33789fbdd82481bb85c9640605a6a6350f736f2cec?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b576ce7eb9f412b48dc09409338855a8b20e9f8279064732b06c325e39cb0598d165e1f468f902deaef77a27afedc873019?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57624a2758d812a0ea08edfd3d2214895b879a76a447bc81fc9b2d40fbf16a545e59cb4eedb4982ddcceb01a81ce1e93a3?inline=true`
+[View all 15 images in article →](https://help.zoho.com/portal/en/kb/crm/troubleshooting-data-import-export)
+

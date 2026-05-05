@@ -355,3 +355,58 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **11 KB articles** with **62 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Stage component](https://help.zoho.com/portal/en/kb/crm/stage-component) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/stage-component) |
+| 2 | [Creating Deals](https://help.zoho.com/portal/en/kb/crm/create-deals) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-deals) |
+| 3 | [Email Association With Deals](https://help.zoho.com/portal/en/kb/crm/email-association-with-deal) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/email-association-with-deal) |
+| 4 | [Enhance Sales Collaboration with Team Selling and Deal Split](https://help.zoho.com/portal/en/kb/crm/team-selling-and-deal-split) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/team-selling-and-deal-split) |
+| 5 | [Troubleshooting Zoho Backstage integration with Zoho CRM](https://help.zoho.com/portal/en/kb/crm/troubleshooting-zoho-backstage-integration-with-zoho-crm) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-zoho-backstage-integration-with-zoho-crm) |
+| 6 | [Troubleshooting Sales Pipelines](https://help.zoho.com/portal/en/kb/crm/troubleshooting-pipelines) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-pipelines) |
+| 7 | [Standardize naming convention for deals with auto-creation of deal names](https://help.zoho.com/portal/en/kb/crm/automatically-create-a-deal-name) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/automatically-create-a-deal-name) |
+| 8 | [Idle Deal Alert](https://help.zoho.com/portal/en/kb/crm/idle-deal-alert-crm-integration) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/idle-deal-alert-crm-integration) |
+| 9 | [FAQs: Deals](https://help.zoho.com/portal/en/kb/crm/faqs-deals) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-deals) |
+| 10 | [Multiple Sales Pipeline](https://help.zoho.com/portal/en/kb/crm/multiple-sales-pipeline) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/multiple-sales-pipeline) |
+| 11 | [Zoho Backstage Integration](https://help.zoho.com/portal/en/kb/crm/zoho-backstage) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-backstage) |
+
+### Sample Image URLs (from top articles)
+**[Stage component](https://help.zoho.com/portal/en/kb/crm/stage-component)** — 12 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571f0a33e460c0bfe03ec0abd11d6f6e0392a8ca47469834c2295558d83f28c035b07605c5a3d4990adc0a95dcfc7ce299?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b578fcf42a6240ea008c8726af8b01227302e517acbba24fb90224cbec1c3e201c63b59988690aeac685031576f2d175dd7?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f16148951ff2ab8c0af6be98ff9cdac89b0fa2466bbc767ac2e2cb4f21c311e1fe46702aa378089b4dedfa0a53333cb6?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5765547ab32a8b02b8e132be356b4690ee2500721eeeed197935ad9813342feaf6404be1e234fb05e3faacdde10a4dd768?inline=true`
+[View all 12 images in article →](https://help.zoho.com/portal/en/kb/crm/stage-component)
+
+**[Creating Deals](https://help.zoho.com/portal/en/kb/crm/create-deals)** — 10 images
+- `https://www.zoho.com/crm/help/img/deals-list-view.png`
+- `https://www.zoho.com/crm/help/img/deals-stage-view.png`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57dc2eaa8344016f614a77cda0653d18352de7fc2c96ed329f47a42b1f18b06ff44aa67e6f165d461c1829ebd52f22afce?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b570e0c19b0e91b70d26a08f65fdd63d6f9e26380c5621ef16d7342a05bdb010db63e4e6a7377d37f99b70625182fcc589b?inline=true`
+[View all 10 images in article →](https://help.zoho.com/portal/en/kb/crm/create-deals)
+
+**[Email Association With Deals](https://help.zoho.com/portal/en/kb/crm/email-association-with-deal)** — 8 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574cfca4f99b6cd1708ba2704f5b2591baac07cf8a97f09623db35e7e2f27aa3ec88cef8d7a8dee36e36991555752aa507?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57a6f6ef9ea58b9aa2d6686636cce0645172adb7a116093cb9efde7d3f709e343eda922204f751884c6d07396548a1dfc3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ee38ae09871db29a0ba53f68ccefccdffd9f0e1a49ea9f56c57e76ccd1286b219f60a8ceb29b141d4da62711b1721f09?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57bd5ab58ca2d4326fdfb2af00c615f16ddf2e78d667b719d23500792936055c3c20139a80787347a5826ca682997bd038?inline=true`
+[View all 8 images in article →](https://help.zoho.com/portal/en/kb/crm/email-association-with-deal)
+
+**[Enhance Sales Collaboration with Team Selling and Deal Split](https://help.zoho.com/portal/en/kb/crm/team-selling-and-deal-split)** — 7 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57db738ef60236bf4e993e58a2fc1e54809603fc736007cffb7d134eaa4e9631a14d4cfdf83f8e74d344fb7519616f6ce5?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ef22f75995da1912cd8ec9bf9774ce6d94929f7ed207580cbccb2dbfc7ce0896303adbb1085fd2ecde1c087ce1ba1806?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f9d56d68e9a813519a088901743ac3364e398eb36da35fe26e8d42c375ed3b1ae46efe0c47ca5cc6c2ab92fe36b8f086?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b570ad778622c09214f9628c286b3f5c7b4a16d47201490e2464d2b5003a6ada24a22a6f610f6613c6ab2def0676ba8620d?inline=true`
+[View all 7 images in article →](https://help.zoho.com/portal/en/kb/crm/team-selling-and-deal-split)
+
+**[Troubleshooting Zoho Backstage integration with Zoho CRM](https://help.zoho.com/portal/en/kb/crm/troubleshooting-zoho-backstage-integration-with-zoho-crm)** — 6 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ae24bff6736e2f98d1f5130751154b99f4f6e4c2498f45b58b69e0dced92574b37a4fcdd1ca5333eabc98eab3d7132ec?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579b0b6a424bbf38afeb643c2fa5ebb67c1308f597645badc0ce932bf27bbfef4cc64d37e461f490b7542b5b3d21a80a07?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b570759c5baff126740c49a8dfd0352cc31f6f1bacbfd4ac8407451b6f981cd103180a3d685a3e8388af0ee0c5f3ac8231c?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b578a63867ce6efe6157ccb22388abcc62a774a9c6b66cc766e5901097a2975400e9016c1ad8c64a5a8fcdb360b07fb5397?inline=true`
+[View all 6 images in article →](https://help.zoho.com/portal/en/kb/crm/troubleshooting-zoho-backstage-integration-with-zoho-crm)
+

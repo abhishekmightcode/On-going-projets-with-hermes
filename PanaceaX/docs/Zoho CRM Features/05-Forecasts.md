@@ -350,3 +350,28 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **2 KB articles** with **106 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Creating and working with forecasts](https://help.zoho.com/portal/en/kb/crm/creating-and-working-with-forecasts) | 95 | [View Article](https://help.zoho.com/portal/en/kb/crm/creating-and-working-with-forecasts) |
+| 2 | [Voice based forecast analysis](https://help.zoho.com/portal/en/kb/crm/voice-based-forecast-analysis) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/voice-based-forecast-analysis) |
+
+### Sample Image URLs (from top articles)
+**[Creating and working with forecasts](https://help.zoho.com/portal/en/kb/crm/creating-and-working-with-forecasts)** — 95 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57a7924e51c607eac5e30c5ad2c5fb6e10e7edf31a462db08b6e70faf1f458e88ee9e2ae3effacce108511e54863004edd?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e25e542af0857dca39060a64b48e9b722144717ceb8c86c31fcb7283c27290b3361734abcba20c0ada09d65d5177cbe8?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57cb2bbb95de8048d0ca13ec7434830a311ec8e58d9583cf549fa96951dcbb08bcccaaf771b3dc590cf2fe87c9567e1437?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574502b8c25e0736d54dae229dede59074c81dff53856aa5fec82a445d374fb0dc50e92c38131ee1fe46c4b93d5749df81?inline=true`
+[View all 95 images in article →](https://help.zoho.com/portal/en/kb/crm/creating-and-working-with-forecasts)
+
+**[Voice based forecast analysis](https://help.zoho.com/portal/en/kb/crm/voice-based-forecast-analysis)** — 11 images
+- `https://desk.zoho.in/galleryDocuments/edbsnc7c815f5d7ff716ffc06844cec7a514ad6a20981d6225af722dc2ff055014869f09711940b94f6727a74cbb55908aa41f5c693ad588b59926de87cc1f47229a3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57876ed6d8b5463706f8701052e268b4d0a1de3f6e24f53514b6da2c0bfede9349e2f55a3976bea27db1445c40c7efeb52?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5745111860f95d911e26ab71711e9ad42314f13d808cf0881aff172ec894ac740fa175dd8e14e4db1de8ef319ccbcc8dc0?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57b4541150372d7ebec48a69e83357b8a9d0dcea96204e9c0ef7082f0f1c1c47501eae7cc4ed132ff53e530f8f719aabca?inline=true`
+[View all 11 images in article →](https://help.zoho.com/portal/en/kb/crm/voice-based-forecast-analysis)
+

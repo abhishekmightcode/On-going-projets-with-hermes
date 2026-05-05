@@ -353,3 +353,59 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **12 KB articles** with **230 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Setting up portals and inviting users](https://help.zoho.com/portal/en/kb/crm/setting-up-portal) | 81 | [View Article](https://help.zoho.com/portal/en/kb/crm/setting-up-portal) |
+| 2 | [CRM App Settings](https://help.zoho.com/portal/en/kb/crm/zoho-crm-android-app-settings) | 34 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-crm-android-app-settings) |
+| 3 | [Setting up ABM for Zoho CRM](https://help.zoho.com/portal/en/kb/crm/setting-up-abm-for-zohocrm) | 24 | [View Article](https://help.zoho.com/portal/en/kb/crm/setting-up-abm-for-zohocrm) |
+| 4 | [Troubleshooting IMAP & POP3 Configuration](https://help.zoho.com/portal/en/kb/crm/troubleshooting-imap-pop3-configuration) | 16 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-imap-pop3-configuration) |
+| 5 | [Record Locking: Configuration and Usage](https://help.zoho.com/portal/en/kb/crm/record-locking-configuration-and-usage) | 15 | [View Article](https://help.zoho.com/portal/en/kb/crm/record-locking-configuration-and-usage) |
+| 6 | [Setting up Social Tab](https://help.zoho.com/portal/en/kb/crm/set-up-social-tab) | 15 | [View Article](https://help.zoho.com/portal/en/kb/crm/set-up-social-tab) |
+| 7 | [Setting up an Unsubscribe Link](https://help.zoho.com/portal/en/kb/crm/set-unsubscribe-link) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/set-unsubscribe-link) |
+| 8 | [Parallel and Multiple Transitions: Configuration and Usage](https://help.zoho.com/portal/en/kb/crm/parallel-and-multiple-transitions-configuration-and-usage) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/parallel-and-multiple-transitions-configuration-and-usage) |
+| 9 | [Manage Company Settings](https://help.zoho.com/portal/en/kb/crm/manage-company-details) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/manage-company-details) |
+| 10 | [Setting up Agents](https://help.zoho.com/portal/en/kb/crm/setting-up-agents-26-4-2026) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/setting-up-agents-26-4-2026) |
+| 11 | [Setting up Zoho Writer Add-on](https://help.zoho.com/portal/en/kb/crm/zoho-writer-crm-integration) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-writer-crm-integration) |
+| 12 | [FAQs: Users settings](https://help.zoho.com/portal/en/kb/crm/faqs-on-users-settings) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-on-users-settings) |
+
+### Sample Image URLs (from top articles)
+**[Setting up portals and inviting users](https://help.zoho.com/portal/en/kb/crm/setting-up-portal)** — 81 images
+- `https://desk.zoho.in/galleryDocuments/edbsn2330d0f393f46f10b195036d376f24bd2e14553ae54ba65607c3e19154c57c14f761ef8e4d5d363f344dad67a958c65ad2bac45d70402589669ae2b0fbe7afde?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5765849b481a728be44963c831375fafcceaf01a2b1fbea8942d69c9b4a710e81f2083b1621965fd538efb59295b821d10?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57461c0bc8a3ba5a0c6db6e3ecc8f93d822a467196fc68709cd829e1d5df2bcfd4e3c11ed51905241b4c5eb963d7cfafb3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5755e8097eb8f9e0f836f94ae2a13165f1cfab1a303258509a163b892ee0cab884f456d5add9da7e4bd3f1e1ce7eeba792?inline=true`
+[View all 81 images in article →](https://help.zoho.com/portal/en/kb/crm/setting-up-portal)
+
+**[CRM App Settings](https://help.zoho.com/portal/en/kb/crm/zoho-crm-android-app-settings)** — 34 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b576b51343972bca12eb5f68b9a7c65bee6cbbae307fbb7aed0f4e985f59a8cefc20edb836b2fc4138ac26186602dad292d?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsnf66fa226dc4e5c6c3dab7d22d56973b8223514303e6957d89aaf11013a754181e0338054519e8eb397f48a208461eb68316fa863c170b490ea4eccf843d25049?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsnf66fa226dc4e5c6c3dab7d22d56973b84e88100825c648657794e570ea6a866e0d444d8e382fae2d0f6be8c494fa7d6cecae11577ad0d3e23c307cf1d41b3142?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d08e84a544182915c3a8dc78e5206b865f7375afc628b0ac347c245409ec74dff92c17509f16cbca188035714c407873?inline=true`
+[View all 34 images in article →](https://help.zoho.com/portal/en/kb/crm/zoho-crm-android-app-settings)
+
+**[Setting up ABM for Zoho CRM](https://help.zoho.com/portal/en/kb/crm/setting-up-abm-for-zohocrm)** — 24 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57fc47e71a44fb4c3c098d6fc6a931e701838e897532768aa4441dc15ec89823e80c3f6e707cb687f63b059206dc1b6d42?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5728870195083a2e353eb592bd15b18be2a876572bfdc8908a8d90e6f2f4fa96764c47309f6042f20f8afa555d90f9a87b?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5770046b444ce76687a90f680128e536de309114ba5595a239ccee429301977db10ca0b9ad510edc786b66cc6e221fb6a6?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5765e9a7f0ac6fc92cce4d9e35263ab02d3acc323f8a992ddb4a1dfd8191dbc224237bc74ffa0f00513b45f01f347f4fa3?inline=true`
+[View all 24 images in article →](https://help.zoho.com/portal/en/kb/crm/setting-up-abm-for-zohocrm)
+
+**[Troubleshooting IMAP & POP3 Configuration](https://help.zoho.com/portal/en/kb/crm/troubleshooting-imap-pop3-configuration)** — 16 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571a4ca1cf6f6bea4f5cfd314af69adb0122d9ea4d224bd283ae6d144ef37fc3fd90fb0e347c1f236dbe3dcf821fc59779?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574acf271647a7cdcbf4a00c30a79efe85dfde717e077e57070be9ec7d1cf3764efea92d2cebd79c7452f000e51f81c0d3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57232fcda5d67152aaef69a948fa00cac244bd1ab39c88d3c90066e20349e365d643ce1df2f3c7bb60278dd3636fafb0d0?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571203120eba2bfa47c92442ec674e63495d3bd5d1cbfe6c81d2b021aee633a984f6b2a2be2ea0bf33e0d5cfab55ce1efa?inline=true`
+[View all 16 images in article →](https://help.zoho.com/portal/en/kb/crm/troubleshooting-imap-pop3-configuration)
+
+**[Record Locking: Configuration and Usage](https://help.zoho.com/portal/en/kb/crm/record-locking-configuration-and-usage)** — 15 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5763aba5c9edfe8898c81fc220d625a21147d629a1207eb3107093f18e142414d8c136f297c65f81b70e8c2406b2c9d8b1?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d668eb8e5d27f21e80ece32feaf14a1bc2f61ace0047e61cbba2bd03d1b55c6c11e753f361c32427ab2ebc816f8e43b0?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b576791ed9aaeaf4bbc75eed695ab73d846d99659df979968a6e40e117b0ee5898a1f4226fc10fe8b4fb3257c605542b540?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571bff611101810437ca97b133dbb01c42565958b00eb503123c902c891a3bfbb325c0c92f2653c9cbc3fc497eb5ac2a2d?inline=true`
+[View all 15 images in article →](https://help.zoho.com/portal/en/kb/crm/record-locking-configuration-and-usage)
+

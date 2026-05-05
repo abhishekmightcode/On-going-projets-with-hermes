@@ -353,3 +353,76 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **29 KB articles** with **304 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Using Zoho Finance Suite Integration](https://help.zoho.com/portal/en/kb/crm/use-zoho-finance-suite-crm-integration) | 29 | [View Article](https://help.zoho.com/portal/en/kb/crm/use-zoho-finance-suite-crm-integration) |
+| 2 | [Working with Zoho Forms Integration](https://help.zoho.com/portal/en/kb/crm/zoho-forms-crm-integration) | 24 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-forms-crm-integration) |
+| 3 | [Business messaging using WhatsApp for Business: Integration with Zoho CRM](https://help.zoho.com/portal/en/kb/crm/business-messaging-using-whatsapp-for-business-integration-with-zoho-crm) | 23 | [View Article](https://help.zoho.com/portal/en/kb/crm/business-messaging-using-whatsapp-for-business-integration-with-zoho-crm) |
+| 4 | [Setting up SalesIQ Integration](https://help.zoho.com/portal/en/kb/crm/zoho-salesiq-crm-integrations) | 23 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-salesiq-crm-integrations) |
+| 5 | [Setting up Zoho Webinar Integration](https://help.zoho.com/portal/en/kb/crm/zoho-webinar) | 21 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-webinar) |
+| 6 | [FAQs: Zoho CRM Integration with Zoho Projects](https://help.zoho.com/portal/en/kb/crm/faqs-zoho-crm-projects) | 17 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-zoho-crm-projects) |
+| 7 | [Working with Zoho Desk Integration](https://help.zoho.com/portal/en/kb/crm/zoho-desk-crm-integration) | 16 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-desk-crm-integration) |
+| 8 | [Avaya Cloud Office Integration](https://help.zoho.com/portal/en/kb/crm/avaya) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/avaya) |
+| 9 | [FAQs: Zoho CRM Integration with Other Apps](https://help.zoho.com/portal/en/kb/crm/faqs-integration-with-other-apps) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-integration-with-other-apps) |
+| 10 | [Configure Zoho Projects Integration](https://help.zoho.com/portal/en/kb/crm/configure-projects-crm-integration) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/configure-projects-crm-integration) |
+| 11 | [FAQs: Zoho CRM Integration with Zoho Desk](https://help.zoho.com/portal/en/kb/crm/zoho-crm-integration-zoho-desk) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-crm-integration-zoho-desk) |
+| 12 | [Setting up and Configuring Zoho Finance Suite Integration](https://help.zoho.com/portal/en/kb/crm/zoho-finance-suite-crm-integration) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-finance-suite-crm-integration) |
+| 13 | [FAQs: Zoho CRM Integration with Zoho Bookings](https://help.zoho.com/portal/en/kb/crm/is-it-possible-to-book-appointments-in-zoho-crm-using-zoho-bookings) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/is-it-possible-to-book-appointments-in-zoho-crm-using-zoho-bookings) |
+| 14 | [Working with Zoho Projects Integration](https://help.zoho.com/portal/en/kb/crm/use-zoho-projects-crm-integration) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/use-zoho-projects-crm-integration) |
+| 15 | [Troubleshooting Zoho CRM integration with Zoho Desk](https://help.zoho.com/portal/en/kb/crm/troubleshooting-zoho-desk-integration-with-zoho-crm) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-zoho-desk-integration-with-zoho-crm) |
+| 16 | [Setting up Zoho Cliq Integration](https://help.zoho.com/portal/en/kb/crm/zoho-cliq-crm-integration) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-cliq-crm-integration) |
+| 17 | [Microsoft Teams integration](https://help.zoho.com/portal/en/kb/crm/teams-integration) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/teams-integration) |
+| 18 | [Webinar integration in Sandbox](https://help.zoho.com/portal/en/kb/crm/webinar-integration-in-sandbox) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/webinar-integration-in-sandbox) |
+| 19 | [Cisco Telephony Integration](https://help.zoho.com/portal/en/kb/crm/cisco-telephony-integration-beta-release) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/cisco-telephony-integration-beta-release) |
+| 20 | [Desk integration in sandbox](https://help.zoho.com/portal/en/kb/crm/desk-integration-in-sandbox) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/desk-integration-in-sandbox) |
+| 21 | [Survey integration in Sandbox](https://help.zoho.com/portal/en/kb/crm/survey-integration-in-sandbox) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/survey-integration-in-sandbox) |
+| 22 | [FAQs: Zoho CRM Integration with Zoho Survey](https://help.zoho.com/portal/en/kb/crm/faqs-zoho-crm-integration-with-zoho-survey) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-zoho-crm-integration-with-zoho-survey) |
+| 23 | [Integrate with RingCentral](https://help.zoho.com/portal/en/kb/crm/integrate-with-ringcentral-29-8-2024) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/integrate-with-ringcentral-29-8-2024) |
+| 24 | [FAQs: Zoho CRM Integration with Zoho SalesIQ](https://help.zoho.com/portal/en/kb/crm/faqs-crm-integration-with-sales-iq) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-crm-integration-with-sales-iq) |
+| 25 | [Social integration in sandbox](https://help.zoho.com/portal/en/kb/crm/social-integration-in-sandbox) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/social-integration-in-sandbox) |
+| 26 | [Notification SMS integration with Zoho CRM - An Overview](https://help.zoho.com/portal/en/kb/crm/notification-sms-integration-with-zoho-crm) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/notification-sms-integration-with-zoho-crm) |
+| 27 | [Google chat integration](https://help.zoho.com/portal/en/kb/crm/google-chat-integration) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/google-chat-integration) |
+| 28 | [Setting up Zoho Creator Integration](https://help.zoho.com/portal/en/kb/crm/set-up-creator-crm-integration) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/set-up-creator-crm-integration) |
+| 29 | [Zoho Directory integration with CRM](https://help.zoho.com/portal/en/kb/crm/zoho-directory-integration-with-crm) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-directory-integration-with-crm) |
+
+### Sample Image URLs (from top articles)
+**[Using Zoho Finance Suite Integration](https://help.zoho.com/portal/en/kb/crm/use-zoho-finance-suite-crm-integration)** — 29 images
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqzf07ce11005144c78b7aee98149bb7e06`
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqze574afd099794ab7a9903f7a44faaca7`
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqzd65f02c4031c4a90841a7ce9019b01ca`
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqz2c385061a95e49048761b970905d6413`
+[View all 29 images in article →](https://help.zoho.com/portal/en/kb/crm/use-zoho-finance-suite-crm-integration)
+
+**[Working with Zoho Forms Integration](https://help.zoho.com/portal/en/kb/crm/zoho-forms-crm-integration)** — 24 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b572405a4a87ee1220d1cfb6d824397549dc00a2ec9114e415f679a7a1ceb5ae046328fb81ee71bb0bb9c2b07ae0daf6a27?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d760de2134b87e4fe0bf4f83d6d7f07fbf5e29fffe63421464016e7e5fa756cfd6339bc1aec2222de2a0182a94fd2f33?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57efc61fbb69a8ffd4b3c8dc88596fb7c3e666432b545d46a779c70f12829528cf4df09e8a3b4d968e7c88a03597d91474?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579d35a5caecacccb8e269d73809d133e1cf5a71469b0bb4b9341936a567e542b2ffd47db3e96fb54a52d7095ff41293b4?inline=true`
+[View all 24 images in article →](https://help.zoho.com/portal/en/kb/crm/zoho-forms-crm-integration)
+
+**[Business messaging using WhatsApp for Business: Integration with Zoho CRM](https://help.zoho.com/portal/en/kb/crm/business-messaging-using-whatsapp-for-business-integration-with-zoho-crm)** — 23 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d4cd3259f0b88bc056ad0a028331df24d5796aa2bbac9219345dd0c1365e620a8c9f8ca4907092e2275746c5077a4dda?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5740f379bc0b15f9e633f260c7dc0d42ded2cd7f297e8680fce5fdb6c02c0e1afc877579a5a1b610880cb95d8b1793d291?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579d2e9eb64c646f99ab6eb347afaf094dc7181b57879cf79d109defb0f74c4f0b818c6bbec685164eb3de8a93ff3ec37b?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d1f7c9307eb6fea43649a9d0afdd8b3e80b584591b4ceac6d3db50101b5808203eb005196da6dd417b3cc120d6d5967a?inline=true`
+[View all 23 images in article →](https://help.zoho.com/portal/en/kb/crm/business-messaging-using-whatsapp-for-business-integration-with-zoho-crm)
+
+**[Setting up SalesIQ Integration](https://help.zoho.com/portal/en/kb/crm/zoho-salesiq-crm-integrations)** — 23 images
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqzbed8ffe607d9459088aaa49e68b18a97`
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqz659ac12949644ec78cab5437b344bc98`
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqz7bf97c3167bb497db75259c4ab7b72e8`
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqz17849bcd12534af695f9c11899afc7bd`
+[View all 23 images in article →](https://help.zoho.com/portal/en/kb/crm/zoho-salesiq-crm-integrations)
+
+**[Setting up Zoho Webinar Integration](https://help.zoho.com/portal/en/kb/crm/zoho-webinar)** — 21 images
+- `https://www.zohowebstatic.com/sites/default/files/crm/initial-steps.jpg`
+- `https://www.zohowebstatic.com/sites/default/files/crm/reminder-webinar.jpg`
+- `https://www.zohowebstatic.com/sites/default/files/crm/push-participants.jpg`
+- `https://www.zohowebstatic.com/sites/default/files/crm/member-status-dropdown.jpg`
+[View all 21 images in article →](https://help.zoho.com/portal/en/kb/crm/zoho-webinar)
+

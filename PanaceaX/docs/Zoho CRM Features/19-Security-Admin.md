@@ -353,3 +353,58 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **11 KB articles** with **84 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Microsoft Exchange - Administrator Guide](https://help.zoho.com/portal/en/kb/crm/microsoft-exchange-administrator-guide) | 23 | [View Article](https://help.zoho.com/portal/en/kb/crm/microsoft-exchange-administrator-guide) |
+| 2 | [Privacy and security settings in the Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/privacy-and-security-settings-in-the-zoho-crm-ios-app) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/privacy-and-security-settings-in-the-zoho-crm-ios-app) |
+| 3 | [Requester roles for coordination between teams](https://help.zoho.com/portal/en/kb/crm/requester-roles-for-coordination-between-teams) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/requester-roles-for-coordination-between-teams) |
+| 4 | [Admin Tools  for Configuration Management](https://help.zoho.com/portal/en/kb/crm/working-with-admin-tools) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-admin-tools) |
+| 5 | [Managing Roles](https://help.zoho.com/portal/en/kb/crm/role-management-introduction) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/role-management-introduction) |
+| 6 | [Security controls in Zoho CRM: An overview](https://help.zoho.com/portal/en/kb/crm/security-controls-in-zoho-crm-an-overview-26-4-2026) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/security-controls-in-zoho-crm-an-overview-26-4-2026) |
+| 7 | [Managing Profile Permissions](https://help.zoho.com/portal/en/kb/crm/manage-profile-permissions) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/manage-profile-permissions) |
+| 8 | [FAQ: Requester Roles in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/faq-requester-roles-in-zoho-crm) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/faq-requester-roles-in-zoho-crm) |
+| 9 | [FAQs: Roles and Profiles](https://help.zoho.com/portal/en/kb/crm/faqs-roles-and-profiles) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-roles-and-profiles) |
+| 10 | [How Zoho CRM Administration and Configuration Works for Sales Operations](https://help.zoho.com/portal/en/kb/crm/how-zoho-crm-administration-and-configuration-works-for-sales-operations) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/how-zoho-crm-administration-and-configuration-works-for-sales-operations) |
+| 11 | [Zoho CRM and Security: A partnership that forms the bedrock of our operations ](https://help.zoho.com/portal/en/kb/crm/zoho-crm-and-security-a-partnership-that-forms-the-bedrock-of-our-operations) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-crm-and-security-a-partnership-that-forms-the-bedrock-of-our-operations) |
+
+### Sample Image URLs (from top articles)
+**[Microsoft Exchange - Administrator Guide](https://help.zoho.com/portal/en/kb/crm/microsoft-exchange-administrator-guide)** — 23 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ca302664d4c90b6e8f058a38902d57457ec78b5ddbe3add411057485e0e66c856ddd24b92cf011e9a4ec95b0bc0831a0?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f41b74e6c0aab18c8a5adca3ff1fbe075c706bc32830140b1c3e9516bc7091043f8d7009075685f67b21d631d4cad329?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d984423a3b109110bd22cecf4846cdf99e7f213da624a0c2e1f80232d53f8f0b68a84c8251e7424e2c62f73cd7c0bc82?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579a1feeba4744c62e91e943a9e6b95a56148f990de8f137bacf5780c7974186f9082587175d7d42b0f6ba5098b9dba1ce?inline=true`
+[View all 23 images in article →](https://help.zoho.com/portal/en/kb/crm/microsoft-exchange-administrator-guide)
+
+**[Privacy and security settings in the Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/privacy-and-security-settings-in-the-zoho-crm-ios-app)** — 12 images
+- `https://desk.zoho.in/galleryDocuments/edbsn85f57436a088765ca37a2706066c3a942522f4a5498e98deca59b65793367cc853b940d89c1d7dfc692bbdd9afa481547c32a6755c4a47a9481dd53aecc4ecfb?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn85f57436a088765ca37a2706066c3a9422f417d8030e88ce1918504842fec9c6fa24d7392e29955231290fa5bc0d317237d6c3a7625a504830acdd89afa37c37?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn85f57436a088765ca37a2706066c3a940e32f8bb087dba1581e1a4816b7d996d2e466bef7cc60a8544d1b5be63347d43f09fa587cdd477c58dd678e21b1b02cd?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn85f57436a088765ca37a2706066c3a94e4e66fde670037dab615bdedfcb80e189c96b3684f844fa56e63be5e7e5c311c12f66a29d81c66ed8bccedd7cd6c238a?inline=true`
+[View all 12 images in article →](https://help.zoho.com/portal/en/kb/crm/privacy-and-security-settings-in-the-zoho-crm-ios-app)
+
+**[Requester roles for coordination between teams](https://help.zoho.com/portal/en/kb/crm/requester-roles-for-coordination-between-teams)** — 12 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57bf13adb15acc19ef048ceb61d969bb6be414e18e209a0c3a998b6a1264392d888688df7be66c7b714186dc0edb607a06?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5761d56c2192736d58cef311eaa5e9ded46599a44c6a9868a09e4b3d1160e84fc1dff6ca53d5e9674682543b30c5a8b950?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57b723ed7ca637d278f6b660de31431cc9c392ce2ac752f6d43bc771c3b35d1405021a641ea84ed1fa6f1791bce16034f1?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5784983048f61e326e6b978a59d0f2d11b8ee101b028cff4680f038d2b904b49d2c8a332a15f730fb10b4e9740c4edafb5?inline=true`
+[View all 12 images in article →](https://help.zoho.com/portal/en/kb/crm/requester-roles-for-coordination-between-teams)
+
+**[Admin Tools  for Configuration Management](https://help.zoho.com/portal/en/kb/crm/working-with-admin-tools)** — 9 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574e3f4f64fc20ea58cea903eb303411d661b1fde8e6f75aed5019aa9fb14c5453570e2e8a9e5af7c729a11ec7c346f222?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e1a7250ba89fcf2a811d088a76aa8bde243cf7591beca962671f45ae2617406f54fdee7ab2f523680e4b282344885608?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b573d3f2a62d3e8b9a95ffa5bf012249a885812a072ffb832893fd1170bf9043d8bd41ce4af209c630aa2d15d9a17b14b86?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f4b355aebea5e77c40b8344bab288ef4760677fa1e1007d2cbb68eede563a7329614b75e5e8443c3478d16c05aa581bf?inline=true`
+[View all 9 images in article →](https://help.zoho.com/portal/en/kb/crm/working-with-admin-tools)
+
+**[Managing Roles](https://help.zoho.com/portal/en/kb/crm/role-management-introduction)** — 8 images
+- `https://desklite.zoho.com/DocsDisplay?zgId=674238021&amp;mode=inline&amp;blockId=bcoqzcfbc6adb279f42a284faa09b2ac5c152`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571a589c1b91ae3d0ede1ee67319bd019cbc858151df76664414f00f6b4366b76538a5068cbb280253c7ffbbca5af9fab5?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5734a95d9b676cbd01c4e20c2ae8a1b2b16d93b39f42e5195714b8e3ae028558b4557626ca7a7134ebb3515425d5ba613c?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b576773dd3c40662a7c1b0b24e700321c5d2cd3a572dd427439861ed6933809f9be410cc20f43db54e6f320f14813c0e4b0?inline=true`
+[View all 8 images in article →](https://help.zoho.com/portal/en/kb/crm/role-management-introduction)
+

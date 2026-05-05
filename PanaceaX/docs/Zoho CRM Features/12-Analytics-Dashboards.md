@@ -354,3 +354,76 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **29 KB articles** with **407 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Working with Analytics in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/working-with-analytics-in-zoho-crm-android-app) | 88 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-analytics-in-zoho-crm-android-app) |
+| 2 | [Understanding and building reports](https://help.zoho.com/portal/en/kb/crm/understanding-and-building-reports) | 64 | [View Article](https://help.zoho.com/portal/en/kb/crm/understanding-and-building-reports) |
+| 3 | [Creating dashboards](https://help.zoho.com/portal/en/kb/crm/create-dashboard) | 37 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-dashboard) |
+| 4 | [Zoho CRM Analytics App](https://help.zoho.com/portal/en/kb/crm/zoho-crm-analytics-app) | 23 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-crm-analytics-app) |
+| 5 | [Zia Recommendation Analytics](https://help.zoho.com/portal/en/kb/crm/zia-recommendation-analytics) | 18 | [View Article](https://help.zoho.com/portal/en/kb/crm/zia-recommendation-analytics) |
+| 6 | [VoC Dashboards in Zoho CRM — A Detailed Study](https://help.zoho.com/portal/en/kb/crm/voc-dashboards-in-zoho-crm-a-study) | 18 | [View Article](https://help.zoho.com/portal/en/kb/crm/voc-dashboards-in-zoho-crm-a-study) |
+| 7 | [Create category columns in reports](https://help.zoho.com/portal/en/kb/crm/create-category-columns-in-reports) | 15 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-category-columns-in-reports) |
+| 8 | [Creating Reporting Hierarchy](https://help.zoho.com/portal/en/kb/crm/create-reporting-hierarchy) | 13 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-reporting-hierarchy) |
+| 9 | [Segment dashboards](https://help.zoho.com/portal/en/kb/crm/segment-dashboards) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/segment-dashboards) |
+| 10 | [Prediction Analytics](https://help.zoho.com/portal/en/kb/crm/prediction-analytics) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/prediction-analytics) |
+| 11 | [Create custom dashboards](https://help.zoho.com/portal/en/kb/crm/create-custom-dashboards) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-custom-dashboards) |
+| 12 | [Call analytics](https://help.zoho.com/portal/en/kb/crm/call-analytics) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/call-analytics) |
+| 13 | [Charts](https://help.zoho.com/portal/en/kb/crm/create-charts) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-charts) |
+| 14 | [Summary analyses: A VoC chart for on-the-go insights](https://help.zoho.com/portal/en/kb/crm/summary-analyses-a-voc-chart-for-on-the-go-insight) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/summary-analyses-a-voc-chart-for-on-the-go-insight) |
+| 15 | [Using chart views in modules](https://help.zoho.com/portal/en/kb/crm/using-chart-views-in-modules) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/using-chart-views-in-modules) |
+| 16 | [Interpreting the reports of Path Finder](https://help.zoho.com/portal/en/kb/crm/interpreting-the-reports-of-path-finder) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/interpreting-the-reports-of-path-finder) |
+| 17 | [Visualize hierarchical datasets using treemap charts](https://help.zoho.com/portal/en/kb/crm/visualize-hierarchical-datasets-using-treemap-charts) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/visualize-hierarchical-datasets-using-treemap-charts) |
+| 18 | [ Reports module in Zoho CRM Android app ](https://help.zoho.com/portal/en/kb/crm/reports-module-in-zoho-crm-android-app) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/reports-module-in-zoho-crm-android-app) |
+| 19 | [Troubleshooting integration of Zoho CRM with Zoho Advanced Analytics](https://help.zoho.com/portal/en/kb/crm/troubleshooting-integration-of-zoho-crm-with-zoho-advanced-analytics) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-integration-of-zoho-crm-with-zoho-advanced-analytics) |
+| 20 | [Sankey Chart](https://help.zoho.com/portal/en/kb/crm/sankey-charts) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/sankey-charts) |
+| 21 | [FAQs: Chart View](https://help.zoho.com/portal/en/kb/crm/faqs-chart-view) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-chart-view) |
+| 22 | [Compare and contrast competing datasets using butterfly charts](https://help.zoho.com/portal/en/kb/crm/compare-and-contrast-competing-datasets-using-butterfly-charts) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/compare-and-contrast-competing-datasets-using-butterfly-charts) |
+| 23 | [Import Usage Data to CRM from Analytics tools](https://help.zoho.com/portal/en/kb/crm/import-usage-data-to-crm-from-analytics-tools) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/import-usage-data-to-crm-from-analytics-tools) |
+| 24 | [Zia Dashboard Insights](https://help.zoho.com/portal/en/kb/crm/zia-dashboard-insights) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/zia-dashboard-insights) |
+| 25 | [Setting up Advanced CRM Analytics](https://help.zoho.com/portal/en/kb/crm/zoho-analytics-crm-integrations) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-analytics-crm-integrations) |
+| 26 | [Cross sell analytics](https://help.zoho.com/portal/en/kb/crm/cross-sell-analytic) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/cross-sell-analytic) |
+| 27 | [Scheduling Reports](https://help.zoho.com/portal/en/kb/crm/schedule-reports) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/schedule-reports) |
+| 28 | [Editing Criteria Patterns in Reports](https://help.zoho.com/portal/en/kb/crm/editing-criteria-patterns) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/editing-criteria-patterns) |
+| 29 | [Setting Advanced CRM Analytics](https://help.zoho.com/portal/en/kb/crm/setting-advanced-crm-analytics-new) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/setting-advanced-crm-analytics-new) |
+
+### Sample Image URLs (from top articles)
+**[Working with Analytics in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/working-with-analytics-in-zoho-crm-android-app)** — 88 images
+- `https://download-accl.zoho.com/webdownload?x-service=writer&amp;event-id=ty6xn88aba3b95213423ca8468a9742351316&amp;x-cli-msg={&quot;imgurl&quot;:&quot;r-ty6xn88aba3b95213423ca8468a9742351316-a75a12f4b8ce42a499b75e75619904d5uzx8ze4ggojl&quot;,&quot;rid&quot;:&quot;ty6xn88aba3b95213423ca8468a9742351316&quot;}`
+- `https://download-accl.zoho.com/webdownload?x-service=writer&amp;event-id=ty6xn88aba3b95213423ca8468a9742351316&amp;x-cli-msg={&quot;imgurl&quot;:&quot;905f84867224102032a93c21443a863d46f827e49aba25087d7b0933e9ece85bb4cc0e669ed2a17ef604b2fd60290c26&quot;,&quot;rid&quot;:&quot;ty6xn88aba3b95213423ca8468a9742351316&quot;}`
+- `https://download-accl.zoho.com/webdownload?x-service=writer&amp;event-id=ty6xn88aba3b95213423ca8468a9742351316&amp;x-cli-msg={&quot;imgurl&quot;:&quot;4deba3bce1dd11eaacad5d00ed8213d830f0d5a0518b87d94ec3a870c1a3d4767bdf27f39829748537dc7b2a8dd53f5e&quot;,&quot;rid&quot;:&quot;ty6xn88aba3b95213423ca8468a9742351316&quot;}`
+- `https://download-accl.zoho.com/webdownload?x-service=writer&amp;event-id=ty6xn88aba3b95213423ca8468a9742351316&amp;x-cli-msg={&quot;imgurl&quot;:&quot;r-ty6xn88aba3b95213423ca8468a9742351316-731483ec9ae743d8b57904cc019676d3ny2n6yc2wyb0&quot;,&quot;rid&quot;:&quot;ty6xn88aba3b95213423ca8468a9742351316&quot;}`
+[View all 88 images in article →](https://help.zoho.com/portal/en/kb/crm/working-with-analytics-in-zoho-crm-android-app)
+
+**[Understanding and building reports](https://help.zoho.com/portal/en/kb/crm/understanding-and-building-reports)** — 64 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b573760176717d8e1d5d21cada4b98011448f43346c5c0b7622b0a916605e73d208e5ceef684a71986b56a1cb5624aad451?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574f70a23a80d4f908ebadd652e5bb88a1792c9cbbeb4e93a5de5bff48d89f113e3686b7e9627623550d6bccadca9944d3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579085826cf9c84d12727572260da9787d158ec79de84bfed1490d7cfd9216985276d1d821bebca0ff8d32e2a6ee89d50c?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5758012807f7586fedd313d25339fac7bbcbb16d551466424f18b3d4ab982fda7a37789bde51900ce455961237281e1e61?inline=true`
+[View all 64 images in article →](https://help.zoho.com/portal/en/kb/crm/understanding-and-building-reports)
+
+**[Creating dashboards](https://help.zoho.com/portal/en/kb/crm/create-dashboard)** — 37 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ba1a958f9aa1f88b61bfa3ddb3b3f763b3ea01293a805e65c6284f4499c1fa58ffe4db66b168fd4beb7538dc608a8595?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b576b1ca9058c490ed900ad9c0adc7ebc832dc61cb4ca5ddbc63892240b037d0c75b28e98cdb11219ad1564e050d5e0bb74?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57374e50d8a548d293ac35b512f4da2ed6a726a4232bff82f53e5a85fcec8321bc77c18dc1908ec63ef6dbca267776f330?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5777633042566df5ef0f5d85e0274497e65de1acc067cc564727124386d574ab8947791f7b595f82db5e11ff5aabc882ce?inline=true`
+[View all 37 images in article →](https://help.zoho.com/portal/en/kb/crm/create-dashboard)
+
+**[Zoho CRM Analytics App](https://help.zoho.com/portal/en/kb/crm/zoho-crm-analytics-app)** — 23 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574b0ce4fd7df6f8467f94c320f946d33d8fc8614ecb8d8ccfbaf22fcc54d086d9b76806a1ef738f6068b9dc8850c25fd3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e0c8e54257cc00d7b4740ec20c5ed7375e02392928e881dff4d8285a673a948ae65575182e9c52a825ce2303d59bdc12?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b573462193bc7c9f5c92f4540ae9427504b6f85913eea0192f0aea16f2095d6b53b64f199abbab79d2db438b56b19ae65d5?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57b15a27c58e4ce9f6395c532b4f7ddc2999c01ef0cab5b87fc1e5ac1391e5bcd479a3321cc747bb4bf90cf8619f87f2d3?inline=true`
+[View all 23 images in article →](https://help.zoho.com/portal/en/kb/crm/zoho-crm-analytics-app)
+
+**[Zia Recommendation Analytics](https://help.zoho.com/portal/en/kb/crm/zia-recommendation-analytics)** — 18 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ae76804ed203fceed99dce6860bc1b48d7607e78aecf62ecd009165cb55256fa5f788e7deab3a381b699dc37ea690029?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b575e5a9224061415a44dab571e9ef9d8cd82fd7a15b448cfc3fd613b2115e25cd97d78cabb9c51c5d5fc2da34381d182a1?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57edb9e597b41a6e51855ac70f6aeed0cba82088bbc5ac189b7d6dfa2d4223055c581bf997414fc1bddba89b3d8ace2060?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ba56971a609713116f2eff8e697ab00afed9fc921fd1a1a253126ecca736bfb7021bab2cabc20f37a80608d92b2ce69d?inline=true`
+[View all 18 images in article →](https://help.zoho.com/portal/en/kb/crm/zia-recommendation-analytics)
+

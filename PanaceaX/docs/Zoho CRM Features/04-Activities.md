@@ -355,3 +355,66 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **19 KB articles** with **167 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [FAQs: Calendar Booking in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/faqs-on-calendar-booking) | 27 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-on-calendar-booking) |
+| 2 | [Using Calendar in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/using-calendar) | 23 | [View Article](https://help.zoho.com/portal/en/kb/crm/using-calendar) |
+| 3 | [FAQs: Tasks Module](https://help.zoho.com/portal/en/kb/crm/faqs-tasks-module) | 17 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-tasks-module) |
+| 4 | [FAQs: Meetings Module](https://help.zoho.com/portal/en/kb/crm/faqs-meetings-module) | 16 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-meetings-module) |
+| 5 | [Integrating CRM Meetings with Zoho Meeting](https://help.zoho.com/portal/en/kb/crm/integrating-crm-meetings-with-zoho-meeting) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/integrating-crm-meetings-with-zoho-meeting) |
+| 6 | [Calendar Booking](https://help.zoho.com/portal/en/kb/crm/calendar-booking) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/calendar-booking) |
+| 7 | [Working with Meetings](https://help.zoho.com/portal/en/kb/crm/working-with-meetings-new) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-meetings-new) |
+| 8 | [Zia Usage Data Mapping of Events](https://help.zoho.com/portal/en/kb/crm/usage-data-event-mapping) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/usage-data-event-mapping) |
+| 9 | [Setting Up Calendar Synchronization via CalDAV](https://help.zoho.com/portal/en/kb/crm/set-calendar-synchronization) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/set-calendar-synchronization) |
+| 10 | [ Working with Meetings in Zoho CRM Android app ](https://help.zoho.com/portal/en/kb/crm/working-with-meetings-in-zoho-crm-android-app) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-meetings-in-zoho-crm-android-app) |
+| 11 | [Creating Workflow Tasks](https://help.zoho.com/portal/en/kb/crm/workflow-tasks) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/workflow-tasks) |
+| 12 | [Working with Meetings in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/working-with-meetings-in-zoho-crm-ios-app) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-meetings-in-zoho-crm-ios-app) |
+| 13 | [ Themes, timezone, fonts, and calendar settings  in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/themes-timezone-fonts-and-calendar-settings-in-zoho-crm-ios-app) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/themes-timezone-fonts-and-calendar-settings-in-zoho-crm-ios-app) |
+| 14 | [Synchronizing the G Suite Calendar](https://help.zoho.com/portal/en/kb/crm/synchronize-g-suite-calendar) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/synchronize-g-suite-calendar) |
+| 15 | [Sync with Google Calendar](https://help.zoho.com/portal/en/kb/crm/google-calendar-crm-integration) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/google-calendar-crm-integration) |
+| 16 | [Managing Calendar in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/manage-calendar) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/manage-calendar) |
+| 17 | [Embed Calendar Booking in Wordpress and Wix](https://help.zoho.com/portal/en/kb/crm/embed) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/embed) |
+| 18 | [Calendar Synchronization via CalDAV](https://help.zoho.com/portal/en/kb/crm/use-calendar-synchronization-via-caldav) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/use-calendar-synchronization-via-caldav) |
+| 19 | [GoToMeeting](https://help.zoho.com/portal/en/kb/crm/gotomeeting-29-8-2024) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/gotomeeting-29-8-2024) |
+
+### Sample Image URLs (from top articles)
+**[FAQs: Calendar Booking in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/faqs-on-calendar-booking)** — 27 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b575a42e14599c09eca9edb4c2d20749c68fbc74d1926e7db7b3348e1883ae9e34e1705f42b0b915fad096be9d7a83e60db?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b577885f196e0bb7f9ba0957706f42ea38acc795269b466cb874d767d8cb3b76fd80856ed8f7a6027462cc46a8f4de1ace5?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f392d54a331a858cc9db44469be1fe7df7935aeb1aa91208de4f874242cfa0bafe24d7d06204ec572b649ce6979aee18?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5727652e3a11125c493d73c26b049f2935714484dbaf7168a1d4d6ca3445d21ddc77e43289acdcd80b6185bff0950450f0?inline=true`
+[View all 27 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-on-calendar-booking)
+
+**[Using Calendar in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/using-calendar)** — 23 images
+- `https://desk.zoho.in/galleryDocuments/edbsn44c95325bb0e5822f2fbe2bee16772b91c50d7f00f76aef9094a7cd65df2a57de47d51f20b9ba0d595a1cbf1e14542a7e939cb8e60fe39ed9268b324ef43974b?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn21d1ca09ccf155e4644109f876612ddac7e7dfb80d3bb5d624954aaace159277b7d327cb52c1d9437def32e16233704d31dcdc8d90fd6683ff3c90ac92fa762e?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn21d1ca09ccf155e4644109f876612dda7f11a101618a38a3cf65ac15d5f68d8b4295b6c108c9802aa4972facf3d22ae34e03bdeac29219e2309635a0724615a9?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn21d1ca09ccf155e4644109f876612ddabba773b1288c68496c78045d3a81d4b41a4489d3dd9ef3386921e95201d83e715700b2cb8eb6a6c1ad5ccb56631b5afe?inline=true`
+[View all 23 images in article →](https://help.zoho.com/portal/en/kb/crm/using-calendar)
+
+**[FAQs: Tasks Module](https://help.zoho.com/portal/en/kb/crm/faqs-tasks-module)** — 17 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57a5595652e68708e27a868c09a54171544884a3630f7e84867813c3b902c63edde7aa4a61f043634a10c27e12d68a2c59?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571e1edada0f2ffdddbdc6179746a2e21dfb08cc5c20c36ffa7b96c73bdfc77422157146157049e55b2b9de2142427bd4b?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5749db952b0a72405457c7b2f01878007432f2eeb084c9c03d43ef1617cc78756b9be4dd4b2e31a91a5777bdb67da1a037?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5764b3472c5d965979f71dda951256749bbdec94aae220646630876a05490404b550aad4fee9aa546132dbb5f9566f79d2?inline=true`
+[View all 17 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-tasks-module)
+
+**[FAQs: Meetings Module](https://help.zoho.com/portal/en/kb/crm/faqs-meetings-module)** — 16 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574d505d68f257b6c6b779a5d3714f5b724909408b6bdfaa44eb940153d835d2c199dac3c2ba6e9ecf4faa307049dee81b?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57935e3f1a4f9ba8abab77794fe43d2675492fe704cf347a2119208581d1cd89959ed16115d18ce857230351aaa3c460a8?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f41148487b0e76e07699d7108e3c80b2c60382cf05cf3b31ecaac67f47e1a74b94e9cae53e86a108203e820ebb6a4b49?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b578431adbacbefee3c1b2e63d48535d58e4c41dff5770ac4ef53d3d0d0950b250a3cecdc88d1d2f05291116c71dfc8e699?inline=true`
+[View all 16 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-meetings-module)
+
+**[Integrating CRM Meetings with Zoho Meeting](https://help.zoho.com/portal/en/kb/crm/integrating-crm-meetings-with-zoho-meeting)** — 12 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e4f84bc0ed5b85fbc4da244678a7aa15728a3b470a718071d62090993f3700fbfbd0a71a1d6274aaf719d4ce6d145dac?inline=true`
+- `https://www.zohowebstatic.com/sites/default/files/crm/meet-now-option.jpg`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57faceef3ccab0bfcad127460a1a06b0bfe1078222e1e58cad0ebd2c9c424d67c0abbf0902b10ff6cfa013bc68611ebc39?inline=true`
+- `https://www.zohowebstatic.com/sites/default/files/crm/invite-url.jpg`
+[View all 12 images in article →](https://help.zoho.com/portal/en/kb/crm/integrating-crm-meetings-with-zoho-meeting)
+

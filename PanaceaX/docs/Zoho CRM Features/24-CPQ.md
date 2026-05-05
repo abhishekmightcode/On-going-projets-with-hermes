@@ -353,3 +353,42 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **4 KB articles** with **59 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [CPQ for Zoho CRM — How it works](https://help.zoho.com/portal/en/kb/crm/how-it-works) | 29 | [View Article](https://help.zoho.com/portal/en/kb/crm/how-it-works) |
+| 2 | [Guided selling in CPQ](https://help.zoho.com/portal/en/kb/crm/guided-selling) | 21 | [View Article](https://help.zoho.com/portal/en/kb/crm/guided-selling) |
+| 3 | [FAQs: CPQ](https://help.zoho.com/portal/en/kb/crm/faqs-on-cpq) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-on-cpq) |
+| 4 | [CPQ for Zoho CRM — Scope, Purpose and Benefits](https://help.zoho.com/portal/en/kb/crm/what-is-cpq) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/what-is-cpq) |
+
+### Sample Image URLs (from top articles)
+**[CPQ for Zoho CRM — How it works](https://help.zoho.com/portal/en/kb/crm/how-it-works)** — 29 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b575f6d22c62749d216b08bf173e1287c240d6d0a49c636dbb605e2ca6b6388c95e28b0100791f7bc7ede6f9e369743cc87?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57b518536d4621321515abaee756069c374a06d421dd980e03da66017f09b9fce0bc0ddd11a4002ba8deaf3c1d1e663783?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b578396261c8d6edf8fafc499ec4e3cd10557bd2ff296ce661d1f5b7770c615a437fdb4594393a2d73c95386f61c6ba9823?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b570c7f8be63042a028d8aa42fae411301599647c636b47d4496b9465433a6d8934f75c6ccea39ce79228f34e7b0ab052da?inline=true`
+[View all 29 images in article →](https://help.zoho.com/portal/en/kb/crm/how-it-works)
+
+**[Guided selling in CPQ](https://help.zoho.com/portal/en/kb/crm/guided-selling)** — 21 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579611736fb3443a1adb91c0c4cd22ddb009b2ffff49d006a945c606f86ba26dc2a67e4f01157e24b702d9058c12ee6b9c?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5786e35da2db6a3717b79c43abec07a8e4d3acd110322b706624ff2f84d708255a8398b55615870bd720b808657f4758df?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5747f51526cdebab4e4513ca8c24806a30db10c7756457ec37efafb74aa1fc264d3f6c13061b6bf4141a8c738b0a8f2521?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ee062363aa08c5a1ebbe462f2831433c0ab228e4563407581069c230d51f8a773e294093a3a9a30d09a3bedc64749c8a?inline=true`
+[View all 21 images in article →](https://help.zoho.com/portal/en/kb/crm/guided-selling)
+
+**[FAQs: CPQ](https://help.zoho.com/portal/en/kb/crm/faqs-on-cpq)** — 7 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b578d5e8ef11889404e9dc28a1f5aec7c62f6de7bbc04e0054d1462c2b95181a7d2d03beb07a4800f9822a0ff6329748282?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5790cebf2880ac5d862120511207ca7f93bf26aa8a8f97b626fd05243239f8842dded65c0670236446b038defc6d3bead4?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57b71d9ff0d53e82e9ada70d6a7a3d144c9a5ee91193d3aebe63333dc1221199e0153b637da1b30ceb21685e5272a4d3a2?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57451588c2c49ec11d9c9fe7f3eac1ae4a53c9a69488c79e73839a81469abb05d33ecab26b65ebfff218414525fbeb22eb?inline=true`
+[View all 7 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-on-cpq)
+
+**[CPQ for Zoho CRM — Scope, Purpose and Benefits](https://help.zoho.com/portal/en/kb/crm/what-is-cpq)** — 2 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57eb6a2a797d084258e75339e7f8f3b56aaecfbe2e41c833bc18cfebece17f10870ca158b6f97d2bc23546d85afb6517d3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d5b2044171ea22cb108b9b81068cbeb2df7ce0c47c59eb133d6236130521baf2fb1f5df9eb17959b9b609bb3ba96456f?inline=true`
+[View all 2 images in article →](https://help.zoho.com/portal/en/kb/crm/what-is-cpq)
+

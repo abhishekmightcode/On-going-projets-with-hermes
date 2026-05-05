@@ -354,3 +354,35 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **3 KB articles** with **22 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Creating Inventory Templates](https://help.zoho.com/portal/en/kb/crm/inventory-templates) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/inventory-templates) |
+| 2 | [Understanding Inventory Template Builder](https://help.zoho.com/portal/en/kb/crm/inventory-template-builder) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/inventory-template-builder) |
+| 3 | [Update Your HTML Inventory Templates for PDF Generator Upgrade](https://help.zoho.com/portal/en/kb/crm/update-your-html-inventory-templates-for-pdf-generator-upgrade) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/update-your-html-inventory-templates-for-pdf-generator-upgrade) |
+
+### Sample Image URLs (from top articles)
+**[Creating Inventory Templates](https://help.zoho.com/portal/en/kb/crm/inventory-templates)** — 11 images
+- `https://www.zoho.com/crm/help/img/inventory-template-new.png`
+- `https://www.zoho.com/crm/help/img/inventory-template-gallery.png`
+- `https://www.zoho.com/crm/help/img/inventory-template-drag-and-drop.png`
+- `https://www.zoho.com/crm/help/img/email-template-html1.png`
+[View all 11 images in article →](https://help.zoho.com/portal/en/kb/crm/inventory-templates)
+
+**[Understanding Inventory Template Builder](https://help.zoho.com/portal/en/kb/crm/inventory-template-builder)** — 8 images
+- `https://www.zoho.com/crm/help/img/inventory-template-components.png`
+- `https://www.zoho.com/crm/help/img/email-template-change.png`
+- `https://www.zoho.com/crm/help/img/inventory-templates-product-table.png`
+- `https://www.zoho.com/crm/help/img/email-templates-table-properties1.png`
+[View all 8 images in article →](https://help.zoho.com/portal/en/kb/crm/inventory-template-builder)
+
+**[Update Your HTML Inventory Templates for PDF Generator Upgrade](https://help.zoho.com/portal/en/kb/crm/update-your-html-inventory-templates-for-pdf-generator-upgrade)** — 3 images
+- `https://desk.zoho.in/galleryDocuments/edbsn7f2974932e7c55df3a90f5c5ec89eb6ba4bf8e6b312c641d24e4e239c378e2a6065ef1b06af58905355416d05e8c88326d404c1cffcf15e0f12ac5884436f1c0?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn1e261014b45bac13af552c5e82f9a3c28bd1ac1713fca4f66740ff948e955f3ea80faadf57c1f574a5d7d834f0e29a2fa3ab9ed17ba9a6761156926b0214b6d7?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn1e261014b45bac13af552c5e82f9a3c2968534f57441a6efb78477ffe4e7fcf73842cde2af0df046f34b4a71abae43ccec214c129dda8006d88f69437cf5a97e?inline=true`
+[View all 3 images in article →](https://help.zoho.com/portal/en/kb/crm/update-your-html-inventory-templates-for-pdf-generator-upgrade)
+

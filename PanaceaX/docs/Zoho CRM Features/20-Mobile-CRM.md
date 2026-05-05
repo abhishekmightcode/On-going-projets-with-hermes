@@ -354,3 +354,90 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **43 KB articles** with **408 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Elements of a kiosk](https://help.zoho.com/portal/en/kb/crm/elements-of-a-kiosk) | 44 | [View Article](https://help.zoho.com/portal/en/kb/crm/elements-of-a-kiosk) |
+| 2 | [iOS Specific Features](https://help.zoho.com/portal/en/kb/crm/ios-specific-features) | 27 | [View Article](https://help.zoho.com/portal/en/kb/crm/ios-specific-features) |
+| 3 | [FAQs: Kiosk Studio](https://help.zoho.com/portal/en/kb/crm/faqs-kiosk-studio) | 24 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-kiosk-studio) |
+| 4 | [Dynamic display in Zoho CRM for Android](https://help.zoho.com/portal/en/kb/crm/dynamic-display-in-zoho-crm-android-app) | 22 | [View Article](https://help.zoho.com/portal/en/kb/crm/dynamic-display-in-zoho-crm-android-app) |
+| 5 | [Tags in Zoho CRM for Android](https://help.zoho.com/portal/en/kb/crm/tags-in-zoho-crm-for-android) | 20 | [View Article](https://help.zoho.com/portal/en/kb/crm/tags-in-zoho-crm-for-android) |
+| 6 | [Configure Zoho CRM Settings in iPhone](https://help.zoho.com/portal/en/kb/crm/configure-zoho-crm-settings-in-iphone) | 18 | [View Article](https://help.zoho.com/portal/en/kb/crm/configure-zoho-crm-settings-in-iphone) |
+| 7 | [Dynamic display in Zoho CRM for iOS](https://help.zoho.com/portal/en/kb/crm/dynamic-display-in-zoho-crm-for-ios) | 18 | [View Article](https://help.zoho.com/portal/en/kb/crm/dynamic-display-in-zoho-crm-for-ios) |
+| 8 | [WhatsApp business messaging in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/whatsapp-business-messaging-in-zoho-crm-ios-app) | 16 | [View Article](https://help.zoho.com/portal/en/kb/crm/whatsapp-business-messaging-in-zoho-crm-ios-app) |
+| 9 | [Actions performed on records in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/actions-performed-on-records-in-zoho-crm-ios-app) | 16 | [View Article](https://help.zoho.com/portal/en/kb/crm/actions-performed-on-records-in-zoho-crm-ios-app) |
+| 10 | [WhatsApp business messaging in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/whatsapp-business-messaging-in-zoho-crm-android-app) | 15 | [View Article](https://help.zoho.com/portal/en/kb/crm/whatsapp-business-messaging-in-zoho-crm-android-app) |
+| 11 | [Working with Kiosk Studio](https://help.zoho.com/portal/en/kb/crm/working-with-kiosks) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-kiosks) |
+| 12 | [Zoho CRM App Settings For Android](https://help.zoho.com/portal/en/kb/crm/zoho-crm-app-settings-for-android) | 13 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-crm-app-settings-for-android) |
+| 13 | [Platform widgets in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/platform-widgets-in-zoho-crm-ios-app-29-1-2026) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/platform-widgets-in-zoho-crm-ios-app-29-1-2026) |
+| 14 | [Wizards in CRM Android app](https://help.zoho.com/portal/en/kb/crm/wizards-in-crm-android-app) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/wizards-in-crm-android-app) |
+| 15 | [Record sharing in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/record-sharing-in-zoho-crm-ios-app) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/record-sharing-in-zoho-crm-ios-app) |
+| 16 | [Teamspace in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/teamspace-in-zoho-crm-for-ios) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/teamspace-in-zoho-crm-for-ios) |
+| 17 | [Locate people near you in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/locate-people-near-you-in-the-zoho-crm-android-app) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/locate-people-near-you-in-the-zoho-crm-android-app) |
+| 18 | [Collaborate using feeds in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/collaborate-using-feeds-in-zoho-crm-ios-app) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/collaborate-using-feeds-in-zoho-crm-ios-app) |
+| 19 | [Mappls map view in Zoho CRM Android app ](https://help.zoho.com/portal/en/kb/crm/mappls-map-view-in-zoho-crm-android-app) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/mappls-map-view-in-zoho-crm-android-app) |
+| 20 | [Locate an address using maps in iPhone](https://help.zoho.com/portal/en/kb/crm/locate-an-address-using-maps-in-iphone) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/locate-an-address-using-maps-in-iphone) |
+| 21 | [Teamspace in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/teamspace-in-zoho-crm-for-android) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/teamspace-in-zoho-crm-for-android) |
+| 22 | [Map view in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/map-view-in-zoho-crm-ios-app) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/map-view-in-zoho-crm-ios-app) |
+| 23 | [Searching records in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/searching-records-in-zoho-crm-android) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/searching-records-in-zoho-crm-android) |
+| 24 | [ Record sharing in Zoho CRM Android app ](https://help.zoho.com/portal/en/kb/crm/record-sharing-in-zoho-crm-android-app) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/record-sharing-in-zoho-crm-android-app) |
+| 25 | [ Searching records in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/searching-records-in-zoho-crm-android-app) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/searching-records-in-zoho-crm-android-app) |
+| 26 | [ Working with Zoho surveys in CRM Android app    ](https://help.zoho.com/portal/en/kb/crm/working-with-zoho-surveys-in-crm-android-app) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-zoho-surveys-in-crm-android-app) |
+| 27 | [Installing and signing in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/installing-the-app-in-iphone) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/installing-the-app-in-iphone) |
+| 28 | [Map settings in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/map-settings-in-zoho-crm-ios-app) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/map-settings-in-zoho-crm-ios-app) |
+| 29 | [List view and saved filters in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/list-view-and-saved-filters-in-zoho-crm-ios-app) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/list-view-and-saved-filters-in-zoho-crm-ios-app) |
+| 30 | [ Working with Zoho surveys in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/working-with-zoho-surveys-in-crm-ios-app) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-zoho-surveys-in-crm-ios-app) |
+| 31 | [List view and saved filters in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/list-view-and-saved-filters-in-crm-android-app) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/list-view-and-saved-filters-in-crm-android-app) |
+| 32 | [ Kiosk in Zoho CRM Android app ](https://help.zoho.com/portal/en/kb/crm/kiosk-in-zoho-crm-android-app) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/kiosk-in-zoho-crm-android-app) |
+| 33 | [Mappls map view in Zoho CRM iOS app ](https://help.zoho.com/portal/en/kb/crm/mappls-map-view-in-zoho-crm-ios-app) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/mappls-map-view-in-zoho-crm-ios-app) |
+| 34 | [Homescreen quick actions in Zoho CRM iOS app ](https://help.zoho.com/portal/en/kb/crm/homescreen-quick-actions-in-zoho-crm-ios-app-23-2-2026-1) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/homescreen-quick-actions-in-zoho-crm-ios-app-23-2-2026-1) |
+| 35 | [Working with notes in Zoho CRM iOS app ](https://help.zoho.com/portal/en/kb/crm/working-with-notes-in-zoho-crm-ios-app) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-notes-in-zoho-crm-ios-app) |
+| 36 | [Organizing your home page in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/organizing-your-home-page-in-zoho-crm-android-app) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/organizing-your-home-page-in-zoho-crm-android-app) |
+| 37 | [Kiosk in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/kiosk-in-zoho-crm-ios-app) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/kiosk-in-zoho-crm-ios-app) |
+| 38 | [Switching between organizations in Zoho CRM iOS app ](https://help.zoho.com/portal/en/kb/crm/switching-between-organizations-in-zoho-crm-ios-app) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/switching-between-organizations-in-zoho-crm-ios-app) |
+| 39 | [ Signals in Zoho CRM iOS app ](https://help.zoho.com/portal/en/kb/crm/signals-in-zoho-crm-ios-app-24-2-2026) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/signals-in-zoho-crm-ios-app-24-2-2026) |
+| 40 | [Organizing the homepage in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/organizing-the-homepage-in-zoho-crm-ios-app) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/organizing-the-homepage-in-zoho-crm-ios-app) |
+| 41 | [Fetch VoC insights using Kiosk–On demand](https://help.zoho.com/portal/en/kb/crm/fetch-voc-insights-using-kiosk-on-demand) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/fetch-voc-insights-using-kiosk-on-demand) |
+| 42 | [FAQs: CRM for iphone](https://help.zoho.com/portal/en/kb/crm/faqs-crm-for-iphone) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-crm-for-iphone) |
+| 43 | [FAQs: CRM for Mobile](https://help.zoho.com/portal/en/kb/crm/faqs-crm-for-mobile) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-crm-for-mobile) |
+
+### Sample Image URLs (from top articles)
+**[Elements of a kiosk](https://help.zoho.com/portal/en/kb/crm/elements-of-a-kiosk)** — 44 images
+- `https://desk.zoho.in/galleryDocuments/edbsncd824102bb0df0bd0ad306447e1190bc105a351635c20fa615e843a949e586b2920892d56efde31d80e8d0531bc00a13331e7b3d5c9cf3674cc978bbe777aa8c?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsncd824102bb0df0bd0ad306447e1190bc15f2d3445a5466ce3b75c0a9e5d587a4327211d596714138e6bf2fab814860f037c6d6f7edb551f126980e3d347a55fe?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsncd824102bb0df0bd0ad306447e1190bcbdf81248ba3285f2d7a1f9f806ccb5f90f4797bf7436e07416f6a859adc82f17bc5bbed7119d29435cbc6b7ad70c917b?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsncd824102bb0df0bd0ad306447e1190bc45b5f00e36ea4eb4947a2d3e2611816c732533d17fb583123e302dfe2aa2f60d5da50228eba6ff539b1572c52a87cfce?inline=true`
+[View all 44 images in article →](https://help.zoho.com/portal/en/kb/crm/elements-of-a-kiosk)
+
+**[iOS Specific Features](https://help.zoho.com/portal/en/kb/crm/ios-specific-features)** — 27 images
+- `https://www.zohowebstatic.com/sites/default/files/crm/zia.jpg`
+- `https://www.zohowebstatic.com/sites/default/files/crm/zia-call.jpg`
+- `https://www.zohowebstatic.com/sites/default/files/crm/zia-response.jpg`
+- `https://www.zohowebstatic.com/sites/default/files/crm/mute-zia.png`
+[View all 27 images in article →](https://help.zoho.com/portal/en/kb/crm/ios-specific-features)
+
+**[FAQs: Kiosk Studio](https://help.zoho.com/portal/en/kb/crm/faqs-kiosk-studio)** — 24 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b575af5cba1b728bc27ffd6be4dd9e7ae01666346585d7b5972486553b44385ec20bbafd58341a775f12d0ddb0cef9eefd3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579c393cfd8019f1aca968477d9f1f3e704e7a0cce986ff6e8b486950206d71f217ed356ff764d13975382b488a7d7c0ef?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57bf7ef3152df5f10c0c64ce295ddedfe85b66dc832db46569d89802a1f35234e9f0a791c7fa9784eb91631b8da672f2ad?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5755046ac3d80b47c13a9d60ef3120bb0528a2b9ab14006cb7ee48322efb1841aa6dfcd72c52095ca0d6477ecbdad6ee36?inline=true`
+[View all 24 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-kiosk-studio)
+
+**[Dynamic display in Zoho CRM for Android](https://help.zoho.com/portal/en/kb/crm/dynamic-display-in-zoho-crm-android-app)** — 22 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5740b571054c7ffc0ecbeec36717a8c3edb143db58d6176b6f43cdca7f66c29f468370f02086989300c68eed7834fda6ac?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57832f80719b8eebfb0058b344c5964180ad8ae3aca19d64c71f69de7e362db794a28bdc12f7f24ad8dad68af61e56fb21?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57be92226ea051eed2d85e4e519091f3498dba42aace049dc9446c3ccc527496a3388f0064a8b3cedd2361f7895163326b?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579f5b253266a8e52561d8e6c1eda625346acb49d4efd7135da0293ae8f3b53c329b36c5b5f47be5d3f5757412327d160b?inline=true`
+[View all 22 images in article →](https://help.zoho.com/portal/en/kb/crm/dynamic-display-in-zoho-crm-android-app)
+
+**[Tags in Zoho CRM for Android](https://help.zoho.com/portal/en/kb/crm/tags-in-zoho-crm-for-android)** — 20 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5781afb5bd4b7bdaaba1b4201b01bff65699664040782b3e88fd2d41e8865e18566f6badf1dddd619ebfc8098832a3cabb?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d758594ffd3bef358e66bf7361c08c7aa6dc26f463f796068d1974ab0f844652845d251c076fe7f0e38e0d436821d099?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5776af2ec07d67567ed4aeeba9c10f50e0b122e5869e4fae28f184195d3dfd802fd134ddd836d0360347232825e1caeeda?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57777681869976167dd31950ac819114ad69f28507647a0585694738557c84bb5b18cbd653f96101ec7767506dc2d67ca0?inline=true`
+[View all 20 images in article →](https://help.zoho.com/portal/en/kb/crm/tags-in-zoho-crm-for-android)
+

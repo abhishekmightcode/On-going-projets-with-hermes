@@ -356,3 +356,55 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **9 KB articles** with **45 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Converting Leads](https://help.zoho.com/portal/en/kb/crm/convert-leads) | 22 | [View Article](https://help.zoho.com/portal/en/kb/crm/convert-leads) |
+| 2 | [Associating lead referrals to the respective contacts](https://help.zoho.com/portal/en/kb/crm/create-lead-from-contact-using) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-lead-from-contact-using) |
+| 3 | [Creating Leads](https://help.zoho.com/portal/en/kb/crm/create-leads) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-leads) |
+| 4 | [FAQs: Leads Management](https://help.zoho.com/portal/en/kb/crm/faqs-on-leads-management) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-on-leads-management) |
+| 5 | [Lead Queue for Zoho CRM](https://help.zoho.com/portal/en/kb/crm/lead-queue-for-zoho-crm) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/lead-queue-for-zoho-crm) |
+| 6 | [Create a system-defined, guided sales process for a step-by-step lead conversion](https://help.zoho.com/portal/en/kb/crm/create-system-defined-sales-process-for-a-step-by-step-lead-conversion) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-system-defined-sales-process-for-a-step-by-step-lead-conversion) |
+| 7 | [Sales process: Lead generation](https://help.zoho.com/portal/en/kb/crm/sales-process-lead-generation) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/sales-process-lead-generation) |
+| 8 | [Converting leads in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/converting-leads-in-zoho-crm-ios-app) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/converting-leads-in-zoho-crm-ios-app) |
+| 9 | [Working With Leads](https://help.zoho.com/portal/en/kb/crm/leads-26-4-2026) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/leads-26-4-2026) |
+
+### Sample Image URLs (from top articles)
+**[Converting Leads](https://help.zoho.com/portal/en/kb/crm/convert-leads)** — 22 images
+- `https://www.zoho.com/crm/help/img/lead-conversion.png`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ba9570e069d0066bc1b10ba5b521f4f798648f7d04eb7cb2ee0af5d83bd3de247fc7020c03f7d1fbd4cbef2bdd972084?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b573608f392f7ede4d8c744d14115a00c9fcef38555057110488e229d8871ac3951af41b9755c7684482524f75243c5bd69?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e430a9b13da0d5ca3a70f30722096d13f11541c72e84aedd07c1dbe2f7088fbf7dbb3564825e958c04e0a7fc7cef562f?inline=true`
+[View all 22 images in article →](https://help.zoho.com/portal/en/kb/crm/convert-leads)
+
+**[Associating lead referrals to the respective contacts](https://help.zoho.com/portal/en/kb/crm/create-lead-from-contact-using)** — 5 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b577c6d8f78a87cadf7ea2584f39add58be5d218f4324b50ebbcdeab3a89aefecd5ddb0a611e1b61fd5105f80a753122140?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571aefedea729185d6bc9bb38c3f4bb0d1a92d7ee40f41d7d11c98329cf6b698fb1461ba4bf0551cd4a0c9c646bfbfc070?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b575042029e450c929a5d564b070615fc5fea5fe2ab989f8c5296466f5e2f09c732e09fd65f1df3b163de005542e09495af?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b575bc6aa2acca256b956b99c6e7af93339ce9e476e0111ee160cfc53dfcdf8b6f18d71d643909479260ce690ee6ec9ab87?inline=true`
+[View all 5 images in article →](https://help.zoho.com/portal/en/kb/crm/create-lead-from-contact-using)
+
+**[Creating Leads](https://help.zoho.com/portal/en/kb/crm/create-leads)** — 5 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d1685a3f4bcaca4a9e2a3ec861654a28ce1ecc1e0a6a95ff885fdb0076d083f0ed92fdfeaf9b7d05ccf023f35deca7ec?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ed945de4498f564df801050abda231a94898933bff35bee7a3ee577313c2e0499bd24a542c51210b7f9c566e4360e4ca?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57b99ccfa215eb9aee3650c29598ffae9199b32fabb456c9e3c4098174e707f2f4cb1d6ac974867a2d2f04f92682054312?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5748c5c7edb90e0827b87f064de712d7864fd5c66e007536439604d541dff17fbce3e43d88311b92ad91f6a634a18f76e8?inline=true`
+[View all 5 images in article →](https://help.zoho.com/portal/en/kb/crm/create-leads)
+
+**[FAQs: Leads Management](https://help.zoho.com/portal/en/kb/crm/faqs-on-leads-management)** — 5 images
+- `http://support.zoho.com/ImageDisplay?downloadType=uploadedFile&amp;fileName=lead%2Bconversion.png&amp;blockId=48d0a45894056572c1ae46021c0c75a360713b36d96b65a5&amp;zgId=b54d79c69095249d&amp;mode=view`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57cc7d074b50fbea340049e48246a2614eed96584e57097e60d476aa8ac3e311e4abb4891f9b40f741fd794f34f5f5de15?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57c65e37745989b680c1942541e9cfd6bcdad1d759520d7ef6a8ae8ce916261d9c9f575d158aaa653136f0688f25b6dc22?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57c81f7aa10500516b411ae0e249d635117b36002679496cd3d5ebe490f94a6b06a1a20aa0f0fb33ae49a0cecedc41e1e9?inline=true`
+[View all 5 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-on-leads-management)
+
+**[Lead Queue for Zoho CRM](https://help.zoho.com/portal/en/kb/crm/lead-queue-for-zoho-crm)** — 3 images
+- `https://www.zohowebstatic.com/sites/default/files/lead-queue-install.png`
+- `https://www.zohowebstatic.com/sites/default/files/Leadqueue-create.png`
+- `https://www.zohowebstatic.com/sites/default/files/Leadqueue-options.png`
+[View all 3 images in article →](https://help.zoho.com/portal/en/kb/crm/lead-queue-for-zoho-crm)
+

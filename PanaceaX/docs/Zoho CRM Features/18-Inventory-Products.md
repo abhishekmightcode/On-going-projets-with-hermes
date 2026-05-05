@@ -353,3 +353,44 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **4 KB articles** with **25 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Deploying sandbox changes to production](https://help.zoho.com/portal/en/kb/crm/deploy-sandbox) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/deploy-sandbox) |
+| 2 | [Creating Price Books](https://help.zoho.com/portal/en/kb/crm/create-price-books) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-price-books) |
+| 3 | [Working With Products](https://help.zoho.com/portal/en/kb/crm/working-with-products) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-products) |
+| 4 | [FAQs: Inventory Management](https://help.zoho.com/portal/en/kb/crm/faqs-inventory-management) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-inventory-management) |
+
+### Sample Image URLs (from top articles)
+**[Deploying sandbox changes to production](https://help.zoho.com/portal/en/kb/crm/deploy-sandbox)** — 7 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e2918ac8e33e9cc99f98bc12f21521d961a5a40f38ca837769124f516d1ef35be1b008cf464dc9a99547e54040217cac?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f220c9c92a9026556a505386c9f6d54583bb82b634ae8be72950e58dff3a263d0cc7f2862035131fad7ab1e22fbb6c4a?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57de4e18e434f61e28d534f8b5c069d654d86dc2c39801344d347d6b22ebc76b937a530b2b649828b221c8f319db2d0753?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579ea7c6bac7d2ae3e0cda3fe85799640169d142fcdc82415cbaab11a5097a6dcccc35e240fb1b750b9a0aa6603bd23bc2?inline=true`
+[View all 7 images in article →](https://help.zoho.com/portal/en/kb/crm/deploy-sandbox)
+
+**[Creating Price Books](https://help.zoho.com/portal/en/kb/crm/create-price-books)** — 7 images
+- `https://www.zohowebstatic.com/sites/default/files/pricebook-discount-model.png`
+- `https://www.zoho.com/crm/help/img/price-book-edit-all.png`
+- `https://www.zoho.com/crm/help/img/price-book-edit-listprice.png`
+- `https://www.zoho.com/crm/help/img/products-import-list-price.png`
+[View all 7 images in article →](https://help.zoho.com/portal/en/kb/crm/create-price-books)
+
+**[Working With Products](https://help.zoho.com/portal/en/kb/crm/working-with-products)** — 6 images
+- `https://www.zoho.com/crm/help/img/products-manual-edit.png`
+- `https://www.zoho.com/crm/help/img/products-manual-2.png`
+- `https://www.zoho.com/crm/help/img/inventory-recvd-salesorder.png`
+- `https://www.zoho.com/crm/help/img/inventory-po-placed.png`
+[View all 6 images in article →](https://help.zoho.com/portal/en/kb/crm/working-with-products)
+
+**[FAQs: Inventory Management](https://help.zoho.com/portal/en/kb/crm/faqs-inventory-management)** — 5 images
+- `https://help.zoho.com/ImageDisplay?downloadType=uploadedFile&amp;fileName=inventory-discount-hover.png&amp;blockId=48d0a4589405657251edc97d169dc33b0dd286d17e7bd898&amp;zgId=b54d79c69095249d&amp;mode=view`
+- `https://help.zoho.com/ImageDisplay?downloadType=uploadedFile&amp;fileName=inventory-choose-products1.png&amp;blockId=48d0a45894056572b59fbdbb458fe1474829a5285aa06edc&amp;zgId=b54d79c69095249d&amp;mode=view`
+- `https://help.zoho.com/ImageDisplay?downloadType=uploadedFile&amp;fileName=inventory-tax-edit.png&amp;blockId=48d0a45894056572e079eb25128cfae5b1b9a9b76237591e&amp;zgId=b54d79c69095249d&amp;mode=view`
+- `https://help.zoho.com/ImageDisplay?downloadType=uploadedFile&amp;fileName=inventory-adjustments-new.png&amp;blockId=48d0a4589405657243acf802a5e5fd82777a7d044e0f241f&amp;zgId=b54d79c69095249d&amp;mode=view`
+[View all 5 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-inventory-management)
+

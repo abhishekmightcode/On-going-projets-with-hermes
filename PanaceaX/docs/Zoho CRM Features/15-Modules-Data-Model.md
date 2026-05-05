@@ -353,3 +353,61 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **14 KB articles** with **151 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Working with the Inventory modules in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/working-with-the-inventory-modules-in-zoho-crm-android-app-26-4-2026) | 50 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-the-inventory-modules-in-zoho-crm-android-app-26-4-2026) |
+| 2 | [Configuring Team Module](https://help.zoho.com/portal/en/kb/crm/configuring-team-modules) | 23 | [View Article](https://help.zoho.com/portal/en/kb/crm/configuring-team-modules) |
+| 3 | [Configuring Module-Specific Settings](https://help.zoho.com/portal/en/kb/crm/configuring-module-specific-settings-in-zoho-crm-android-app) | 14 | [View Article](https://help.zoho.com/portal/en/kb/crm/configuring-module-specific-settings-in-zoho-crm-android-app) |
+| 4 | [Many-to-Many Module Association](https://help.zoho.com/portal/en/kb/crm/linking-modules) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/linking-modules) |
+| 5 | [Working with Team Module](https://help.zoho.com/portal/en/kb/crm/working-with-team-modules) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-team-modules) |
+| 6 | [An overview of module views](https://help.zoho.com/portal/en/kb/crm/module-views) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/module-views) |
+| 7 | [Team modules in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/team-modules-in-zoho-crm-ios-app) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/team-modules-in-zoho-crm-ios-app) |
+| 8 | [Team modules in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/team-modules-in-zoho-crm-android-app) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/team-modules-in-zoho-crm-android-app) |
+| 9 | [FAQs: Team Module](https://help.zoho.com/portal/en/kb/crm/faqs-team-module) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-team-module) |
+| 10 | [FAQs: Modules](https://help.zoho.com/portal/en/kb/crm/faqs-modules) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-modules) |
+| 11 | [FAQs: Calls Module](https://help.zoho.com/portal/en/kb/crm/faqs-on-calls-module) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-on-calls-module) |
+| 12 | [Team Module: Read-Me-First Guide for Admins](https://help.zoho.com/portal/en/kb/crm/team-modules-read-me-first-guide-for-admins) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/team-modules-read-me-first-guide-for-admins) |
+| 13 | [Zoho CRM's Core Data Model and How You Extend It Safely](https://help.zoho.com/portal/en/kb/crm/zoho-crm-s-core-data-model-and-how-you-extend-it-safely) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-crm-s-core-data-model-and-how-you-extend-it-safely) |
+| 14 | [Appointments module in Zoho CRM iOS app ](https://help.zoho.com/portal/en/kb/crm/appointments-module-in-zoho-crm-ios-app) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/appointments-module-in-zoho-crm-ios-app) |
+
+### Sample Image URLs (from top articles)
+**[Working with the Inventory modules in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/working-with-the-inventory-modules-in-zoho-crm-android-app-26-4-2026)** — 50 images
+- `https://desk.zoho.in/galleryDocuments/edbsnb7e38b636eb93010941ea9e4d72f95fa11db9797d0955a54e94c4c57debbe3a2b1d3e3dbb4ae592a636c5ef552a867cdbf5105ceaf87bd0802ab5d6e1e281f71?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsnb7e38b636eb93010941ea9e4d72f95faac66482c1638727ec38096a6e27f7b0b176dd7a5e7294c34d5c4d557769005304d70ef3c8024abadf025c5ee2f63bcdf?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsnb7e38b636eb93010941ea9e4d72f95fa922f1a2b433599ee8c0a5b2bc94c2f23ca769fdc540748744c7af261de4e64f288e8b533f5fc99a04125efb28f73cda0?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsnb7e38b636eb93010941ea9e4d72f95fa9402cbb0ede44370072f46fb9865036ff655bab49ba36f20d52fcdec87044c3a8f21fe9a11a19135fa56f3090fe8a753?inline=true`
+[View all 50 images in article →](https://help.zoho.com/portal/en/kb/crm/working-with-the-inventory-modules-in-zoho-crm-android-app-26-4-2026)
+
+**[Configuring Team Module](https://help.zoho.com/portal/en/kb/crm/configuring-team-modules)** — 23 images
+- `https://desk.zoho.in/galleryDocuments/edbsne8ef3e2eb643dbfee7c7045d83210932e95df2f62cc03f94852465c23b8ddf6badcb7d497504046752d384f4d157f61ccdedfe02b97df3a9ad13cb7f8cde3a20?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsne8ef3e2eb643dbfee7c7045d832109328f5fa4653ea6dbef521d3f869615ced0dc3abd2762e193aca4025d385c3aa30e178a2ae05fb6fe805ce041ffb0978b0e?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579c79a17ee56f5df56d0b86fd9f458b547d65c0b3746a8427411a2ae04ebf21274a7b4eab31793291a144cecc36880db9?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57bdacbd6f0d4c3942fcf358fc88edcb28fa48397c5c9d8a8412011115d2b4796b3a56bca5076b29fceef58ffee44b15e8?inline=true`
+[View all 23 images in article →](https://help.zoho.com/portal/en/kb/crm/configuring-team-modules)
+
+**[Configuring Module-Specific Settings](https://help.zoho.com/portal/en/kb/crm/configuring-module-specific-settings-in-zoho-crm-android-app)** — 14 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5792dedf00b5f1a6b48c8a5f9ac41d0b7e568f62460d31cece67d03b3b9e8bb709c769b8ea99f91dc5fe7bc241208a42c4?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ed1d4635751351571e814a416899d1167a27d4dc90a6b6acb26c173976ab734d4bdc577e636977d48e3913bcc79896ad?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f0a0719138efdc558369d8d36a2c5999aa496c1f73cd4c189a2293ea1f6d52351c79d9826884d72d364e53529a9b7110?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5782e57fcbcf3b59809210678ccc969a98fbe534088fd19e7a71fdeacae43e630727a3972753f46f64f70598958083cebe?inline=true`
+[View all 14 images in article →](https://help.zoho.com/portal/en/kb/crm/configuring-module-specific-settings-in-zoho-crm-android-app)
+
+**[Many-to-Many Module Association](https://help.zoho.com/portal/en/kb/crm/linking-modules)** — 12 images
+- `https://desk.zoho.in/galleryDocuments/edbsn919a3b2f9f6c11853f287881feac30d02039e914946c8888df559bcd6d76131fe0b804cf6d982efb8f9bf223fcfe9946b5eb90f5065bb154525ceb402e61b109?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn919a3b2f9f6c11853f287881feac30d026e211add1d99d57bd76d2f2b72c94e4b895eb4f9ed2fd0f4dc804ea48c2a36f9ded4f4a46926e34bb33dd5bb0e1916b?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn919a3b2f9f6c11853f287881feac30d0c8c679540c113dfe9bafba46aea0e8cf3857997ae3ea61eb5e4bc994a47604ea3fe2b15c8b4808a21599d99e7253b589?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsn919a3b2f9f6c11853f287881feac30d09f26fc40ea2159b54ef130d572acb2741ae64ce6e8679688e3b5ebd5531f9114de430c02aafb0ca0d82ad8e6510e7aa0?inline=true`
+[View all 12 images in article →](https://help.zoho.com/portal/en/kb/crm/linking-modules)
+
+**[Working with Team Module](https://help.zoho.com/portal/en/kb/crm/working-with-team-modules)** — 12 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d40592cfb7fcaa43f4d94c5956122f8c82567aeec9869f57313367e01004ca61d698d7f51b422dac459294b8d5142a2a?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b578d89c6267a77e794d9266b45b1ebe3d4bdd8130fcf6c883c8d7897e94731aea204c804e2d1d898834c3b8fa599cf3075?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57c7bc2f4efaa47f753d062a6ad399521a24b3352e0007564228b22eca27fdfcccd3902035dc17c1fbf4a3a992b44cfc62?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f2d37fe6196231d9162cabd3111495f2047406fae93dfd2dff6045dc1741e10cab7d9d7cd2ab8357c8621b33a9665129?inline=true`
+[View all 12 images in article →](https://help.zoho.com/portal/en/kb/crm/working-with-team-modules)
+

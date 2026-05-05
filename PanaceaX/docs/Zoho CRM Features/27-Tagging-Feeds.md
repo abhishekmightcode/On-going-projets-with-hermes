@@ -353,3 +353,54 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **7 KB articles** with **49 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Tagging Records in CRM](https://help.zoho.com/portal/en/kb/crm/tagging-records-in-crm) | 13 | [View Article](https://help.zoho.com/portal/en/kb/crm/tagging-records-in-crm) |
+| 2 | [Collaborating Using Zoho CRM Feeds](https://help.zoho.com/portal/en/kb/crm/collaborate-using-feeds) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/collaborate-using-feeds) |
+| 3 | [Working with Tags](https://help.zoho.com/portal/en/kb/crm/working-with-tags) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-tags) |
+| 4 | [Collaborating using Feeds](https://help.zoho.com/portal/en/kb/crm/collaborating-using-feeds-in-zoho-crm-android-app) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/collaborating-using-feeds-in-zoho-crm-android-app) |
+| 5 | [FAQs: Feeds](https://help.zoho.com/portal/en/kb/crm/faqs-feeds) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-feeds) |
+| 6 | [Tagging records - An Overview](https://help.zoho.com/portal/en/kb/crm/tagging-records) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/tagging-records) |
+| 7 | [FAQs: Tagging](https://help.zoho.com/portal/en/kb/crm/faqs-tagging) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-tagging) |
+
+### Sample Image URLs (from top articles)
+**[Tagging Records in CRM](https://help.zoho.com/portal/en/kb/crm/tagging-records-in-crm)** — 13 images
+- `https://www.zohowebstatic.com/sites/default/files/tags-add-to-multiple-records.png`
+- `https://www.zohowebstatic.com/sites/default/files/tag-suggestions.png`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57114e6784b32a021bfdd127853a380f419783c6116c83182070b2c840e581f707c108a5884f5d40194746aa399c167173?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57cd015edd19473f04ea88880534574e34998f48ef7af56d3c3de77e3d6969f877c8e11810815627347aa3076a617535fa?inline=true`
+[View all 13 images in article →](https://help.zoho.com/portal/en/kb/crm/tagging-records-in-crm)
+
+**[Collaborating Using Zoho CRM Feeds](https://help.zoho.com/portal/en/kb/crm/collaborate-using-feeds)** — 10 images
+- `https://www.zoho.com/crm/help/img/feeds-filters.png`
+- `https://www.zoho.com/crm/help/img/feeds-mention2.png`
+- `https://www.zoho.com/crm/help/img/feeds-attachment.png`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57c3e6a6bcef84194890e743cab937e7d57b61ef5b29332a4822f1d1c5cabfc8a65676167b98ea329bf9abc7dca157b29b?inline=true`
+[View all 10 images in article →](https://help.zoho.com/portal/en/kb/crm/collaborate-using-feeds)
+
+**[Working with Tags](https://help.zoho.com/portal/en/kb/crm/working-with-tags)** — 9 images
+- `https://www.zohowebstatic.com/sites/default/files/tags-custom-create-view.png`
+- `https://www.zohowebstatic.com/sites/default/files/tags-custom-view1.png`
+- `https://www.zohowebstatic.com/sites/default/files/tags-smartfilters.png`
+- `https://www.zohowebstatic.com/sites/default/files/tags-carryover.png`
+[View all 9 images in article →](https://help.zoho.com/portal/en/kb/crm/working-with-tags)
+
+**[Collaborating using Feeds](https://help.zoho.com/portal/en/kb/crm/collaborating-using-feeds-in-zoho-crm-android-app)** — 9 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57c63acd2c506b7daf9661d1138419eaa3dbd0d1c5c63be79e3dd60a117c24ca9486cca66a933142316a5f42da5637ca57?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b577bb68a1d47b8bd622e635ef0e60a11595f2b9ee4716e1c4e9a5d336559bb45b4fa6d9299ceeea54a4c38434c31a79571?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57a1babd08b98fad910f36891a3c269d8e35f3c180592a92e3b7db05f9aab393cb7e060ee0b8d59ea477723b780fc3968d?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57fb6bec64df12b8a753f38846e97cd02d8fe91580b6de48087b0fec783e955f2cff16e634f6adf4b49f4e1da8456ab6f4?inline=true`
+[View all 9 images in article →](https://help.zoho.com/portal/en/kb/crm/collaborating-using-feeds-in-zoho-crm-android-app)
+
+**[FAQs: Feeds](https://help.zoho.com/portal/en/kb/crm/faqs-feeds)** — 5 images
+- `https://help.zoho.com/ImageDisplay?downloadType=uploadedFile&amp;fileName=mentions.png&amp;blockId=48d0a4589405657261439b396bc9f6c6ebf5ebd252135f9c&amp;zgId=b54d79c69095249d&amp;mode=view`
+- `https://help.zoho.com/ImageDisplay?downloadType=uploadedFile&amp;fileName=feeds-groups-1.png&amp;blockId=48d0a45894056572b11a71a60ea687577cc50d48844902f0&amp;zgId=b54d79c69095249d&amp;mode=view`
+- `https://help.zoho.com/ImageDisplay?downloadType=uploadedFile&amp;fileName=feeds-group-2.png&amp;blockId=48d0a458940565721b5bd4eebda28ec3356b4633b03c9b05&amp;zgId=b54d79c69095249d&amp;mode=view`
+- `https://help.zoho.com/ImageDisplay?downloadType=uploadedFile&amp;fileName=feeds-group-3.png&amp;blockId=48d0a45894056572ae219515bcf0b692c583c208aaa9dd00&amp;zgId=b54d79c69095249d&amp;mode=view`
+[View all 5 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-feeds)
+

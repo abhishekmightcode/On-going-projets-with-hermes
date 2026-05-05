@@ -342,3 +342,23 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **2 KB articles** with **3 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Troubleshooting SalesInbox](https://help.zoho.com/portal/en/kb/crm/troubleshooting-salesinbox) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-salesinbox) |
+| 2 | [FAQs: SalesInbox](https://help.zoho.com/portal/en/kb/crm/faqs-salesinbox) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-salesinbox) |
+
+### Sample Image URLs (from top articles)
+**[Troubleshooting SalesInbox](https://help.zoho.com/portal/en/kb/crm/troubleshooting-salesinbox)** — 2 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b573d68b356db7e66cc67412b937696758e4abb65d239aba30a826f648f301daa8454b0ef88254d58175d844e289001d1d1?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d2494f94dc5cff2c37194a6773b5dac6d3e7b11e1f16cec2ba6d67d2b59cac964dea63173e7dd78b2162613b29224def?inline=true`
+[View all 2 images in article →](https://help.zoho.com/portal/en/kb/crm/troubleshooting-salesinbox)
+
+**[FAQs: SalesInbox](https://help.zoho.com/portal/en/kb/crm/faqs-salesinbox)** — 1 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b570af6890556d9b945e43b43f2f160e9dbc277aedfdca93a9a4745b158045a07c04c0617798dc928b940343fdb0e539fcb?inline=true`
+[View all 1 images in article →](https://help.zoho.com/portal/en/kb/crm/faqs-salesinbox)
+

@@ -353,3 +353,36 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **3 KB articles** with **23 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Working with Sandbox](https://help.zoho.com/portal/en/kb/crm/working-with-sandbox) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/working-with-sandbox) |
+| 2 | [Creating Sandbox](https://help.zoho.com/portal/en/kb/crm/creating-sandbox) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/creating-sandbox) |
+| 3 | [Sandbox Overview](https://help.zoho.com/portal/en/kb/crm/sandbox-overview) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/sandbox-overview) |
+
+### Sample Image URLs (from top articles)
+**[Working with Sandbox](https://help.zoho.com/portal/en/kb/crm/working-with-sandbox)** — 12 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e92e44f779040136eb7b1a0519d1d9d3cb7cabf15549a41fd56c4cc6f44bc5ef41ad91820c14f804e5e3c104cb2c664a?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d81bfc1247c3aaaca36359d1ffea86ce553f60500c58229f937f439a89eaedbdf2ce3091940d16d4257ba5db4015f454?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b572907ca2b6cc6e9fc5718563f100bbe6fd3b215311e95bf017cabcb821f166570b372f24c573b7dfc3ddf3e87389fdf42?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ad51d86b7a6bba41e4163988e08e19b4bf49020f4aacaa4ecc9ffc2d36e3e581711e1bfff237def61d4aeac2348d6964?inline=true`
+[View all 12 images in article →](https://help.zoho.com/portal/en/kb/crm/working-with-sandbox)
+
+**[Creating Sandbox](https://help.zoho.com/portal/en/kb/crm/creating-sandbox)** — 7 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57f576b26b417a146f40fe6695b15f84f21debcd4264327fb225f359f5080057e5be70f6ede8cac9071ec0feb36c22314e?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574bf4ca50053c8e1b1d12f4b712146877d15b52e48b4be982b5bffdf6b0f2c94fab5ec98c2e03d8d7bbf6ce43d3630a43?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57562adf73a8b28030857c2c64f878f610a9820c294131fe98c4a59f8ae84cfde878723fa6f9e039d754bcee98fa36955c?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579fa4b788ff1030b4b6d4d17228bbe24988f89fc5b46b81be66fc32f45cfb311c918e1845fd350f8212081ed7f70a1827?inline=true`
+[View all 7 images in article →](https://help.zoho.com/portal/en/kb/crm/creating-sandbox)
+
+**[Sandbox Overview](https://help.zoho.com/portal/en/kb/crm/sandbox-overview)** — 4 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571076d9aeba564a8f9ecaf57adc5bf152b752c0697d113a7add253256cfd53f82ccd0d869bc6e14e1df02fcc6de9f7c23?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b579fbdfd7e85fe2265e5ef409bfb70c4740f373732ad05ffe31b54dc166f7c44bfdab1bb3bc64cddabfb20a694be0dd1dc?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57171491171b7e26c212f8aaffa3f9438b3bf4a4604516f7cc7feb492826cebffc2dbd68cd5105bd78c5175e13dba078f5?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsnc9befd5f9ee9ab27f9668982b795593ccdbed59c566c7530a1583bf0d43fdbf4912b04fb4baf881dbe4df1b6a0286208b1ff288bdcf6a93e3395934e254032fd?inline=true`
+[View all 4 images in article →](https://help.zoho.com/portal/en/kb/crm/sandbox-overview)
+

@@ -351,3 +351,52 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **5 KB articles** with **55 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Integrating Zoho Campaigns with Zoho CRM](https://help.zoho.com/portal/en/kb/crm/zoho-campaigns-crm-integration) | 19 | [View Article](https://help.zoho.com/portal/en/kb/crm/zoho-campaigns-crm-integration) |
+| 2 | [Campaign Monitor for Zoho CRM](https://help.zoho.com/portal/en/kb/crm/campaign-monitor-for-zoho-crm) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/campaign-monitor-for-zoho-crm) |
+| 3 | [Creating Campaigns](https://help.zoho.com/portal/en/kb/crm/create-campaigns) | 10 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-campaigns) |
+| 4 | [Troubleshooting Zoho Campaigns integration with Zoho CRM](https://help.zoho.com/portal/en/kb/crm/troubleshooting-campaigns-integration-for-zoho-crm) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-campaigns-integration-for-zoho-crm) |
+| 5 | [Marketing Attribution](https://help.zoho.com/portal/en/kb/crm/marketing-attribution) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/marketing-attribution) |
+
+### Sample Image URLs (from top articles)
+**[Integrating Zoho Campaigns with Zoho CRM](https://help.zoho.com/portal/en/kb/crm/zoho-campaigns-crm-integration)** — 19 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ad6d2d074c2e99997fa8577efcc34ac3247f04ce8baf7328dd29e75e665cd2ad7b6a539b3849b69ddf82eb05b62bd5b3?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57433db69d51b0a994a60708dbae88194bf3747441d530e673ae4f88cce17cc36120a823e8be92a18b839cb74a67dd082a?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b578729291a3608153906ad5c8221ed6f61e4be76bc4e6dc7931ce7a5a530b11a1c6ee5ec5186f7f03c1df4df5eeeafaa66?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57715811b48b2ff026afd4a9fae734f28c8a18c75a924d8443851b45a99859703bdcaf7cea8d8799fabb19a7a87e2bc509?inline=true`
+[View all 19 images in article →](https://help.zoho.com/portal/en/kb/crm/zoho-campaigns-crm-integration)
+
+**[Campaign Monitor for Zoho CRM](https://help.zoho.com/portal/en/kb/crm/campaign-monitor-for-zoho-crm)** — 10 images
+- `https://static.zohocdn.com/zoho-desk-editor/static/images/file.png`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b573fd0cd6a96167c8989000a62adbd5faf816e75bdac341f9d020a7a17b13332881811d758886456ec462fdbb0a4ddb9be?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b573dba07262723ed09d64da2b0688d09438291f20f9342053261d2134db48b91ebe3b0a26eeebf89f822e6341b81c80459?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b574e3d47225138c5fcbe0f15c1a60a105438bc291ac03ab57b31ce05b59835b67b3465187b079e4981d426b1ecdb7b56e2?inline=true`
+[View all 10 images in article →](https://help.zoho.com/portal/en/kb/crm/campaign-monitor-for-zoho-crm)
+
+**[Creating Campaigns](https://help.zoho.com/portal/en/kb/crm/create-campaigns)** — 10 images
+- `https://www.zohowebstatic.com/sites/default/files/crm/campaign-lead-filter.jpg`
+- `https://www.zohowebstatic.com/sites/default/files/crm/filter-lead-2.jpg`
+- `https://www.zohowebstatic.com/sites/default/files/crm/new-lead2.jpg`
+- `https://www.zohowebstatic.com/sites/default/files/crm/quick-create-lead-campaign.jpg`
+[View all 10 images in article →](https://help.zoho.com/portal/en/kb/crm/create-campaigns)
+
+**[Troubleshooting Zoho Campaigns integration with Zoho CRM](https://help.zoho.com/portal/en/kb/crm/troubleshooting-campaigns-integration-for-zoho-crm)** — 8 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b575eacc90bc8f6acf488cb1aff3d2aa1961aca453b8218ce57176691cce13e06223032693dc77b661b4ff99bdd0c84b011?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5756def0e96d451fe408a92cf52990f9c77a7f669f50021c634d9fe8a19703d65418b050c264dcbbeb0d1452d652f3e4a0?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b572df8f7d12fbad77eaab308f9b740a2f86f8a05d3f158f182e31b11f82ec03320a476f6b77b2e92b494ec5dcbac560dbe?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5766a4b9dd9f05f36d4c1cb1b4a60baec0e7eff0a34c7bfda249d631815f0e360176be742401f5e7b6ed03615d62678366?inline=true`
+[View all 8 images in article →](https://help.zoho.com/portal/en/kb/crm/troubleshooting-campaigns-integration-for-zoho-crm)
+
+**[Marketing Attribution](https://help.zoho.com/portal/en/kb/crm/marketing-attribution)** — 8 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b575a6fb3c4c59309f45418ad43fbae8237b6b07a31adc3447ccdb1dc75cfcb0f7594d9314275894b0b0cf0514212718842?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d19f5fd83dd072a3db22900013113d9ff2a54463062ff35a3fd5fa70a1e76d50351265824fea2a7ca11b64671d1b7894?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57bc468e5aed61b6686e92de2411141e1563487eced486b49db460c519635eaf520c44cece3de5c319b08e8056caa52963?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d5074225f555b7b7615b7f7bcb9f02bf9730e983239f3739decb4992b1f64a847decca3cb0240db93d22396348d9f371?inline=true`
+[View all 8 images in article →](https://help.zoho.com/portal/en/kb/crm/marketing-attribution)
+

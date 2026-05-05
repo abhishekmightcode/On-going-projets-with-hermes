@@ -353,3 +353,98 @@ Organization
 
 *Generated for PanaceaX AI-native CRM -- Zoho CRM Feature Analysis*
 *Source: Zoho CRM Knowledge Base -- May 2026*
+
+---
+## UI Screenshots & Image Reference
+This feature has **51 KB articles** with **523 UI images** available for UI replication.
+### Articles with Screenshots
+| # | Article | Images | Source |
+|---|---------|--------|--------|
+| 1 | [Types of Custom Fields](https://help.zoho.com/portal/en/kb/crm/types-of-fields) | 46 | [View Article](https://help.zoho.com/portal/en/kb/crm/types-of-fields) |
+| 2 | [Working with Page Layouts](https://help.zoho.com/portal/en/kb/crm/create-page-layouts) | 38 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-page-layouts) |
+| 3 | [Voice of the Customer Settings — Enabling, disabling and more.](https://help.zoho.com/portal/en/kb/crm/voice-of-the-customer-settings) | 28 | [View Article](https://help.zoho.com/portal/en/kb/crm/voice-of-the-customer-settings) |
+| 4 | [Customizing Module View Using the all-new Canvas design suite](https://help.zoho.com/portal/en/kb/crm/customizing-module-view-using-the-all-new-canvas-design-suite) | 27 | [View Article](https://help.zoho.com/portal/en/kb/crm/customizing-module-view-using-the-all-new-canvas-design-suite) |
+| 5 | [Troubleshooting Settings and Customizations](https://help.zoho.com/portal/en/kb/crm/troubleshooting-settings-and-customization) | 25 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-settings-and-customization) |
+| 6 | [Using Custom Buttons](https://help.zoho.com/portal/en/kb/crm/custom-buttons) | 21 | [View Article](https://help.zoho.com/portal/en/kb/crm/custom-buttons) |
+| 7 | [Troubleshooting Module Customization](https://help.zoho.com/portal/en/kb/crm/troubleshooting-module-customization) | 18 | [View Article](https://help.zoho.com/portal/en/kb/crm/troubleshooting-module-customization) |
+| 8 | [Working with Custom Fields](https://help.zoho.com/portal/en/kb/crm/use-custom-fields) | 18 | [View Article](https://help.zoho.com/portal/en/kb/crm/use-custom-fields) |
+| 9 | [Multi-select lookup fields in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/multi-select-lookup-fields-in-zoho-crm-android-app) | 18 | [View Article](https://help.zoho.com/portal/en/kb/crm/multi-select-lookup-fields-in-zoho-crm-android-app) |
+| 10 | [Auto-update multiple fields with same values.](https://help.zoho.com/portal/en/kb/crm/auto-upload-fields-that-have-similar-data) | 17 | [View Article](https://help.zoho.com/portal/en/kb/crm/auto-upload-fields-that-have-similar-data) |
+| 11 | [Creating Custom Tabs](https://help.zoho.com/portal/en/kb/crm/custom-tabs-creator-crm-integration) | 17 | [View Article](https://help.zoho.com/portal/en/kb/crm/custom-tabs-creator-crm-integration) |
+| 12 | [Multi-select lookup fields  in iOS app](https://help.zoho.com/portal/en/kb/crm/multi-select-lookup-fields-in-ios-app) | 16 | [View Article](https://help.zoho.com/portal/en/kb/crm/multi-select-lookup-fields-in-ios-app) |
+| 13 | [Creating Formula Fields](https://help.zoho.com/portal/en/kb/crm/create-formula-fields) | 15 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-formula-fields) |
+| 14 | [Address Field](https://help.zoho.com/portal/en/kb/crm/address-field-in-zoho-crm) | 13 | [View Article](https://help.zoho.com/portal/en/kb/crm/address-field-in-zoho-crm) |
+| 15 | [Customizing Organization Modules](https://help.zoho.com/portal/en/kb/crm/customize-modules) | 13 | [View Article](https://help.zoho.com/portal/en/kb/crm/customize-modules) |
+| 16 | [Create a Homepage using Home View in Canvas](https://help.zoho.com/portal/en/kb/crm/create-a-homepage-using-home-view-in-canvas) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/create-a-homepage-using-home-view-in-canvas) |
+| 17 | [Personal customer insights by VoC](https://help.zoho.com/portal/en/kb/crm/personal-customer-insights-by-voc) | 12 | [View Article](https://help.zoho.com/portal/en/kb/crm/personal-customer-insights-by-voc) |
+| 18 | [Concatenate two fields — (Combining two field values onto a third field)](https://help.zoho.com/portal/en/kb/crm/concatenate-two-fields) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/concatenate-two-fields) |
+| 19 | [Marking Personal Fields](https://help.zoho.com/portal/en/kb/crm/marking-personal-fields) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/marking-personal-fields) |
+| 20 | [Communicating with customers through iPhone](https://help.zoho.com/portal/en/kb/crm/communicating-with-customers-through-iphone) | 11 | [View Article](https://help.zoho.com/portal/en/kb/crm/communicating-with-customers-through-iphone) |
+| 21 | [Using Copy Customization](https://help.zoho.com/portal/en/kb/crm/using-copy-customization) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/using-copy-customization) |
+| 22 | [Customizing Home Tab](https://help.zoho.com/portal/en/kb/crm/customize-home-tab) | 9 | [View Article](https://help.zoho.com/portal/en/kb/crm/customize-home-tab) |
+| 23 | [Drill down into your customers' voices](https://help.zoho.com/portal/en/kb/crm/drill-down-into-your-customers-voices-7-1-2025) | 8 | [View Article](https://help.zoho.com/portal/en/kb/crm/drill-down-into-your-customers-voices-7-1-2025) |
+| 24 | [Communicating with Customers](https://help.zoho.com/portal/en/kb/crm/communicating-with-customers-using-zoho-crm-android-app) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/communicating-with-customers-using-zoho-crm-android-app) |
+| 25 | [Voice of the Customer — Scope](https://help.zoho.com/portal/en/kb/crm/voice-of-the-customer-scope) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/voice-of-the-customer-scope) |
+| 26 | [Customizations in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/customizations-in-zoho-crm) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/customizations-in-zoho-crm) |
+| 27 | [Orchestrate customer journey using CommandCenter from Zoho CRM](https://help.zoho.com/portal/en/kb/crm/orchestrate-customer-journey-using-commandcenter-from-zoho-crm) | 7 | [View Article](https://help.zoho.com/portal/en/kb/crm/orchestrate-customer-journey-using-commandcenter-from-zoho-crm) |
+| 28 | [Field of Lookup](https://help.zoho.com/portal/en/kb/crm/field-of-lookup) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/field-of-lookup) |
+| 29 | [Conditional Layouts - Concept and Benefits](https://help.zoho.com/portal/en/kb/crm/conditional-layouts-concept-and-benefits) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/conditional-layouts-concept-and-benefits) |
+| 30 | [FAQs: General questions on customization](https://help.zoho.com/portal/en/kb/crm/general-questions-on-customization) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/general-questions-on-customization) |
+| 31 | [Customizing Setup Page](https://help.zoho.com/portal/en/kb/crm/customizing-setup-page) | 6 | [View Article](https://help.zoho.com/portal/en/kb/crm/customizing-setup-page) |
+| 32 | [Fields List Page](https://help.zoho.com/portal/en/kb/crm/fields-list-page) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/fields-list-page) |
+| 33 | [Setting Field Updates](https://help.zoho.com/portal/en/kb/crm/field-updates) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/field-updates) |
+| 34 | [Customizing the User Layout](https://help.zoho.com/portal/en/kb/crm/user-layout-customization) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/user-layout-customization) |
+| 35 | [Connect with customers using LINE: Integration with Zoho CRM](https://help.zoho.com/portal/en/kb/crm/connect-with-customers-using-line-integration-with-zoho-crm) | 5 | [View Article](https://help.zoho.com/portal/en/kb/crm/connect-with-customers-using-line-integration-with-zoho-crm) |
+| 36 | [Modifying Special Fields](https://help.zoho.com/portal/en/kb/crm/modify-special-fields) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/modify-special-fields) |
+| 37 | [Customization](https://help.zoho.com/portal/en/kb/crm/customizing-in-zoho-crm-android-app) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/customizing-in-zoho-crm-android-app) |
+| 38 | [Customize Zoho CRM for B2C](https://help.zoho.com/portal/en/kb/crm/customize-crm-b2c-companies) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/customize-crm-b2c-companies) |
+| 39 | [FAQ: Canvas in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/faq-canvas-in-zoho-crm) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/faq-canvas-in-zoho-crm) |
+| 40 | [Customizing the navigation bar in the Zoho CRM iOS app ](https://help.zoho.com/portal/en/kb/crm/customizing-the-navigation-bar-in-the-zoho-crm-ios-app) | 4 | [View Article](https://help.zoho.com/portal/en/kb/crm/customizing-the-navigation-bar-in-the-zoho-crm-ios-app) |
+| 41 | [Canvas in sandbox](https://help.zoho.com/portal/en/kb/crm/canvas-in-sandbox) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/canvas-in-sandbox) |
+| 42 | [Canvas Record Form](https://help.zoho.com/portal/en/kb/crm/canvas-record-form) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/canvas-record-form) |
+| 43 | [FAQs on Page Layouts](https://help.zoho.com/portal/en/kb/crm/page-layout-faq) | 3 | [View Article](https://help.zoho.com/portal/en/kb/crm/page-layout-faq) |
+| 44 | [FAQs: Customer support](https://help.zoho.com/portal/en/kb/crm/faqs-on-customer-support) | 2 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-on-customer-support) |
+| 45 | [Data types in Formula Fields](https://help.zoho.com/portal/en/kb/crm/formula-fields-data-type) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/formula-fields-data-type) |
+| 46 | [Building Formula Fields](https://help.zoho.com/portal/en/kb/crm/build-formula-fields) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/build-formula-fields) |
+| 47 | [Custom buttons and custom links in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/custom-buttons-and-custom-links-in-zoho-crm-ios-app) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/custom-buttons-and-custom-links-in-zoho-crm-ios-app) |
+| 48 | [FAQs: Page layouts](https://help.zoho.com/portal/en/kb/crm/faqs-page-layouts) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-page-layouts) |
+| 49 | [FAQs : Field Customization](https://help.zoho.com/portal/en/kb/crm/faqs-field-customization) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/faqs-field-customization) |
+| 50 | [Rollup summary field in Android app](https://help.zoho.com/portal/en/kb/crm/rollup-summary-field-in-android-app) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/rollup-summary-field-in-android-app) |
+| 51 | [Copy Customization](https://help.zoho.com/portal/en/kb/crm/copy-customization-from-crm) | 1 | [View Article](https://help.zoho.com/portal/en/kb/crm/copy-customization-from-crm) |
+
+### Sample Image URLs (from top articles)
+**[Types of Custom Fields](https://help.zoho.com/portal/en/kb/crm/types-of-fields)** — 46 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5783df65545c7e2425dd901bdd3605b6802063d2937b65dbb5c07310b0a19bd075ca6d6b525a1d2437357837423923f25d?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b577660bca885e6b396046d2bbdf1a8f86b6dece7d80f0b7ec81d67a331f8b4ced6aa74bbcbe5fc170efd283788075d26b2?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57a116be7e77c1fdd4c2b487addc216b65bc7d260e1d33ae06d54d6d0deb49e1b82a8ad70e4b1f6dd76d06f00a60902769?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57c9949c968fdee062803569f41968e66a659da13e61eb358c85f2cacd6639f44b249bdfa60312517b22dbcad18eea62a1?inline=true`
+[View all 46 images in article →](https://help.zoho.com/portal/en/kb/crm/types-of-fields)
+
+**[Working with Page Layouts](https://help.zoho.com/portal/en/kb/crm/create-page-layouts)** — 38 images
+- `https://www.zohowebstatic.com/sites/default/files/crm/mpl-image1.jpg`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d612695e48102543cc3dbc330d308618a96a28d64978acb2e1872812aa05bb908790844d3f3f9c89f2c0237511e73294?inline=true`
+- `https://www.zohowebstatic.com/sites/default/files/mpl-create-new.png`
+- `https://www.zohowebstatic.com/sites/default/files/mpl-clone-layout.png`
+[View all 38 images in article →](https://help.zoho.com/portal/en/kb/crm/create-page-layouts)
+
+**[Voice of the Customer Settings — Enabling, disabling and more.](https://help.zoho.com/portal/en/kb/crm/voice-of-the-customer-settings)** — 28 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571a0bf2854440af044dd364b1527c12bea49a761d9a8ed01acfa12e1922a100b43602b018fb4a76265ac6f7e1cce05707?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57e19ffa329327460ed7bf68dba327bc8089b5ea596399bec2789c8981cf22f5003e6916c7d05b884cddb1d2cdb73f0f88?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57d9bc543d3638d068e6986a78ac5e8211af0673ffd83ff7c78eecb1798d00602ec68af9fa7f93b1aceeb2b5c88255cb75?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57ee10d8d92f17cb7b92ed78a5a037fdf5353e5dfafc987ecfe14c6ed9315c6a3de839a3988cd793b985e74d0ad465f3bc?inline=true`
+[View all 28 images in article →](https://help.zoho.com/portal/en/kb/crm/voice-of-the-customer-settings)
+
+**[Customizing Module View Using the all-new Canvas design suite](https://help.zoho.com/portal/en/kb/crm/customizing-module-view-using-the-all-new-canvas-design-suite)** — 27 images
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b5738a9ed9c8a7190007f26da2b8ff4e4f1dda095b34c7cc1eaa6e9aebf8ebf7fdc896154952132418ffe29e5df48e27c16?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b571bbf265732d3d142ce47b367283fa298e625ff1e4fb7417b5f244086171b4a3e5c711b76bbb4e2fa4ab4820932d7f5a1?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57bc6b7a747e6bd98515b478e192c9564089c48764aedc23b1133724a9d5829f63d6bf35c1b934eb2e57230b4a901a5a17?inline=true`
+- `https://help.zoho.com/galleryDocuments/edbsnee9ab807a7b25b4e8f807e302b324b57eefd2982cdba0590e2f8f332757ba9b5783e3b96a86c31e9a0c78e6879b5ae8ecab36c63493eefd7239bbccc554bb739?inline=true`
+[View all 27 images in article →](https://help.zoho.com/portal/en/kb/crm/customizing-module-view-using-the-all-new-canvas-design-suite)
+
+**[Troubleshooting Settings and Customizations](https://help.zoho.com/portal/en/kb/crm/troubleshooting-settings-and-customization)** — 25 images
+- `https://desk.zoho.in/galleryDocuments/edbsndcf0d1c48438530e2935964033ef20ec21ba46274738c5a1ecf279668eef691d01a4250050f4efd086f7f716be48753c2dd08b002b9e8c53624476276f7e2045?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsndcf0d1c48438530e2935964033ef20ec9abd490e98425c671cc9f75b56eaeead30499bffa87fa6afca154db69412ed648407d131bca36dc8c1f3bcb94ca66f80?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsndcf0d1c48438530e2935964033ef20ecbeea75fcf9e923123149c855a558275e6e6f1d126eb6fa939996585ce53650b707e45ad5b2d8900dbf37551b4b467c4f?inline=true`
+- `https://desk.zoho.in/galleryDocuments/edbsndcf0d1c48438530e2935964033ef20ecca43026429669a3e3164b8338d0de6e3ce20a2b0af546d35d5b65a1fc8da02f4cbe27faa58071e3f3a695f9fa856e586?inline=true`
+[View all 25 images in article →](https://help.zoho.com/portal/en/kb/crm/troubleshooting-settings-and-customization)
+
