@@ -1,0 +1,1600 @@
+{
+  "205219020848785572": [
+    "usonar-for-zoho-crm",
+    "campaign-monitor-for-zoho-crm",
+    "naijasmsportal-for-zoho-crm",
+    "marketo-for-zoho-crm",
+    "ytel-20-2-2025",
+    "bigin-for-zoho-crm",
+    "bigin-for-zoho-crm-faqs",
+    "sentiment-analysis-for-zoho-crm",
+    "on24webinar-for-zoho-crm",
+    "bombbomb-for-zoho-crm",
+    "sansan-for-zoho-crm",
+    "corporate-number-extension-for-zoho-crm",
+    "wechat-for-zoho-crm-3-8-2021",
+    "gocardless-for-zoho-crm",
+    "seikyu-kanri-robo-payment-for-zoho-crm",
+    "map-plotter-for-zoho-crm",
+    "brevo",
+    "mf-cloud-integration-for-zoho-crm",
+    "servicenow-for-zoho-crm",
+    "charm-health-for-zoho-crm",
+    "clearbit-for-zoho-crm",
+    "sms-misr-for-zoho-crm",
+    "sharepoint-for-zoho-crm",
+    "qualtrics-for-zoho-crm",
+    "facebook-advert-manager-crm-integration",
+    "eventbrite",
+    "surveymonkey-crm-integration",
+    "webpower-crm-integration",
+    "mailchimp-crm-integration",
+    "tencent-crm-integration",
+    "linkedin-sales-navigator-crm-integration",
+    "ytel",
+    "freee-for-zoho-crm-28-8-2024",
+    "edison-29-8-2024",
+    "microsoft-qna-maker-for-zoho-crm-29-8-2024"
+  ],
+  "205219020848785649": [
+    "avaya",
+    "cisco-telephony-integration-beta-release",
+    "integrate-telus",
+    "integrate-spotfone",
+    "integrate-amazon-connect",
+    "integrate-go-integrator",
+    "integrate-inopla",
+    "integrate-bt-cloud-phone",
+    "integrate-vonageconnect",
+    "integrate-jive",
+    "integrate-duocom",
+    "working-with-telephony",
+    "integrate-with-aircall",
+    "integrate-sipgate",
+    "integrate-with-knowlarity",
+    "ringcentral-integrate",
+    "integrate-kixie",
+    "integrate-office-at-hand",
+    "integrate-with-ringio",
+    "integrate-monema",
+    "integrate-zadarma",
+    "integrate-five9",
+    "integrate-7moor",
+    "miitel-for-zoho-crm",
+    "integrate-zoom-phone",
+    "enable-disable-telephony",
+    "ozonetel-29-8-2024",
+    "promero-29-8-2024",
+    "123-ivr-by-ikontel",
+    "synpbx-29-8-2024",
+    "activepbx-29-8-2024",
+    "ameyo-engage-29-8-2024",
+    "hubthunder-29-8-2024",
+    "workphone-29-8-2024",
+    "integrate-with-ringcentral-29-8-2024",
+    "twilio-29-8-2024-1",
+    "ozonetel-29-8-2024-1",
+    "promero-29-8-2024-1",
+    "123-ivr-by-ikontel-29-8-2024",
+    "synpbx-29-8-2024-1",
+    "activepbx-29-8-2024-1",
+    "ameyo-engage-29-8-2024-1",
+    "hubthunder-29-8-2024-1",
+    "workphone-29-8-2024-1"
+  ],
+  "205219020836943049": [
+    "storage-in-sandbox",
+    "desk-integration-in-sandbox",
+    "deploy-sandbox",
+    "canvas-in-sandbox",
+    "survey-integration-in-sandbox",
+    "social-integration-in-sandbox",
+    "working-with-sandbox",
+    "creating-sandbox",
+    "sandbox-overview",
+    "webinar-integration-in-sandbox"
+  ],
+  "205219020830585142": [
+    "troubleshooting-settings-and-customization",
+    "troubleshooting-settings-and-customizations",
+    "troubleshooting-email-templates",
+    "troubleshooting-webforms",
+    "troubleshooting-workflows",
+    "troubleshoot-coql",
+    "troubleshooting-integration-of-zoho-crm-with-zoho-advanced-analytics",
+    "troubleshooting-imap-pop3-configuration",
+    "troubleshooting-zoho-backstage-integration-with-zoho-crm",
+    "troubleshooting-zoho-desk-integration-with-zoho-crm",
+    "troubleshooting-pipelines",
+    "troubleshooting-campaigns-integration-for-zoho-crm",
+    "troubleshooting-module-customization",
+    "troubleshooting-data-backup",
+    "troubleshooting-data-storage",
+    "troubleshooting-data-import-export",
+    "troubleshooting-recycle-bin-audit-log",
+    "troubleshooting-blueprint",
+    "troubleshooting-mass-emails",
+    "troubleshooting-email-relay",
+    "troubleshooting-email-deliverability",
+    "troubleshooting-email-parser",
+    "troubleshooting-salesinbox"
+  ],
+  "205219020836625446": [
+    "mirror-component",
+    "record-category-classify-and-track-record-status-with-picklist-mapping",
+    "address-field-in-zoho-crm",
+    "field-of-lookup",
+    "working-with-global-sets",
+    "overview-of-global-sets",
+    "lookup-filters",
+    "color-coding-of-picklist-values",
+    "modify-special-fields",
+    "standard-modules-fields",
+    "picklist-history",
+    "formula-fields-data-type",
+    "formula-fields-functions",
+    "field-level-customization",
+    "build-formula-fields",
+    "formula-field-example",
+    "types-of-fields",
+    "use-custom-fields",
+    "create-formula-fields",
+    "fields-list-page"
+  ],
+  "205219033890600405": [
+    "create-lead-from-contact-using",
+    "auto-upload-fields-that-have-similar-data",
+    "concatenate-two-fields",
+    "automatically-create-a-deal-name",
+    "streamlining-the-vendor-management-and-contract-signing-process-in-a-travel-industry",
+    "zoho-crm-for-non-profit-organizations",
+    "zoho-crm-to-automate-donor-generation-and-retention-activities",
+    "managing-multiple-services-in-non-profit-organization",
+    "create-system-defined-sales-process-for-a-step-by-step-lead-conversion",
+    "associate-a-contact-with-multiple-companies-or-accounts",
+    "manage-cases",
+    "sales-process-closing-deals",
+    "sales-process-lead-engagement",
+    "sales-process-lead-generation",
+    "identify-duplicates-among-leads-contacts",
+    "automatic-schedule-notifications",
+    "assess-call-quality-review-performance",
+    "set-up-org-details",
+    "follow-up-routine-to-qualify-leads",
+    "approval-process-scenario",
+    "module-customize-scenario",
+    "workflow-webhook-scenario",
+    "lead-assignment-based-on-lead-source"
+  ],
+  "205219020848785561": [
+    "address-locator-for-zoho-crm",
+    "dun-and-bradstreet-for-zoho-crm",
+    "zoho-contracts-for-zoho-crm",
+    "kanban-board-for-zoho-crm-faqs",
+    "kanban-board-crm-integration",
+    "walk-score-for-zoho-crm",
+    "wechat-pay-for-zoho-crm",
+    "formstack-documents-24-2-2020-1",
+    "commission-management-for-zoho-crm",
+    "kanban-board-for-zoho-crm",
+    "idle-deal-alert-crm-integration",
+    "marketo-crm-integration",
+    "shopify-crm-integration",
+    "google-apps-sync-crm-integration",
+    "gotowebinar-crm-integration",
+    "gotomeeting-29-8-2024",
+    "lead-queue-for-zoho-crm"
+  ],
+  "205219020848785166": [
+    "configure-zoho-crm-for-gmail-add-on",
+    "use-gmail-api",
+    "google-chat-integration",
+    "gmail-inbox-crm-integration",
+    "export-to-google-tasks",
+    "synchronize-g-suite-contacts",
+    "web-forms-google-sites",
+    "attach-google-drive",
+    "synchronize-g-suite-calendar",
+    "export-meetings-google-calendar",
+    "import-contacts-g-suite",
+    "add-g-suite-users",
+    "g-suite-crm-integration"
+  ],
+  "205219020848785606": [
+    "fujifilm-iwpro-document-for-zoho-crm",
+    "microsoft-exchange-administrator-guide",
+    "trello",
+    "remote-sales-office",
+    "hubspot-for-zoho-crm",
+    "converse-for-zoho-crm",
+    "onenote-integration",
+    "microsoft-exchange-user-guide",
+    "slack-crm-integration",
+    "egnyte-crm-integration",
+    "dropbox-crm-integration",
+    "box-crm-integration",
+    "google-drive-crm-integration",
+    "cisco-webex-teams",
+    "zoho-vault-for-zoho-crm",
+    "ibm-notes-29-8-2024"
+  ],
+  "205219033890565797": [
+    "record-management-in-zoho-crm",
+    "review-process-2-7-2021",
+    "webform-analytics-2-7-2021",
+    "webform-a-b-testing-2-7-2021",
+    "assignment-rules-2-7-2021",
+    "fields-in-zoho-crm",
+    "actions-webhooks",
+    "actions-functions",
+    "actions-email-notifications",
+    "actions-tasks",
+    "actions-field-updates",
+    "actions-an-introduction",
+    "copy-customization-8-6-2020",
+    "workflow-actions",
+    "roles-26-4-2020",
+    "forecasting",
+    "user-management-2-4-2020",
+    "business-hour",
+    "data-backup-video",
+    "conditional-layout",
+    "marketing-attribution-16-9-2021",
+    "automating-with-workflow-rules",
+    "profiles-roles-video",
+    "zoho-sales-iq-integration",
+    "page-layouts",
+    "webforms",
+    "gdpr-compliance",
+    "assignment-rules",
+    "telephony-14-2-2019",
+    "salessignals-14-2-2019",
+    "blueprint",
+    "approval-process-14-2-2019",
+    "validation-rules",
+    "subforms-14-2-2019",
+    "interlinking-modules",
+    "gamescope",
+    "data-migration-video",
+    "data-import",
+    "scoring-rules",
+    "design-customized-email-templates"
+  ],
+  "205219020836625984": [
+    "migrating-from-freshsales",
+    "migrating-from-highrise",
+    "migrating-from-maximizer",
+    "migrating-from-salesforce",
+    "migrating-between-zoho-crm-accounts",
+    "data-migration-overview",
+    "migrating-from-capsule-to-zoho-crm",
+    "migrating-from-bigin-to-zoho-crm",
+    "migrating-from-act-crm-to-zoho-crm",
+    "migrating-from-sugar-crm-to-zoho-crm",
+    "migrating-from-bitrix",
+    "migrating-from-insightly",
+    "migrating-from-hubspot",
+    "migrating-from-pipedrive",
+    "migrating-from-ms-dynamics"
+  ],
+  "205219020837198624": [
+    "blueprint-usage-reports",
+    "execute-blueprint",
+    "save-blueprint",
+    "design-a-blueprint",
+    "blueprint-an-overview",
+    "create-continuous-blueprint",
+    "blueprint-building-blocks",
+    "sample-process-flow-blueprint",
+    "faqs-on-blueprint",
+    "blueprint-glossary-terms",
+    "cloning-blueprint",
+    "parallel-and-multiple-transitions-configuration-and-usage"
+  ],
+  "205219031918690962": [
+    "privacy-and-security-settings-in-the-zoho-crm-ios-app",
+    "switching-between-organizations-in-zoho-crm-ios-app",
+    "user-details-in-zoho-crm-ios-app",
+    "using-zoho-crm-native-app-for-ipads",
+    "modules-supported-in-ios-app",
+    "installing-the-app-in-iphone",
+    "installing-zoho-crm-app-in-ipad",
+    "zoho-crm-for-ipad",
+    "zoho-crm-iphone-an-overview",
+    "organizing-the-homepage-in-zoho-crm-ios-app"
+  ],
+  "205219031918859928": [
+    "converting-leads-in-zoho-crm-ios-app",
+    "appointments-module-in-zoho-crm-ios-app",
+    "understanding-the-new-record-details-view-in-ios-app",
+    "contact-roles-support-for-deals-in-zoho-crm-ios-app",
+    "team-modules-in-zoho-crm-ios-app",
+    "teamspace-in-zoho-crm-for-ios",
+    "working-with-notes-in-zoho-crm-ios-app",
+    "record-sharing-in-zoho-crm-ios-app",
+    "actions-performed-on-records-in-zoho-crm-ios-app"
+  ],
+  "205219020837847633": [
+    "sankey-charts",
+    "zia-dashboard-insights",
+    "analytical-components",
+    "create-dashboard",
+    "create-charts",
+    "create-comparator",
+    "create-target-meter",
+    "create-funnels",
+    "create-kpi",
+    "cohort-analysis",
+    "quadrant-analysis",
+    "creating-anomaly-detector",
+    "stage-component",
+    "zia-strategy-influencer",
+    "zone-analysis",
+    "waterfall",
+    "visualize-hierarchical-datasets-using-treemap-charts",
+    "compare-and-contrast-competing-datasets-using-butterfly-charts"
+  ],
+  "205219023620130909": [
+    "emails-deliverability-in-zoho-crm",
+    "crm-set-up-email-relay",
+    "organization-email",
+    "email-authentication",
+    "email-parser",
+    "nextegn-email-parser-overview",
+    "nextegn-email-parser-what-s-new-and-what-has-changed",
+    "email-parser-old",
+    "setting-email-preferences",
+    "setting-up-email-sharing-permissions"
+  ],
+  "205219020848785617": [
+    "star-leaf-meeting",
+    "mega-meeting",
+    "click-meeting",
+    "zoom",
+    "teamviewer",
+    "ringcentral-video",
+    "gotomeeting-events",
+    "bluejeans",
+    "cisco-webex",
+    "join-me"
+  ],
+  "205219031944910276": [
+    "user-details-in-zoho-crm-android-app",
+    "zoho-crm-app-settings-for-android",
+    "using-native-app-for-tablets",
+    "zoho-crm-for-android",
+    "installing-the-app",
+    "working-with-analytics-in-zoho-crm-android-app",
+    "zoho-crm-android-app-settings",
+    "organizing-your-home-page-in-zoho-crm-android-app"
+  ],
+  "205219020836397653": [
+    "manage-subscriptions"
+  ],
+  "205219020837091791": [
+    "workflow-rules-calls",
+    "workflow-for-emails",
+    "workflow-report",
+    "workflow-for-social",
+    "workflow-scenarios",
+    "configuring-workflow-rules",
+    "automating-workflows",
+    "convert-records-using-workflow-rule",
+    "workflow-rules-for-appointments"
+  ],
+  "205219020837282867": [
+    "attachment-zoho-docs",
+    "organizing-notes",
+    "manage-notes-and-attachments",
+    "attachment-limits",
+    "attach-url-to-record",
+    "attachment-from-desktop",
+    "sticky-notes",
+    "attach-files-workdrive",
+    "attaching-files-from-other-cloud-drives"
+  ],
+  "205219020837282982": [
+    "approve-records",
+    "working-with-tags",
+    "tagging-records-in-crm",
+    "tagging-records",
+    "common-operations-with-records",
+    "printing-mailing-labels",
+    "search-records",
+    "navigate-records",
+    "associate-other-records"
+  ],
+  "205219020837847814": [
+    "activities",
+    "log-calls",
+    "working-with-tasks-and-meetings",
+    "working-with-meetings-new",
+    "booking-appointments-for-services"
+  ],
+  "205219031945011230": [
+    "communicating-with-customers-using-zoho-crm-android-app",
+    "collaborating-using-feeds-in-zoho-crm-android-app",
+    "whatsapp-business-messaging-in-zoho-crm-android-app",
+    "working-with-meetings-in-zoho-crm-android-app",
+    "working-with-zoho-surveys-in-crm-android-app"
+  ],
+  "205219031946178392": [
+    "searching-records-in-zoho-crm-android",
+    "working-with-the-inventory-modules-in-zoho-crm-android-app-26-4-2026",
+    "multi-select-lookup-fields-in-zoho-crm-android-app",
+    "actions-performed-on-records",
+    "rollup-summary-field-in-android-app",
+    "team-modules-in-zoho-crm-android-app",
+    "teamspace-in-zoho-crm-for-android",
+    "record-sharing-in-zoho-crm-android-app",
+    "tags-in-zoho-crm-for-android",
+    "reports-module-in-zoho-crm-android-app"
+  ],
+  "205219020837091899": [
+    "set-email-notifications",
+    "webhooks-workflow",
+    "creating-actions-in-workflow-rules",
+    "associate-functions-workflow-rules",
+    "workflow-tasks",
+    "field-updates",
+    "actions-by-zoho-flow",
+    "assigning-record-owner"
+  ],
+  "205219020848517819": [
+    "what-is-abm",
+    "creating-a-segment",
+    "segment-dashboards",
+    "engagement-strategy-for-target-accounts",
+    "overall-account-insights",
+    "frequently-asked-questions-on-abm-for-zoho-crm-25-2-2026",
+    "account-overview-dashboard-24-2-2026",
+    "setting-up-abm-for-zohocrm"
+  ],
+  "205219020837282689": [
+    "working-on-records-in-approval-process",
+    "view-approval-history",
+    "set-approval-process",
+    "approval-tab",
+    "add-approval-process",
+    "reorder-approval-processes",
+    "actions-approval-rejection",
+    "faq-approval-process"
+  ],
+  "205219020836625468": [
+    "conditional-layouts-concept-and-benefits",
+    "page-layout-faq",
+    "create-page-layouts",
+    "layout-rule-exception",
+    "user-layout-customization",
+    "create-conditional-layouts"
+  ],
+  "205219020838171172": [
+    "zia-writing-assistant",
+    "zia-recommendation",
+    "workflow-suggestions",
+    "zia-similarity-recommender",
+    "zia-next-best-experience-new",
+    "zia-recommendation-analytics"
+  ],
+  "205219029667768434": [
+    "create-a-homepage-using-home-view-in-canvas",
+    "canvas-record-form",
+    "customizing-mobile-record-detail-page-using-canvas",
+    "customize-record-detail-page-canvas",
+    "customizing-module-view-using-the-all-new-canvas-design-suite"
+  ],
+  "205219032584869880": [
+    "record-owner-suggestion-in-assignment-rule",
+    "scoring-rules-zia-scores"
+  ],
+  "205219020849256075": [
+    "faqs-salesinbox"
+  ],
+  "205219020837091562": [
+    "email-configuration-for-microsoft-graph-api",
+    "sending-mass-emails",
+    "bcc-dropbox",
+    "email-association-with-deal",
+    "email-communication-send-and-receive-mails",
+    "email-configuration-for-imap-and-pop3",
+    "configuring-email-compose-setting"
+  ],
+  "205219023577665274": [
+    "acting-on-voc-insights"
+  ],
+  "205219020836625457": [
+    "update-your-html-inventory-templates-for-pdf-generator-upgrade",
+    "template-builder",
+    "inventory-template-builder",
+    "inventory-templates",
+    "standard-merge-fields",
+    "mail-merge-templates",
+    "email-templates"
+  ],
+  "205219020836625280": [
+    "marking-personal-fields",
+    "consent-management",
+    "data-privacy",
+    "managing-lawful-bases-for-data-processing",
+    "data-subject-rights",
+    "gdpr-introduction"
+  ],
+  "205219020836625479": [
+    "add-photo",
+    "record-locking-configuration-and-usage",
+    "page-level-customization",
+    "business-card-view"
+  ],
+  "205219020837091425": [
+    "set-up-web-forms",
+    "opt-in-checkbox",
+    "web-form-auto-response-rule",
+    "web-forms-introduction",
+    "webform-analytics",
+    "webform-ab-testing"
+  ],
+  "205219020837847672": [
+    "schedule-reports",
+    "editing-criteria-patterns",
+    "working-with-reports",
+    "faqs-on-reports-depreciated",
+    "understanding-and-building-reports",
+    "create-category-columns-in-reports"
+  ],
+  "205219020848728874": [
+    "faqs-zoho-crm-projects",
+    "faqs-zoho-crm-integration-with-zoho-survey",
+    "faqs-google-adwords",
+    "faqs-integration-with-other-apps",
+    "is-it-possible-to-book-appointments-in-zoho-crm-using-zoho-bookings",
+    "zoho-crm-integration-zoho-desk",
+    "faqs-crm-integration-with-sales-iq",
+    "faqs-plugin-for-microsoft-outlook",
+    "faqs-zoho-phonebridge-16-2-2023",
+    "faqs-on-mail-merge",
+    "faqs-zoho-crm-for-google-apps"
+  ],
+  "205219020837091359": [
+    "set-up-microsoft-teams-inside-crm-for-calls",
+    "telephony-introduction",
+    "configuring-built-in-telephony-in-zoho-crm",
+    "using-built-in-telephony",
+    "working-with-built-in-telephony",
+    "integrating-multiple-telephony-providers-in-an-organization"
+  ],
+  "205219031918865149": [
+    "custom-buttons-and-custom-links-in-zoho-crm-ios-app",
+    "configure-zoho-crm-settings-in-iphone",
+    "homescreen-quick-actions-in-zoho-crm-ios-app-23-2-2026-1",
+    "customizations-in-zoho-crm",
+    "themes-timezone-fonts-and-calendar-settings-in-zoho-crm-ios-app",
+    "customizing-the-navigation-bar-in-the-zoho-crm-ios-app"
+  ],
+  "205219032249839650": [
+    "voice-of-the-customer-scope",
+    "voc-dashboards-in-zoho-crm-a-study",
+    "voice-of-the-customer-settings",
+    "voice-of-the-customer-frequently-asked-questions"
+  ],
+  "205219020848517639": [
+    "manage-zoho-mail-add-on",
+    "pop-pop3-emails-tab",
+    "configure-pop-account",
+    "email-configuration-imap"
+  ],
+  "205219032249839683": [
+    "fetch-voc-insights-using-kiosk-on-demand",
+    "drill-down-into-your-customers-voices-7-1-2025"
+  ],
+  "205219020837282812": [
+    "documents-library",
+    "crm-file-storage-migration-guide",
+    "documents-in-zoho-crm",
+    "manage-folders-in-documents-tab",
+    "faqs-documents-tab-powered-by-workdrive",
+    "manage-files-in-documents-tab",
+    "manage-document",
+    "manage-document-folders"
+  ],
+  "205219031918952227": [
+    "platform-widgets-in-zoho-crm-ios-app-29-1-2026",
+    "ios-specific-features"
+  ],
+  "205219032249848401": [
+    "summary-analyses-a-voc-chart-for-on-the-go-insight",
+    "conduct-root-cause-analysis-in-voc",
+    "sentiment-based-profile-analysis",
+    "response-based-sentiment-analysis",
+    "competitor-analysis",
+    "survey-comparison",
+    "cross-sell-analytic",
+    "segmentation-analysis",
+    "voice-based-forecast-analysis",
+    "call-analytics",
+    "personal-customer-insights-by-voc",
+    "create-custom-dashboards"
+  ],
+  "205219020837091198": [
+    "use-social-tab",
+    "social-profiles",
+    "social-crm",
+    "set-up-social-tab",
+    "social-faq"
+  ],
+  "205219020830165931": [
+    "guided-selling",
+    "how-it-works",
+    "manage-cpq",
+    "what-is-cpq",
+    "cpq-rule-execution-product-configurator"
+  ],
+  "205219020838171464": [
+    "zia-for-emails",
+    "configure-email-sentiment",
+    "zia-email-intent",
+    "zia-email-emotion-analysis"
+  ],
+  "205219031946282191": [
+    "ask-or-chat-with-zia"
+  ],
+  "205219020837847777": [
+    "convert-leads",
+    "create-leads",
+    "standard-fields-leads",
+    "leads-26-4-2026"
+  ],
+  "205219020836397607": [
+    "assign-territories",
+    "territory-decision-management",
+    "use-territories",
+    "territory-management"
+  ],
+  "205219020836625429": [
+    "build-new-modules-to-bring-every-unique-customer-facing-process-inside-zoho-crm",
+    "linking-modules",
+    "customize-modules",
+    "web-tabs"
+  ],
+  "205219020837091521": [
+    "your-guide-to-zoho-crm-email-tools",
+    "mailmagnet-centralized-incoming-email-notification-panel"
+  ],
+  "205219031944707963": [
+    "configuring-module-specific-settings-in-zoho-crm-android-app",
+    "customizing-in-zoho-crm-android-app",
+    "wizards-in-crm-android-app",
+    "swipe-actions-in-zoho-crm-android-app",
+    "searching-records-in-zoho-crm-android-app"
+  ],
+  "205219031918865829": [
+    "approval-processes-in-zoho-crm-ios-app",
+    "working-with-my-jobs-module-in-iphone",
+    "execute-blueprints-on-iphone",
+    "assignment-threshold-in-zoho-crm-ios",
+    "managing-processes-on-iphone",
+    "multi-select-lookup-fields-in-ios-app",
+    "kiosk-in-zoho-crm-ios-app"
+  ],
+  "205219020836625490": [
+    "using-zoho-sheet-view",
+    "list-view",
+    "kanban-views",
+    "module-views",
+    "map-view"
+  ],
+  "205219020836625501": [
+    "exceptions",
+    "create-validation-rules",
+    "use-cases-validation-rules-functions",
+    "create-validation-rules-using-functions"
+  ],
+  "205219020837091185": [
+    "setting-up-portal",
+    "sign-up-forms",
+    "saml-based-single-sign-on-sso-in-crm-portals-overview",
+    "configuring-saml-based-sso-in-crm-portals"
+  ],
+  "205219020837282744": [
+    "introduction-to-process-management",
+    "blueprint-and-journey-builder",
+    "process-management-solutions-perspective",
+    "process-management-capabilities-in-zoho-crm-comparison"
+  ],
+  "205219020838171161": [
+    "prediction-analytics",
+    "zia-s-field-prediction",
+    "predict-customer-churn-using-zia"
+  ],
+  "205219020838171220": [
+    "zia-notifications",
+    "trend-analysis",
+    "zia-intelligence-automation",
+    "zia-competitor-alert"
+  ],
+  "205219020838171453": [
+    "using-best-time-to-contact",
+    "using-zia-reminder",
+    "zia-best-time-to-contact-analytics",
+    "best-mode-to-contact-customers"
+  ],
+  "205219020830585061": [
+    "customer-support",
+    "working-with-solutions",
+    "working-with-cases",
+    "support-access"
+  ],
+  "205219020838742065": [
+    "roles-zoho-projects-crm-integration",
+    "configure-projects-crm-integration",
+    "use-zoho-projects-crm-integration",
+    "overview-zoho-projects-crm-integration"
+  ],
+  "205219020838742106": [
+    "create-survey-campaigns",
+    "use-zoho-survey-crm-integration",
+    "set-up-zoho-survey-crm-integration",
+    "zoho-survey-crm-integration"
+  ],
+  "205219020848517716": [
+    "link-zoho-creator-apps",
+    "custom-tabs-creator-crm-integration",
+    "set-up-creator-crm-integration",
+    "zoho-creator-crm-integration"
+  ],
+  "205219020848517929": [
+    "google-calendar-crm-integration",
+    "google-account-users-crm-integration",
+    "google-contacts-crm-integration",
+    "activate-google-contacts-calendar"
+  ],
+  "205219020848785177": [
+    "configure-google-ads-crm-integration",
+    "track-google-ads-data",
+    "push-data-to-google-ads",
+    "google-ads-crm-integration"
+  ],
+  "205219020849256415": [
+    "team-modules-read-me-first-guide-for-admins",
+    "working-with-team-modules",
+    "configuring-team-modules",
+    "automation-in-team-modules",
+    "requester-roles-for-coordination-between-teams",
+    "adding-team-users",
+    "connect-records-between-modules",
+    "connected-workflows",
+    "faqs-team-module",
+    "faq-requester-roles-in-zoho-crm",
+    "faqs-team-users-and-licensing",
+    "faq-connected-records"
+  ],
+  "205219031918859740": [
+    "working-with-meetings-in-zoho-crm-ios-app",
+    "signals-in-zoho-crm-ios-app-24-2-2026",
+    "chat-or-call-zia-with-using-iphone",
+    "communicating-with-customers-through-iphone",
+    "collaborate-using-feeds-in-zoho-crm-ios-app",
+    "whatsapp-business-messaging-in-zoho-crm-ios-app",
+    "working-with-zoho-surveys-in-crm-ios-app"
+  ],
+  "205219023629368418": [
+    "set-unsubscribe-link",
+    "email-limits"
+  ],
+  "205219020837847829": [
+    "creating-and-working-with-forecasts"
+  ],
+  "205219031918865559": [
+    "map-settings-in-zoho-crm-ios-app",
+    "map-view-in-zoho-crm-ios-app",
+    "mappls-map-view-in-zoho-crm-ios-app",
+    "locate-an-address-using-maps-in-iphone"
+  ],
+  "205219020837091590": [
+    "bimi-for-email-authentication",
+    "google-yahoo-and-outlook-s-guidelines-for-email-security-and-delivery",
+    "a-list-of-smtp-and-imap-server"
+  ],
+  "205219020837847842": [
+    "deals-overview",
+    "create-deals",
+    "standard-fields-deals",
+    "team-selling-and-deal-split"
+  ],
+  "205219031946178509": [
+    "executing-blueprints-in-zoho-crm-android-app",
+    "managing-process-in-zoho-crm-android-app",
+    "assignment-threshold-in-zoho-crm-android-app",
+    "kiosk-in-zoho-crm-android-app"
+  ],
+  "205219020848517833": [
+    "microsoft-integrations-an-overview",
+    "plug-in-microsoft-outlook-overview-crm-integration",
+    "plug-in-ms-word-crm-integration"
+  ],
+  "205219020848785634": [
+    "docusign-crm-integration",
+    "adobe-sign-crm-integration",
+    "zoho-sign-crm-integration",
+    "zoho-crm\u7684tsign\u6269\u5c55\u7a0b\u5e8f"
+  ],
+  "205219020848728716": [
+    "general-questions-on-customization",
+    "faqs-page-layouts",
+    "faqs-web-tabs",
+    "faqs-field-customization",
+    "faqs-related-lists",
+    "faqs-modules",
+    "faqs-kiosk-studio"
+  ],
+  "205219023575507557": [
+    "zia-record-summary",
+    "zia-s-smart-prompt-frequently-asked-questions-26-4-2026",
+    "zia-smart-prompt",
+    "zia-note-summary"
+  ],
+  "205219020836625643": [
+    "custom-buttons",
+    "links",
+    "links-buttons"
+  ],
+  "205219020837091601": [
+    "dealing-with-bounce-warnings",
+    "email-credibility-in-zoho-crm",
+    "email-insights-overview"
+  ],
+  "205219020837198350": [
+    "view-signals",
+    "enable-signals",
+    "signals-an-overview"
+  ],
+  "205219020837198469": [
+    "components-of-path-finder",
+    "path-finder-an-overview",
+    "interpreting-the-reports-of-path-finder"
+  ],
+  "205219020837282757": [
+    "review-process",
+    "comparison-between-review-process-and-approval-process",
+    "faq-review-process"
+  ],
+  "205219020837282931": [
+    "manage-data-storage",
+    "email-storage-as-separate-entity",
+    "managing-file-storage",
+    "managing-file-storage-unpublished"
+  ],
+  "205219020837380035": [
+    "check-duplicate-records",
+    "auto-merge-duplicates",
+    "merge-duplicate-record"
+  ],
+  "205219020837847788": [
+    "manage-accounts",
+    "standard-fields-accounts",
+    "create-accounts"
+  ],
+  "205219020837847801": [
+    "create-contacts",
+    "contacts-overview",
+    "standard-fields-contacts"
+  ],
+  "205219020837847878": [
+    "auto-suggested-macros",
+    "run-macros",
+    "using-macros"
+  ],
+  "205219020837847946": [
+    "create-campaigns",
+    "standard-fields-campaigns",
+    "campaigns"
+  ],
+  "205219020838171209": [
+    "intelligent-character-recognition-by-zia-vision",
+    "duplicate-image-detection",
+    "zia-vision"
+  ],
+  "205219020838171530": [
+    "create-price-books",
+    "price-books",
+    "standard-fields-price-books"
+  ],
+  "205219020838271419": [
+    "standard-fields-vendors",
+    "create-vendors",
+    "vendors"
+  ],
+  "205219020838271432": [
+    "standard-fields-quotes",
+    "create-quotes",
+    "quotes"
+  ],
+  "205219020848517844": [
+    "use-ms-outlook-plug-mac",
+    "install-plug-in-crm-integration",
+    "configure-outlook-mac-crm-integration"
+  ],
+  "205219020848517855": [
+    "configure-outlook-windows-crm-integration",
+    "using-the-ms-outlook-plug-in-windows",
+    "install-ms-outlook-plug-in-windows"
+  ],
+  "205219020848517872": [
+    "ms-word-plugin",
+    "error-messages-ms-word",
+    "install-ms-word-plug-in-crm-integration"
+  ],
+  "205219020848785587": [
+    "whmcs-integration-crm",
+    "nexmo-crm-integration",
+    "zendesk-crm-integration"
+  ],
+  "205219020849256064": [
+    "compose-organize-and-configure-emails",
+    "managing-emails-26-4-2026",
+    "email-views-and-sentiment-salesinbox"
+  ],
+  "205219020836625656": [
+    "languages-supported-in-zoho-crm",
+    "translations",
+    "translation-file"
+  ],
+  "205219020838171140": [
+    "zia-ready-reckoner",
+    "zia-overview",
+    "artificial-intelligence-overview"
+  ],
+  "205219020837091257": [
+    "connect-with-customers-using-line-integration-with-zoho-crm",
+    "business-messaging-overview",
+    "business-messaging-using-whatsapp-for-business-integration-with-zoho-crm"
+  ],
+  "205219020837091372": [
+    "notification-sms-sender-id-requirements-for-india",
+    "notification-sms-integration-with-zoho-crm"
+  ],
+  "205219020849256443": [
+    "using-chart-views-in-modules",
+    "grid-view-for-crm",
+    "timeline-view",
+    "split-view-for-crm",
+    "faqs-chart-view",
+    "faq-grid-view-in-zoho-crm",
+    "faq-timeline-view-in-zoho-crm",
+    "faq-split-view"
+  ],
+  "205219020848728798": [
+    "faq-email-bounces",
+    "frequently-asked-questions-emails-in-zoho-crm",
+    "faqs-mass-emails",
+    "faqs-email-templates",
+    "faq-working-with-emails",
+    "faqs-email-configuration"
+  ],
+  "205219020834986988": [
+    "manage-company-details",
+    "fiscal-year",
+    "custom-domain-mapping-in-zoho-crm",
+    "business-hours",
+    "multiple-currencies",
+    "crm-setup-hierarchy-preference",
+    "close-zoho-crm-account"
+  ],
+  "205219024126859627": [
+    "import-usage-data-to-crm-from-analytics-tools",
+    "import-usage-data-to-crm-via-dataprep",
+    "usage-data-event-mapping"
+  ],
+  "205219033864106334": [
+    "how-to-use-zoho-crm-s-knowledge-base",
+    "understanding-admin-hierarchies",
+    "understand-crm-account",
+    "specifications-zoho-crm",
+    "get-started-introduction-zoho-crm",
+    "begin-admin-journey"
+  ],
+  "205219020836326465": [
+    "manage-calendar",
+    "using-calendar",
+    "calendar-booking",
+    "embed",
+    "set-calendar-synchronization",
+    "use-calendar-synchronization-via-caldav"
+  ],
+  "205219020836397072": [
+    "get-started-manage-users",
+    "security-controls-in-zoho-crm-an-overview-26-4-2026"
+  ],
+  "205219020836397196": [
+    "manage-profile-permissions",
+    "create-profile"
+  ],
+  "205219020836397406": [
+    "data-sharing-rules",
+    "share-records"
+  ],
+  "205219020836397583": [
+    "configure-allowed-ips",
+    "get-started-secure-crm-account"
+  ],
+  "205219020836625724": [
+    "how-zoho-crm-can-help-service-providers",
+    "managing-services-with-zoho-crm"
+  ],
+  "205219020836625973": [
+    "get-started-manage-data",
+    "data-administration-overview"
+  ],
+  "205219020836625997": [
+    "import-data",
+    "view-import-history"
+  ],
+  "205219020837198173": [
+    "cadences"
+  ],
+  "205219020837847961": [
+    "crm-manage-autoresponders",
+    "autoresponder-scenario"
+  ],
+  "205219023575570503": [
+    "zia-presentation"
+  ],
+  "205219020838171481": [
+    "call-transcription",
+    "zia-call-intelligence"
+  ],
+  "205219020848517665": [
+    "use-zoho-finance-suite-crm-integration",
+    "zoho-finance-suite-crm-integration"
+  ],
+  "205219020848517684": [
+    "setting-advanced-crm-analytics-new",
+    "zoho-analytics-crm-integrations"
+  ],
+  "205219020848517883": [
+    "sync-meetings-contacts-tasks-with-office365",
+    "office-365-crm-integration"
+  ],
+  "205219020848785546": [
+    "deactivating-extensions-with-deprecated-api-name-notations",
+    "extensions-for-zoho-crm-overview"
+  ],
+  "205219033891031636": [
+    "api-2025",
+    "api-2024",
+    "api-2023",
+    "api-2022",
+    "api-2020",
+    "api-2019"
+  ],
+  "205219020849256525": [
+    "using-the-interactions-tab",
+    "faqs-interactions-tab"
+  ],
+  "205219020849256038": [
+    "zoho-salesinbox-your-sales-focused-email-client"
+  ],
+  "205219023865406502": [
+    "configure-email-relay",
+    "adding-spf-and-dkim-records-to-dns-settings"
+  ],
+  "205219020848785673": [
+    "faqs-on-approval-process"
+  ],
+  "205219031944910581": [
+    "mappls-map-view-in-zoho-crm-android-app",
+    "locate-people-near-you-in-the-zoho-crm-android-app"
+  ],
+  "205219020848728835": [
+    "faqs-zoho-user-id-user-ids-and-org-ids-in-zoho-crm-9-4-2026",
+    "can-i-reactivate-my-closed-crm-account",
+    "why-was-my-zoho-crm-account-closed-when-i-use-it-regularly",
+    "why-your-business-needs-multiple-sales-processes-in-your-crm",
+    "faqs-on-territory-management"
+  ],
+  "205219033864050977": [
+    "beyond-the-crm-power-your-sales-with-zoho-s-thriving-app-ecosystem",
+    "zoho-crm-and-security-a-partnership-that-forms-the-bedrock-of-our-operations",
+    "zoho-crm-s-core-data-model-and-how-you-extend-it-safely",
+    "zoho-crm-uptime-sla-and-availability",
+    "how-zoho-crm-administration-and-configuration-works-for-sales-operations",
+    "zoho-crm-saas-architecture-and-deployment-options"
+  ],
+  "205219024401828865": [
+    "get-started-setup-organization-account"
+  ],
+  "205219025074019546": [
+    "get-started-customize-account"
+  ],
+  "205219020838742093": [
+    "zoho-campaigns-crm-integration"
+  ],
+  "205219020848785688": [
+    "audit-logs-3-2-2023"
+  ],
+  "205219020836943060": [
+    "using-copy-customization",
+    "copy-customization-from-crm"
+  ],
+  "205219020836326454": [
+    "an-overview-of-user-management-in-zoho-crm",
+    "add-import-modify-re-invite-users",
+    "activate-deactivate-users",
+    "crm-delete-transfer-users"
+  ],
+  "205219033891111510": [
+    "widgets-2026",
+    "widgets-2025",
+    "widgets-2024",
+    "widgets-2023",
+    "widgets-2020"
+  ],
+  "205219033891111430": [
+    "functions-2026",
+    "functions-2025",
+    "functions-2024",
+    "functions-2023",
+    "functions-2020"
+  ],
+  "205219033891031782": [
+    "other-developer-tools-2026",
+    "kaizen-posts-2025-other-developer-tools",
+    "dev-tools-2024",
+    "dev-tools-2023",
+    "dev-tools-2020"
+  ],
+  "205219033891031706": [
+    "client-script-2026",
+    "client-script-2025",
+    "client-script-2024",
+    "client-script-2023",
+    "client-script-2022"
+  ],
+  "205219020834986977": [
+    "crm-setup-zoho-account-settings",
+    "manage-account-settings",
+    "enabling-accessibility-controls",
+    "keyboard-shortcuts-in-zoho-crm"
+  ],
+  "205219020836943014": [
+    "export-crm-data"
+  ],
+  "205219020837198562": [
+    "journey-builder",
+    "commandcenter-comparison"
+  ],
+  "205219020848785662": [
+    "faqs-meetings-module",
+    "faqs-tasks-module",
+    "faqs-on-calendar-booking",
+    "faqs-on-activities",
+    "faqs-on-calls-module"
+  ],
+  "205219020848728705": [
+    "faqs-path-finder",
+    "faqs-commandcenter"
+  ],
+  "205219020849005930": [
+    "lead-management",
+    "faqs-on-leads-management"
+  ],
+  "205219020849256367": [
+    "what-is-crm-for-everyone",
+    "crm-for-everyone-availability-information",
+    "scope-of-crm-for-everyone",
+    "frequently-asked-questions-on-crm-for-everyone"
+  ],
+  "205219020849256454": [
+    "navigating-the-zoho-crm-interface",
+    "why-switch-to-zoho-crm-s-new-ui",
+    "faqs-next-gen-ui",
+    "faq-transition-to-the-nextgen-ui"
+  ],
+  "205219020836625316": [
+    "open-activities-homepage-component",
+    "customize-home-tab"
+  ],
+  "205219033891111407": [
+    "sdk-2025",
+    "sdk-2024",
+    "sdk-2023",
+    "sdk-2020"
+  ],
+  "205219030857856374": [
+    "zia-agents-in-zoho-crm",
+    "setting-up-agents-26-4-2026",
+    "managing-agents",
+    "digital-employees-behavior-and-scope"
+  ],
+  "205219020838171416": [
+    "people-data-enrichment-webamigo",
+    "zia-data-enrichment"
+  ],
+  "205219033891031805": [
+    "misc-2023",
+    "misc-2020",
+    "misc-2019"
+  ],
+  "205219020836397185": [
+    "role-management-introduction"
+  ],
+  "205219020836397209": [
+    "create-groups"
+  ],
+  "205219020836397596": [
+    "data-encryption-in-zohocrm"
+  ],
+  "205219020836625291": [
+    "hipaa-compliance-with-zoho-crm"
+  ],
+  "205219020836397629": [
+    "create-reporting-hierarchy"
+  ],
+  "205219020836397664": [
+    "monitor-audit-log"
+  ],
+  "205219020836625514": [
+    "build-subforms"
+  ],
+  "205219020836625667": [
+    "advanced-filters"
+  ],
+  "205219020836625678": [
+    "customizing-setup-page"
+  ],
+  "205219020836625689": [
+    "customize-crm-b2c-companies"
+  ],
+  "205219020836625700": [
+    "wizards"
+  ],
+  "205219020836625713": [
+    "multiple-sales-pipeline"
+  ],
+  "205219020836625763": [
+    "kiosk-an-overview",
+    "working-with-kiosks",
+    "elements-of-a-kiosk"
+  ],
+  "205219020836625778": [
+    "marketing-attribution"
+  ],
+  "205219020836943025": [
+    "requesting-data-backup"
+  ],
+  "205219020836943036": [
+    "working-with-admin-tools"
+  ],
+  "205219020837091037": [
+    "channels-overview"
+  ],
+  "205219020837091308": [
+    "visitor-tracking-overview"
+  ],
+  "205219020837091738": [
+    "get-started-automate-business-process"
+  ],
+  "205219020837091884": [
+    "custom-schedules"
+  ],
+  "205219020837091910": [
+    "set-assignment-rules"
+  ],
+  "205219020837091921": [
+    "set-case-escalation-rules"
+  ],
+  "205219020837198021": [
+    "multiple-scoring-rule"
+  ],
+  "205219020837198120": [
+    "assignment-threshold"
+  ],
+  "205219020837198363": [
+    "segmentation"
+  ],
+  "205219020837198577": [
+    "process-management-overview"
+  ],
+  "205219020837282920": [
+    "recycle-bin"
+  ],
+  "205219020837380311": [
+    "timeline-in-record-detail-page"
+  ],
+  "205219020837847609": [
+    "data-analytics-overview"
+  ],
+  "205219020837847751": [
+    "sales-force-automation-the-concept"
+  ],
+  "205219020837847766": [
+    "sales-force-automation-sfa-in-zoho-crm"
+  ],
+  "205219020837847865": [
+    "collaborate-using-feeds"
+  ],
+  "205219020837847902": [
+    "crm-tools-for-business-to-thrive-remotely"
+  ],
+  "205219020837847935": [
+    "marketing-automation"
+  ],
+  "205219020838171196": [
+    "ask-zia"
+  ],
+  "205219020838171508": [
+    "inventory"
+  ],
+  "205219020838171519": [
+    "working-with-products"
+  ],
+  "205219020838271445": [
+    "sales-orders",
+    "create-sales-orders",
+    "standard-fields-sales-orders"
+  ],
+  "205219020838271458": [
+    "purchase-orders",
+    "create-purchase-orders",
+    "standard-fields-purchase-orders"
+  ],
+  "205219020838271473": [
+    "invoices",
+    "create-invoices",
+    "standard-fields-invoices"
+  ],
+  "205219020838271488": [
+    "installing-crm-mobile-app"
+  ],
+  "205219020838271880": [
+    "integrations-with-zoho-crm"
+  ],
+  "205219031946218427": [
+    "data-privacy-in-zoho-crm-android-app"
+  ],
+  "205219020838271542": [
+    "zoho-crm-analytics-app"
+  ],
+  "205219020838742076": [
+    "zoho-desk-crm-integration"
+  ],
+  "205219020848517699": [
+    "zoho-salesiq-crm-integrations"
+  ],
+  "205219020848517727": [
+    "zoho-cliq-crm-integration"
+  ],
+  "205219020848517738": [
+    "zoho-writer-crm-integration"
+  ],
+  "205219020848517749": [
+    "zoho-forms-crm-integration"
+  ],
+  "205219020848517771": [
+    "zoho-webinar"
+  ],
+  "205219020848517782": [
+    "integrating-crm-meetings-with-zoho-meeting"
+  ],
+  "205219020848517795": [
+    "zoho-backstage"
+  ],
+  "205219020848517806": [
+    "zoho-directory-integration-with-crm"
+  ],
+  "205219020848517894": [
+    "outlook-add-in-for-zoho-crm"
+  ],
+  "205219020848517905": [
+    "teams-integration"
+  ],
+  "205219020848517918": [
+    "google-integrations"
+  ],
+  "205219020849005767": [
+    "faqs-workflow",
+    "faqs-workflow-for-emails",
+    "what-is-the-key-difference-between-workflow-rule-for-the-calls-module-and-adding-call-as-an-action-in-a-workflow-rule"
+  ],
+  "205219020849005837": [
+    "faqs-import"
+  ],
+  "205219020849005893": [
+    "faqs-campaigns"
+  ],
+  "205219020849005908": [
+    "account-management"
+  ],
+  "205219020849256430": [
+    "managing-teamspaces",
+    "create-folders-from-the-modules-tab-and-within-a-teamspace",
+    "faqs-teamspaces"
+  ],
+  "205219023423000887": [
+    "crm-usage-metrics"
+  ],
+  "205219023575593559": [
+    "custom-ai-studio"
+  ],
+  "205219020836326712": [
+    "motivator-for-zoho-crm-overview",
+    "using-motivator-for-zoho-crm"
+  ],
+  "205219020849005746": [
+    "faqs-web-form-analytics",
+    "faqs-webforms"
+  ],
+  "205219020848728885": [
+    "faqs-on-cpq",
+    "faqs-inventory-management"
+  ],
+  "205219020849005919": [
+    "contact-management"
+  ],
+  "205219020849005941": [
+    "faqs-deals"
+  ],
+  "205219020849005980": [
+    "faqs-users",
+    "faqs-on-users-settings"
+  ],
+  "205219020849005357": [
+    "why-doesn-t-zia-analyze-my-data-2-4-2026",
+    "faqs-data-enrichment"
+  ],
+  "205219020849005735": [
+    "faqs-organization-settings"
+  ],
+  "205219020848728742": [
+    "faq-canvas-in-zoho-crm"
+  ],
+  "205219031918859303": [
+    "dynamic-display-in-zoho-crm-for-ios",
+    "list-view-and-saved-filters-in-zoho-crm-ios-app"
+  ],
+  "205219031944707993": [
+    "dynamic-display-in-zoho-crm-android-app",
+    "list-view-and-saved-filters-in-crm-android-app"
+  ],
+  "205219030563874841": [
+    "rollout-plan-for-crm-for-everyone-ui-to-all-users",
+    "transitioning-to-the-improved-zoho-crm-for-everyone-interface"
+  ],
+  "205219033891111469": [
+    "circuits-2024"
+  ],
+  "205219020836326443": [
+    "managing-multiple-crm-organizations"
+  ],
+  "205219020849005780": [
+    "faqs-case-escalation-rules"
+  ],
+  "205219020849005793": [
+    "faqs-assignment"
+  ],
+  "205219020849005804": [
+    "faqs-validation-rules"
+  ],
+  "205219020849005815": [
+    "faqs-macros"
+  ],
+  "205219020849005826": [
+    "faqs-cadences"
+  ],
+  "205219020848785734": [
+    "faqs-on-billing-and-payments"
+  ],
+  "205219020848785745": [
+    "faqs-blueprint"
+  ],
+  "205219020848785756": [
+    "faqs-business-hours-in-zoho-crm"
+  ],
+  "205219020848785767": [
+    "faqs-on-customer-support"
+  ],
+  "205219020848728694": [
+    "faqs-on-card-scanner-app"
+  ],
+  "205219020848728753": [
+    "faqs-crm-analytics-app"
+  ],
+  "205219020849005848": [
+    "faqs-exporting-data-from-zoho-crm"
+  ],
+  "205219020849005859": [
+    "faqs-data-administration"
+  ],
+  "205219020849005880": [
+    "faqs-data-migration"
+  ],
+  "205219020848728785": [
+    "faqs-on-developer-hub"
+  ],
+  "205219020848728809": [
+    "faqs-extensions"
+  ],
+  "205219020848728846": [
+    "faqs-on-gdpr"
+  ],
+  "205219020848728859": [
+    "faq-on-hipaa"
+  ],
+  "205219020848728898": [
+    "faqs-on-kanban-view"
+  ],
+  "205219020848728933": [
+    "faqs-on-marketing-attribution"
+  ],
+  "205219020848728944": [
+    "faqs-multiple-currency"
+  ],
+  "205219020848728979": [
+    "faqs-multiple-crm-organizations"
+  ],
+  "205219020849005201": [
+    "faqs-reports"
+  ],
+  "205219020849005218": [
+    "faqs-record-management"
+  ],
+  "205219020849005229": [
+    "faqs-remote-sales-office"
+  ],
+  "205219020849005240": [
+    "faqs-review-process"
+  ],
+  "205219020849005259": [
+    "faqs-roles-and-profiles"
+  ],
+  "205219020849005952": [
+    "faqs-sales-forecasting"
+  ],
+  "205219020849005963": [
+    "faqs-sales-force-automation"
+  ],
+  "205219020849005993": [
+    "faqs-security-administration"
+  ],
+  "205219020849005300": [
+    "faqs-segmentation"
+  ],
+  "205219020849005311": [
+    "faqs-tagging"
+  ],
+  "205219020849005324": [
+    "faqs-wizards"
+  ],
+  "205219020849005368": [
+    "faqs-list-views-in-zoho-crm"
+  ],
+  "205219020849005661": [
+    "faqs-translation-in-zoho-crm"
+  ],
+  "205219020849005672": [
+    "faqs-feeds"
+  ],
+  "205219020849256008": [
+    "faqs-crm-for-iphone"
+  ],
+  "205219020849256019": [
+    "faqs-crm-for-mobile"
+  ],
+  "205219020849005724": [
+    "faqs-crm-onboarding"
+  ],
+  "205219033891031759": [
+    "kaizen-posts-2025-queries-series"
+  ],
+  "205219020848728968": [
+    "faq-sales-pipeline"
+  ],
+  "205219029500964801": [
+    "workqueue"
+  ],
+  "205219032105879235": [
+    "orchestrate-customer-journey-using-commandcenter-from-zoho-crm"
+  ],
+  "205219032895797369": [
+    "commandcenter-1-0-to-2-0-a-detailed-migration-guide-26-4-2026"
+  ]
+}

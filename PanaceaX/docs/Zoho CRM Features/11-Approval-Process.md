@@ -1,7 +1,7 @@
 # Approval Processes
 
 > **Feature ID:** `11-Approval-Process`  
-> **Knowledge Base Articles:** 58  
+> **Knowledge Base Articles:** 73  
 > **Last Updated:** 2026-05-05
 
 ## Overview
@@ -14,28 +14,28 @@ Multi-level approvals, approval workflows, record locking, and escalation rules
 
 ### 1. Managing Process
 
-Understanding Approval Process Sometimes, for a process to take place, you need approval from people at higher levels in an organization. This type of formal approval requires input from multiple roles. The approval processes created in the web version of Zoho CRM will also appear in the mobile version. Permission Required Users with Manage workflow permission in their profile can access this feature. Check Feature Availability and Limits Records that are waiting for approval can be viewed in the Android app and can then be approved, rejected, or delegated from the My Jobs module or from the record detail view of a specific module. To approve a record Tap the icon in your Zoho CRM app. Tap My Jobs . Tap on the required record in the list. Tap the record to view its details. Tap Approve . T
+Understanding Approval Process Sometimes, for a process to take place, you need approval from people at higher levels in an organization. This type of formal approval requires input from multiple roles. The approval processes created in the web version of Zoho CRM will also appear in the mobile version. Permission Required Users with Manage workflow permission in their profile can access this feature. Check Feature Availability and Limits Records that are waiting for approval can be viewed in the Android app and can then be approved, rejected, or delegated from the My Jobs module or from the r
 ### 2. Field of Lookup
 
-Overview Lookup fields enable users to associate records between two modules. Let's say, for example, you have two modules: Students and Courses. By adding a lookup field called Course type in the Students module, users can select a course when a new student record is created or added in Zoho CRM, as well as view the list of students enrolled in a particular course in the Courses module's related list. While the Course type lookup field displays the names of the courses in which a student has expressed interest, in instances when you want to view more details—such as course fee, course duration, subjects, course instructor, and so on—you can use the field of lookup module option. Business scenarios View additional details of a contact in the Deals module Sales associates can view a contact
-### 3. Cisco Telephony Integration
+Overview Lookup fields enable users to associate records between two modules. Let's say, for example, you have two modules: Students and Courses. By adding a lookup field called Course type in the Students module, users can select a course when a new student record is created or added in Zoho CRM, as well as view the list of students enrolled in a particular course in the Courses module's related list. While the Course type lookup field displays the names of the courses in which a student has expressed interest, in instances when you want to view more details—such as course fee, course duratio
+### 3. FAQs: Review Process
 
-Calls are the primary method of communication for executives with prospects and clients. Your team can make and take calls directly from their sales software by integrating Cisco Unified Communication Manager with Zoho CRM, and you can track the outcomes of each call against transactions. Additionally, each record will include a call history so you can keep track of past discussions. For now, we have introduced Cisco Unified Communication Manager as a beta version, this can be installed only on request. Later this can be directly downloaded. Request Access To request access for Cisco Unified Communication Manager , go to Setup > Channels > Telephony > Cisco > Request Access Once you request for access, a trigger is generated for the support team. Then the support team from Zoho provides th
-### 4. Acting on VoC insights
+1. What is the purpose of a review process? A review process allows you to check and validate the values of a field before the record enters the CRM system. For example, responses entered for fields such as qualification, eligibility criteria, GPA, or product quantity can be validated and approved by CRM users before the record is allowed to enter the system. The fields that require review are highlighted and the reviewers can approve or reject the value and choose a reason for rejecting each field. Read more about review process . 2. Who can be a reviewer? A reviewer can be selected from any
+### 4. Cisco Telephony Integration
 
-In today's technologically-rich business market, companies are in close quarters with customers and their opinions. Through various channels, customers are expressing their contentment and discontentment; gratitude and grievances about your business. This is an opportunity to understand your customers truly and grow at scale. But, businesses just do not succeed by mere understanding their customers. Of course, understanding helps at a greater level. But, success lies in action. Your customers leave different kinds of feedback with distinct purposes like a complaint to report a fault, a suggestion to improve the deliverables, a query about the recent purchase, a comparison of brand offering, an escalation on lapsed SLA, disappointment on the recent engagement, or even appreciation on latest
-### 5. View Approval History
+Calls are the primary method of communication for executives with prospects and clients. Your team can make and take calls directly from their sales software by integrating Cisco Unified Communication Manager with Zoho CRM, and you can track the outcomes of each call against transactions. Additionally, each record will include a call history so you can keep track of past discussions. For now, we have introduced Cisco Unified Communication Manager as a beta version, this can be installed only on request. Later this can be directly downloaded. Request Access To request access for Cisco Unified C
+### 5. Acting on VoC insights
 
-Approval History gives you a list of records that were submitted for approval. To view the Approval History In your Zoho CRM account, click the My Jobs tab. Click the Approval Process tab. In the Awaiting your Approval page, click Approval History. The Approval History page displays all the approval-related records in a chronological order. Since the Approval History could get exhaustive over a period of time, it could be quite tiresome to sift through the entries if you are looking for a few specific details. For example, if you wish to see only the records submitted for approval by a particular user or a list of records submitted for approval in the last 7 days, it could be difficult to find those specific entries among a huge list. In such a case, you can use the Filter options offered 
-### 6. Automation in Team Module
+In today's technologically-rich business market, companies are in close quarters with customers and their opinions. Through various channels, customers are expressing their contentment and discontentment; gratitude and grievances about your business. This is an opportunity to understand your customers truly and grow at scale. But, businesses just do not succeed by mere understanding their customers. Of course, understanding helps at a greater level. But, success lies in action. Your customers leave different kinds of feedback with distinct purposes like a complaint to report a fault, a suggest
+### 6. View Approval History
 
-This document will cover the automation-related information for team modules. CRM for everyone opens up module creation to non-admins as mentioned here . This brings the work of customer facing teams into the CRM and gives it context. But teams will soon want to automate repetitive work to make their processes faster and to focus on more important tasks. Teams do not have to rely on org admins for automating their team's work or managing their team's processes. With CRM for everyone, team module admins can do this on their own. This lets teams configure and own their processes fully, while reducing the load on the org admins. They can do this by using the following features: Assignment rules Workflow rules Blueprint Approval process Assignment rules Assignment rules can be configured to au
-### 7. Approving or Rejecting from the Approval Tab
+Approval History gives you a list of records that were submitted for approval. To view the Approval History In your Zoho CRM account, click the My Jobs tab. Click the Approval Process tab. In the Awaiting your Approval page, click Approval History. The Approval History page displays all the approval-related records in a chronological order. Since the Approval History could get exhaustive over a period of time, it could be quite tiresome to sift through the entries if you are looking for a few specific details. For example, if you wish to see only the records submitted for approval by a particu
+### 7. Automation in Team Module
 
-Records that are lined for approval can be viewed in the My Jobs tab. From this tab, you can approve or reject the records that are waiting for your approval. If needed, you can also delegate the record's approval to another user. Only after the approval, you can convert, edit or delete the record. Users with Administrator profile can view all the records that are waiting for approval in the organization. Administrator can also approve or reject the records as and when required. To approve/reject from the Approvals tab Navigate to My Jobs and click the Approvals tab. You will be able to see the list of records that are waiting for your approval. Click on a record to view the following details: Details of the record - You can view the details of the user who owns the record that is waiting 
-### 8. Set up your Organization Account
+This document will cover the automation-related information for team modules. CRM for everyone opens up module creation to non-admins as mentioned here . This brings the work of customer facing teams into the CRM and gives it context. But teams will soon want to automate repetitive work to make their processes faster and to focus on more important tasks. Teams do not have to rely on org admins for automating their team's work or managing their team's processes. With CRM for everyone, team module admins can do this on their own. This lets teams configure and own their processes fully, while red
+### 8. Approving or Rejecting from the Approval Tab
 
-As an administrator your first step towards implementing Zoho CRM for your organization will involve entering details in the personal settings and defining the organization details, which will be visible to all users across the departments. You will also need to define the email settings in your CRM account and configure Motivator to keep your team members motivated by giving timely rewards and perks. Personal Settings First, personalize your CRM account by changing language and time zone. Then, you can set other personal preferences like date format, time format, number format, and so on. You can also set up accessibility controls to make the CRM experience work for you. Organization Settings Company details: Add your company details such as the company name for all your business communic
+Records that are lined for approval can be viewed in the My Jobs tab. From this tab, you can approve or reject the records that are waiting for your approval. If needed, you can also delegate the record's approval to another user. Only after the approval, you can convert, edit or delete the record. Users with Administrator profile can view all the records that are waiting for approval in the organization. Administrator can also approve or reject the records as and when required. To approve/reject from the Approvals tab Navigate to My Jobs and click the Approvals tab. You will be able to see th
 
 
 ---
@@ -47,17 +47,17 @@ As an administrator your first step towards implementing Zoho CRM for your organ
 **Primary Module:** `APPROVAL`
 
 **Standard Fields (inherited):**
-- `Created_By` (User) — Record creator
-- `Modified_By` (User) — Last modifier
-- `Created_Time` (DateTime) — Creation timestamp
-- `Modified_Time` (DateTime) — Last modification
-- `Owner` (User) — Record owner for access control
+- `Created_By` (User) -- Record creator
+- `Modified_By` (User) -- Last modifier
+- `Created_Time` (DateTime) -- Creation timestamp
+- `Modified_Time` (DateTime) -- Last modification
+- `Owner` (User) -- Record owner for access control
 
 **Key Articles:**
 - `Managing Process`
 - `Field of Lookup`
+- `FAQs: Review Process`
 - `Cisco Telephony Integration`
-- `Acting on VoC insights`
 
 ### API Reference
 
@@ -115,10 +115,10 @@ Analytics/Reports Updated
 
 ### This Feature Enables
 
-- **Workflow-Automation** — shares data model and workflows
-- **Analytics** — generates reports based on this module's data
-- **Automation** — triggers workflows based on record changes
-- **Mobile** — fully accessible via Zoho CRM mobile apps
+- **Workflow-Automation** -- shares data model and workflows
+- **Analytics** -- generates reports based on this module's data
+- **Automation** -- triggers workflows based on record changes
+- **Mobile** -- fully accessible via Zoho CRM mobile apps
 
 ### Interaction Patterns
 
@@ -137,67 +137,72 @@ Analytics/Reports Updated
 **Purpose:** Understanding Approval Process Sometimes, for a process to take place, you need approval from people at higher levels in an organization. This type of formal approval requires input from multiple role
 
 **Key Points:**
-- Understanding Approval Process Sometimes, for a process to take place, you need approval from people at higher levels in an organization.
-- This type of formal approval requires input from multiple roles.
-- The approval processes created in the web version of Zoho CRM will also appear in the mobile version.
-- Permission Required Users with Manage workflow permission in their profile can access this feature.
-- Check Feature Availability and Limits Records that are waiting for approval can be viewed in th
+Understanding Approval Process Sometimes, for a process to take place, you need approval from people at higher levels in an organization.
+This type of formal approval requires input from multiple roles.
+The approval processes created in the web version of Zoho CRM will also appear in the mobile version.
+Permission Required Users with Manage workflow permission in their profile can access this feature.
+Check Feature Availability and Limits Records that are waiting for approval can be viewed in the Android app and can then be approved, rejected, or delegated from the My Jobs module or from the record detail view of a specific module.
+To approve a record Tap the icon in your Zoho CRM app
 
 
 ### Field of Lookup
 **Purpose:** Overview Lookup fields enable users to associate records between two modules. Let's say, for example, you have two modules: Students and Courses. By adding a lookup field called Course type in the Stu
 
 **Key Points:**
-- Overview Lookup fields enable users to associate records between two modules.
-- Let's say, for example, you have two modules: Students and Courses.
-- By adding a lookup field called Course type in the Students module, users can select a course when a new student record is created or added in Zoho CRM, as well as view the list of students enrolled in a particular course in the Courses module's related list.
-- While the Course type lookup field displays the names of the courses in which a student has ex
+Overview Lookup fields enable users to associate records between two modules.
+Let's say, for example, you have two modules: Students and Courses.
+By adding a lookup field called Course type in the Students module, users can select a course when a new student record is created or added in Zoho CRM, as well as view the list of students enrolled in a particular course in the Courses module's related list.
+While the Course type lookup field displays the names of the courses in which a student has expressed interest, in instances when you want to view more details—such as course fee, course duration, subjects, course instructor, and so on—you can use the field of lookup module option.
+Business scenarios View additional details of a contact in the Deals module Sales associates can view a contact's email address, phone number, referrer, and—alongside the primary lookup field—the contact's name.
+They can also view the values in these fields in a report created for the Deals module
+
+
+### FAQs: Review Process
+**Purpose:** 1. What is the purpose of a review process? A review process allows you to check and validate the values of a field before the record enters the CRM system. For example, responses entered for fields s
+
+**Key Points:**
+What is the purpose of a review process.
+A review process allows you to check and validate the values of a field before the record enters the CRM system.
+For example, responses entered for fields such as qualification, eligibility criteria, GPA, or product quantity can be validated and approved by CRM users before the record is allowed to enter the system.
+The fields that require review are highlighted and the reviewers can approve or reject the value and choose a reason for rejecting each field.
+Read more about review process.
+A reviewer can be selected from any of the following: a particular role a particular group any CRM user the record owner Read more about selecting reviewers
 
 
 ### Cisco Telephony Integration
 **Purpose:** Calls are the primary method of communication for executives with prospects and clients. Your team can make and take calls directly from their sales software by integrating Cisco Unified Communication
 
 **Key Points:**
-- Calls are the primary method of communication for executives with prospects and clients.
-- Your team can make and take calls directly from their sales software by integrating Cisco Unified Communication Manager with Zoho CRM, and you can track the outcomes of each call against transactions.
-- Additionally, each record will include a call history so you can keep track of past discussions.
-- For now, we have introduced Cisco Unified Communication Manager as a beta version, this can be installed only on
+Calls are the primary method of communication for executives with prospects and clients.
+Your team can make and take calls directly from their sales software by integrating Cisco Unified Communication Manager with Zoho CRM, and you can track the outcomes of each call against transactions.
+Additionally, each record will include a call history so you can keep track of past discussions.
+For now, we have introduced Cisco Unified Communication Manager as a beta version, this can be installed only on request.
+Later this can be directly downloaded.
+Request Access To request access for Cisco Unified Communication Manager , go to Setup > Channels > Telephony > Cisco > Request Access Once you request for access, a trigger is generated for the support team
 
 
 ### Acting on VoC insights
 **Purpose:** In today's technologically-rich business market, companies are in close quarters with customers and their opinions. Through various channels, customers are expressing their contentment and discontentm
 
 **Key Points:**
-- In today's technologically-rich business market, companies are in close quarters with customers and their opinions.
-- Through various channels, customers are expressing their contentment and discontentment; gratitude and grievances about your business.
-- This is an opportunity to understand your customers truly and grow at scale.
-- But, businesses just do not succeed by mere understanding their customers.
-- Of course, understanding helps at a greater level.
-- But, success lies in action
+In today's technologically-rich business market, companies are in close quarters with customers and their opinions.
+Through various channels, customers are expressing their contentment and discontentment; gratitude and grievances about your business.
+This is an opportunity to understand your customers truly and grow at scale.
+But, businesses just do not succeed by mere understanding their customers.
+Of course, understanding helps at a greater level.
+But, success lies in action
 
 
 ### View Approval History
 **Purpose:** Approval History gives you a list of records that were submitted for approval. To view the Approval History In your Zoho CRM account, click the My Jobs tab. Click the Approval Process tab. In the Awai
 
 **Key Points:**
-- Approval History gives you a list of records that were submitted for approval.
-- To view the Approval History In your Zoho CRM account, click the My Jobs tab.
-- Click the Approval Process tab.
-- In the Awaiting your Approval page, click Approval History.
-- The Approval History page displays all the approval-related records in a chronological order.
-- Since the Approval History could get exhaustive over a period of time, it could be quite tiresome to sift through the entries if you are looking for a few sp
-
-
-### Automation in Team Module
-**Purpose:** This document will cover the automation-related information for team modules. CRM for everyone opens up module creation to non-admins as mentioned here . This brings the work of customer facing teams 
-
-**Key Points:**
-- This document will cover the automation-related information for team modules.
-- CRM for everyone opens up module creation to non-admins as mentioned here.
-- This brings the work of customer facing teams into the CRM and gives it context.
-- But teams will soon want to automate repetitive work to make their processes faster and to focus on more important tasks.
-- Teams do not have to rely on org admins for automating their team's work or managing their team's processes.
-- With CRM for everyone, team module
+Approval History gives you a list of records that were submitted for approval.
+To view the Approval History In your Zoho CRM account, click the My Jobs tab.
+Click the Approval Process tab.
+In the Awaiting your Approval page, click Approval History.
+The Approval History page displays all the approval-related records in a chronological order.
+Since the Approval History could get exhaustive over a period of time, it could be quite tiresome to sift through the entries if you are looking for a few specific details
 
 
 ---
@@ -219,14 +224,14 @@ Analytics/Reports Updated
 
 ### Industry-Specific Patterns
 
-**EdTech / Schools** — Student inquiry management, enrollment pipeline, course tracking
-**Solar / Renewable Energy** — Site assessment pipeline, proposal workflow, project milestones
-**Healthcare** — Patient inquiry, appointment scheduling, treatment plan tracking
-**Real Estate** — Property inquiry to closing, viewing scheduling, document management
-**BFSI** — Loan application processing, policy enrollment, compliance workflows
-**Manufacturing** — Inquiry to order pipeline, production scheduling, quality checks
-**Retail** — Order processing, customer onboarding, post-purchase engagement
-**Hospitality** — Booking inquiry to confirmation, event planning, preference tracking
+**EdTech / Schools** -- Student inquiry management, enrollment pipeline, course tracking
+**Solar / Renewable Energy** -- Site assessment pipeline, proposal workflow, project milestones
+**Healthcare** -- Patient inquiry, appointment scheduling, treatment plan tracking
+**Real Estate** -- Property inquiry to closing, viewing scheduling, document management
+**BFSI** -- Loan application processing, policy enrollment, compliance workflows
+**Manufacturing** -- Inquiry to order pipeline, production scheduling, quality checks
+**Retail** -- Order processing, customer onboarding, post-purchase engagement
+**Hospitality** -- Booking inquiry to confirmation, event planning, preference tracking
 
 ---
 
@@ -301,10 +306,10 @@ Stage 5: Completed/Closed
 
 ```
 Organization
-  └── Roles (Sales Rep, Manager, Admin)
-        └── Profiles (Standard, Limited, Read-Only)
-              └── Field-Level Permissions (Visible, Editable, Hidden)
-                    └── Record-Level Access (Owner, Assigned, All)
+  |__ Roles (Sales Rep, Manager, Admin)
+        |__ Profiles (Standard, Limited, Read-Only)
+              |__ Field-Level Permissions (Visible, Editable, Hidden)
+                    |__ Record-Level Access (Owner, Assigned, All)
 ```
 
 ### Scalability
@@ -320,6 +325,7 @@ Organization
 
 - [Managing Process](https://help.zoho.com/portal/en/kb/crm/articles/managing-process-in-zoho-crm-android-app)
 - [Field of Lookup](https://help.zoho.com/portal/en/kb/crm/articles/field-of-lookup)
+- [FAQs: Review Process](https://help.zoho.com/portal/en/kb/crm/articles/faqs-review-process)
 - [Cisco Telephony Integration](https://help.zoho.com/portal/en/kb/crm/articles/cisco-telephony-integration-beta-release)
 - [Acting on VoC insights](https://help.zoho.com/portal/en/kb/crm/articles/acting-on-voc-insights)
 - [View Approval History](https://help.zoho.com/portal/en/kb/crm/articles/view-approval-history)
@@ -328,6 +334,7 @@ Organization
 - [Set up your Organization Account](https://help.zoho.com/portal/en/kb/crm/articles/get-started-setup-organization-account)
 - [Awaiting Records](https://help.zoho.com/portal/en/kb/crm/articles/approve-records)
 - [Initiate an approval request when the loan applicant has a low credit score](https://help.zoho.com/portal/en/kb/crm/articles/approval-process-scenario)
+- [FAQs: Case Escalation Rules](https://help.zoho.com/portal/en/kb/crm/articles/faqs-case-escalation-rules)
 - [Troubleshooting Blueprint](https://help.zoho.com/portal/en/kb/crm/articles/troubleshooting-blueprint)
 - [Reorder Approval Processes and Process Rules](https://help.zoho.com/portal/en/kb/crm/articles/reorder-approval-processes)
 - [FAQ: Approval Process](https://help.zoho.com/portal/en/kb/crm/articles/faq-approval-process)
@@ -337,12 +344,10 @@ Organization
 - [Grid View](https://help.zoho.com/portal/en/kb/crm/articles/grid-view-for-crm)
 - [Installing Zoho CRM in MS Office 365](https://help.zoho.com/portal/en/kb/crm/articles/office-365-crm-integration)
 - [Platform widgets in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/articles/platform-widgets-in-zoho-crm-ios-app-29-1-2026)
+- [Setting Case Escalation Rules](https://help.zoho.com/portal/en/kb/crm/articles/set-case-escalation-rules)
+- [Workqueue](https://help.zoho.com/portal/en/kb/crm/articles/workqueue)
 - [Working on records in approval process](https://help.zoho.com/portal/en/kb/crm/articles/working-on-records-in-approval-process)
 - [Collaborate using feeds in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/articles/collaborate-using-feeds-in-zoho-crm-ios-app)
-- [Adobe Sign](https://help.zoho.com/portal/en/kb/crm/articles/adobe-sign-crm-integration)
-- [Zia Vision — Intelligent Image Validation](https://help.zoho.com/portal/en/kb/crm/articles/zia-vision)
-- [Kaizen posts 2026: Functions series](https://help.zoho.com/portal/en/kb/crm/articles/functions-2026)
-- [Extensions for Zoho CRM - Zoho Marketplace](https://help.zoho.com/portal/en/kb/crm/articles/extensions-for-zoho-crm-overview)
 
 ---
 

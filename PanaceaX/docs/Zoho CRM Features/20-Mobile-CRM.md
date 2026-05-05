@@ -1,7 +1,7 @@
 # Mobile CRM
 
 > **Feature ID:** `20-Mobile-CRM`  
-> **Knowledge Base Articles:** 133  
+> **Knowledge Base Articles:** 193  
 > **Last Updated:** 2026-05-05
 
 ## Overview
@@ -14,28 +14,28 @@ Mobile app features for iOS, Android, tablet with offline and sync capabilities
 
 ### 1. Managing Process
 
-Understanding Approval Process Sometimes, for a process to take place, you need approval from people at higher levels in an organization. This type of formal approval requires input from multiple roles. The approval processes created in the web version of Zoho CRM will also appear in the mobile version. Permission Required Users with Manage workflow permission in their profile can access this feature. Check Feature Availability and Limits Records that are waiting for approval can be viewed in the Android app and can then be approved, rejected, or delegated from the My Jobs module or from the record detail view of a specific module. To approve a record Tap the icon in your Zoho CRM app. Tap My Jobs . Tap on the required record in the list. Tap the record to view its details. Tap Approve . T
+Understanding Approval Process Sometimes, for a process to take place, you need approval from people at higher levels in an organization. This type of formal approval requires input from multiple roles. The approval processes created in the web version of Zoho CRM will also appear in the mobile version. Permission Required Users with Manage workflow permission in their profile can access this feature. Check Feature Availability and Limits Records that are waiting for approval can be viewed in the Android app and can then be approved, rejected, or delegated from the My Jobs module or from the r
 ### 2. Field of Lookup
 
-Overview Lookup fields enable users to associate records between two modules. Let's say, for example, you have two modules: Students and Courses. By adding a lookup field called Course type in the Students module, users can select a course when a new student record is created or added in Zoho CRM, as well as view the list of students enrolled in a particular course in the Courses module's related list. While the Course type lookup field displays the names of the courses in which a student has expressed interest, in instances when you want to view more details—such as course fee, course duration, subjects, course instructor, and so on—you can use the field of lookup module option. Business scenarios View additional details of a contact in the Deals module Sales associates can view a contact
+Overview Lookup fields enable users to associate records between two modules. Let's say, for example, you have two modules: Students and Courses. By adding a lookup field called Course type in the Students module, users can select a course when a new student record is created or added in Zoho CRM, as well as view the list of students enrolled in a particular course in the Courses module's related list. While the Course type lookup field displays the names of the courses in which a student has expressed interest, in instances when you want to view more details—such as course fee, course duratio
 ### 3. NaijaSMSPortal for Zoho CRM
 
-NaijaSMSPortal is an SMS provider that offers domestic (region-specific) SMS services to its users. By integrating the NaijaSMSPortal extension with Zoho CRM, you can send individual or bulk SMS messages to your leads and contacts directly from your Zoho CRM account. You can also create SMS templates in Zoho CRM that can be selected while sending SMS to users. Note: User should have an active NaijaSMSPortal account. If you do not have an account, click here to create one. The NaijaSMSPortal is supported only for the Nigeria numbers. The Mobile field of the lead or contact cannot be empty, and you must provide numbers from the supported region. Please note that the NaijaSMSPortal extension for Zoho CRM is available in US, EU, CN, IN, AU, CA, and JP datacenters. Installing the extension You 
+NaijaSMSPortal is an SMS provider that offers domestic (region-specific) SMS services to its users. By integrating the NaijaSMSPortal extension with Zoho CRM, you can send individual or bulk SMS messages to your leads and contacts directly from your Zoho CRM account. You can also create SMS templates in Zoho CRM that can be selected while sending SMS to users. Note: User should have an active NaijaSMSPortal account. If you do not have an account, click here to create one. The NaijaSMSPortal is supported only for the Nigeria numbers. The Mobile field of the lead or contact cannot be empty, and
 ### 4. Configuring SAML-based SSO in CRM portals
 
-This document will provide instructions on how to enable SAML-based SSO for your CRM's portal users. For an overview of SAML-based SSO, see SAML based Single Sign On (SSO) in CRM portals - Overview . Prerequisite Glossary Prerequisite Editions: Enterprise and Ultimate Bundles (CRMPlus and Zoho One) Trial: No Developer: No Sandbox: No Mobile: No Permission : Users with the Manage Portals permission (Under Setup permissions > Admin level permissions ) can configure SAML based SSO for their CRM's portal and manage it. Glossary Authentication Authentication is the process of confirming a user's identity before providing access to a system. This is used to secure the system against impostors. SAML Security Assertion Markup Language (SAML) is a standard for communication that helps in authentica
+This document will provide instructions on how to enable SAML-based SSO for your CRM's portal users. For an overview of SAML-based SSO, see SAML based Single Sign On (SSO) in CRM portals - Overview . Prerequisite Glossary Prerequisite Editions: Enterprise and Ultimate Bundles (CRMPlus and Zoho One) Trial: No Developer: No Sandbox: No Mobile: No Permission : Users with the Manage Portals permission (Under Setup permissions > Admin level permissions ) can configure SAML based SSO for their CRM's portal and manage it. Glossary Authentication Authentication is the process of confirming a user's id
 ### 5. WeChat for Zoho CRM
 
-The WeChat extension for Zoho CRM helps you to connect with the leads in your CRM account via chats. You can send messages right from your CRM to the leads' WeChat account directly. Similarly, any messages from the leads will be received in your Zoho Cliq channel. With this extension, you can access the conversation history anytime from your CRM account. Requirements: WeChat cloud account ( www.mp.weixin.qq.com) WeChat mobile account (mobile app account) Installing the extension To install the extension: Navigate to Setup > Marketplace > All . Click All Extensions , then browse and click WeChat for Zoho CRM . Click Install Now . Agree to the Terms of Service and click Continue . In Choose Users/Profiles , select one of the following options: Install for admins only Install for all users Ch
+The WeChat extension for Zoho CRM helps you to connect with the leads in your CRM account via chats. You can send messages right from your CRM to the leads' WeChat account directly. Similarly, any messages from the leads will be received in your Zoho Cliq channel. With this extension, you can access the conversation history anytime from your CRM account. Requirements: WeChat cloud account ( www.mp.weixin.qq.com) WeChat mobile account (mobile app account) Installing the extension To install the extension: Navigate to Setup > Marketplace > All . Click All Extensions , then browse and click WeCha
 ### 6. Zoho CRM for iPhone - An Overview
 
-Zoho CRM for iPhone is a native application that enables you to access and work with your Online Zoho CRM data from your iPhone. The 3.0 version of the native CRM app is available in iOS 8.0 and above. From you iPhone, you can access data from Leads, Accounts, Contacts, Potentials, Cases, Vendors, Products, Tasks, Pricebooks, Sales orders, etc. Availability Permission Required Administrators need to activate it for users in other profiles. Features Zia Voice - Call or Chat with Zia to get answers for all your questions in Zoho CRM. Spotlight - Spotlight Search lets you see the contact information that you are searching for in a jiffy. Proactive Suggestions - Proactive suggestions let you take the fastest route to make your sale. They allow the frequently used apps to predict the data and h
-### 7. FAQs: Path Finder
+Zoho CRM for iPhone is a native application that enables you to access and work with your Online Zoho CRM data from your iPhone. The 3.0 version of the native CRM app is available in iOS 8.0 and above. From you iPhone, you can access data from Leads, Accounts, Contacts, Potentials, Cases, Vendors, Products, Tasks, Pricebooks, Sales orders, etc. Availability Permission Required Administrators need to activate it for users in other profiles. Features Zia Voice - Call or Chat with Zia to get answers for all your questions in Zoho CRM. Spotlight - Spotlight Search lets you see the contact informat
+### 7. Working with notes in Zoho CRM iOS app 
 
-Path Finder in Zoho CRM is an observant tool built to discover and record real-time journeys taken by your customers in your business. With its ability to capture each customer interaction, you can get a comprehensive idea of how your prospects and customers are navigating within your business. Click here to learn more about Path Finder What is the difference between Path Finder and Journey Builder in Zoho CRM? Path Finder and Journey Builder are two subsets of an Experience Center toolkit in Zoho CRM called CommandCenter . While Path Finder will help you discover real-time journeys your customers are taking in your business, Journey Builder will help you design and template contextual journeys, thereon. Thus, based on Path Finder's findings, you can orchestrate a forward journey for your 
-### 8. Call analytics
+Notes make it easy to capture your interactions with customers and prospects in CRM. You can add notes to leads, contacts, accounts, deals, activities, and more. These notes are stored as related items under each entry, so all your interaction details stay connected and organized. You can add notes in the following ways: Text notes Voice notes Voice-to-text notes ${accordionSetId_2026_0_20_17_6_53} To add text notes Open the record. Go to Notes under the related list. Tap on the icon Type out the note and apply rich text formatting if needed ( bold, italics, text color, etc.). Tap on the icon
+### 8. FAQs: Path Finder
 
-Call analytics is a VoC dashboard that displays charts on key insights observed in your call correspondences. Importance of call analytics The conventional mode of communication, calls , are versatile and on-demand when it comes to understanding and resolving customer requirements. However, identifying and resolving issues on-the-go, is just one advantage of jumping into a call. Calls are an actual treasure trove that could reveal subtle cues that were not intentionally part of your agenda. Let's look at how call analytics can help your business! Discovering customer interests: Along your lengthy sale pipeline, you will have discussed varying subjects with your prospects and customers. Imagine your prospect has a deal open to buy 5000 laptops. However, in order to find out company's other 
+Path Finder in Zoho CRM is an observant tool built to discover and record real-time journeys taken by your customers in your business. With its ability to capture each customer interaction, you can get a comprehensive idea of how your prospects and customers are navigating within your business. Click here to learn more about Path Finder What is the difference between Path Finder and Journey Builder in Zoho CRM? Path Finder and Journey Builder are two subsets of an Experience Center toolkit in Zoho CRM called CommandCenter . While Path Finder will help you discover real-time journeys your custo
 
 
 ---
@@ -47,11 +47,11 @@ Call analytics is a VoC dashboard that displays charts on key insights observed 
 **Primary Module:** `MOBILE`
 
 **Standard Fields (inherited):**
-- `Created_By` (User) — Record creator
-- `Modified_By` (User) — Last modifier
-- `Created_Time` (DateTime) — Creation timestamp
-- `Modified_Time` (DateTime) — Last modification
-- `Owner` (User) — Record owner for access control
+- `Created_By` (User) -- Record creator
+- `Modified_By` (User) -- Last modifier
+- `Created_Time` (DateTime) -- Creation timestamp
+- `Modified_Time` (DateTime) -- Last modification
+- `Owner` (User) -- Record owner for access control
 
 **Key Articles:**
 - `Managing Process`
@@ -116,10 +116,10 @@ Analytics/Reports Updated
 
 ### This Feature Enables
 
-- **Activities** — shares data model and workflows
-- **Analytics** — generates reports based on this module's data
-- **Automation** — triggers workflows based on record changes
-- **Mobile** — fully accessible via Zoho CRM mobile apps
+- **Activities** -- shares data model and workflows
+- **Analytics** -- generates reports based on this module's data
+- **Automation** -- triggers workflows based on record changes
+- **Mobile** -- fully accessible via Zoho CRM mobile apps
 
 ### Interaction Patterns
 
@@ -138,65 +138,72 @@ Analytics/Reports Updated
 **Purpose:** Understanding Approval Process Sometimes, for a process to take place, you need approval from people at higher levels in an organization. This type of formal approval requires input from multiple role
 
 **Key Points:**
-- Understanding Approval Process Sometimes, for a process to take place, you need approval from people at higher levels in an organization.
-- This type of formal approval requires input from multiple roles.
-- The approval processes created in the web version of Zoho CRM will also appear in the mobile version.
-- Permission Required Users with Manage workflow permission in their profile can access this feature.
-- Check Feature Availability and Limits Records that are waiting for approval can be viewed in th
+Understanding Approval Process Sometimes, for a process to take place, you need approval from people at higher levels in an organization.
+This type of formal approval requires input from multiple roles.
+The approval processes created in the web version of Zoho CRM will also appear in the mobile version.
+Permission Required Users with Manage workflow permission in their profile can access this feature.
+Check Feature Availability and Limits Records that are waiting for approval can be viewed in the Android app and can then be approved, rejected, or delegated from the My Jobs module or from the record detail view of a specific module.
+To approve a record Tap the icon in your Zoho CRM app
 
 
 ### Field of Lookup
 **Purpose:** Overview Lookup fields enable users to associate records between two modules. Let's say, for example, you have two modules: Students and Courses. By adding a lookup field called Course type in the Stu
 
 **Key Points:**
-- Overview Lookup fields enable users to associate records between two modules.
-- Let's say, for example, you have two modules: Students and Courses.
-- By adding a lookup field called Course type in the Students module, users can select a course when a new student record is created or added in Zoho CRM, as well as view the list of students enrolled in a particular course in the Courses module's related list.
-- While the Course type lookup field displays the names of the courses in which a student has ex
+Overview Lookup fields enable users to associate records between two modules.
+Let's say, for example, you have two modules: Students and Courses.
+By adding a lookup field called Course type in the Students module, users can select a course when a new student record is created or added in Zoho CRM, as well as view the list of students enrolled in a particular course in the Courses module's related list.
+While the Course type lookup field displays the names of the courses in which a student has expressed interest, in instances when you want to view more details—such as course fee, course duration, subjects, course instructor, and so on—you can use the field of lookup module option.
+Business scenarios View additional details of a contact in the Deals module Sales associates can view a contact's email address, phone number, referrer, and—alongside the primary lookup field—the contact's name.
+They can also view the values in these fields in a report created for the Deals module
 
 
 ### NaijaSMSPortal for Zoho CRM
 **Purpose:** NaijaSMSPortal is an SMS provider that offers domestic (region-specific) SMS services to its users. By integrating the NaijaSMSPortal extension with Zoho CRM, you can send individual or bulk SMS messa
 
 **Key Points:**
-- NaijaSMSPortal is an SMS provider that offers domestic (region-specific) SMS services to its users.
-- By integrating the NaijaSMSPortal extension with Zoho CRM, you can send individual or bulk SMS messages to your leads and contacts directly from your Zoho CRM account.
-- You can also create SMS templates in Zoho CRM that can be selected while sending SMS to users.
-- Note: User should have an active NaijaSMSPortal account.
-- If you do not have an account, click here to create one.
-- The NaijaSMSPortal is s
+NaijaSMSPortal is an SMS provider that offers domestic (region-specific) SMS services to its users.
+By integrating the NaijaSMSPortal extension with Zoho CRM, you can send individual or bulk SMS messages to your leads and contacts directly from your Zoho CRM account.
+You can also create SMS templates in Zoho CRM that can be selected while sending SMS to users.
+Note: User should have an active NaijaSMSPortal account.
+If you do not have an account, click here to create one.
+The NaijaSMSPortal is supported only for the Nigeria numbers
 
 
 ### Configuring SAML-based SSO in CRM portals
-**Purpose:** This document will provide instructions on how to enable SAML-based SSO for your CRM's portal users. For an overview of SAML-based SSO, see SAML based Single Sign On (SSO) in CRM portals - Overview . 
+**Purpose:** This document will provide instructions on how to enable SAML-based SSO for your CRM's portal users. For an overview of SAML-based SSO, see SAML based Single Sign On (SSO) in CRM portals - Overview .
 
 **Key Points:**
-- This document will provide instructions on how to enable SAML-based SSO for your CRM's portal users.
-- For an overview of SAML-based SSO, see SAML based Single Sign On (SSO) in CRM portals - Overview.
-- Prerequisite Glossary Prerequisite Editions: Enterprise and Ultimate Bundles (CRMPlus and Zoho One) Trial: No Developer: No Sandbox: No Mobile: No Permission : Users with the Manage Portals permission (Under Setup permissions > Admin level permissions ) can configure SAML based SSO for their CRM's p
+This document will provide instructions on how to enable SAML-based SSO for your CRM's portal users.
+For an overview of SAML-based SSO, see SAML based Single Sign On (SSO) in CRM portals - Overview.
+Prerequisite Glossary Prerequisite Editions: Enterprise and Ultimate Bundles (CRMPlus and Zoho One) Trial: No Developer: No Sandbox: No Mobile: No Permission : Users with the Manage Portals permission (Under Setup permissions > Admin level permissions ) can configure SAML based SSO for their CRM's portal and manage it.
+Glossary Authentication Authentication is the process of confirming a user's identity before providing access to a system.
+This is used to secure the system against impostors.
+SAML Security Assertion Markup Language (SAML) is a standard for communication that helps in authentication
 
 
 ### WeChat for Zoho CRM
 **Purpose:** The WeChat extension for Zoho CRM helps you to connect with the leads in your CRM account via chats. You can send messages right from your CRM to the leads' WeChat account directly. Similarly, any mes
 
 **Key Points:**
-- The WeChat extension for Zoho CRM helps you to connect with the leads in your CRM account via chats.
-- You can send messages right from your CRM to the leads' WeChat account directly.
-- Similarly, any messages from the leads will be received in your Zoho Cliq channel.
-- With this extension, you can access the conversation history anytime from your CRM account.
-- Requirements: WeChat cloud account ( www.
-- com) WeChat mobile account (mobile app account) Installing the extension To install the e
+The WeChat extension for Zoho CRM helps you to connect with the leads in your CRM account via chats.
+You can send messages right from your CRM to the leads' WeChat account directly.
+Similarly, any messages from the leads will be received in your Zoho Cliq channel.
+With this extension, you can access the conversation history anytime from your CRM account.
+Requirements: WeChat cloud account ( www.
+com) WeChat mobile account (mobile app account) Installing the extension To install the extension: Navigate to Setup > Marketplace > All
 
 
 ### Zoho CRM for iPhone - An Overview
 **Purpose:** Zoho CRM for iPhone is a native application that enables you to access and work with your Online Zoho CRM data from your iPhone. The 3.0 version of the native CRM app is available in iOS 8.0 and above
 
 **Key Points:**
-- Zoho CRM for iPhone is a native application that enables you to access and work with your Online Zoho CRM data from your iPhone.
-- 0 version of the native CRM app is available in iOS 8.
-- From you iPhone, you can access data from Leads, Accounts, Contacts, Potentials, Cases, Vendors, Products, Tasks, Pricebooks, Sales orders, etc.
-- Availability Permission Required Administrators need to activate it for users in other profiles.
-- Features Zia Voice - Call or Chat with Zia to get answer
+Zoho CRM for iPhone is a native application that enables you to access and work with your Online Zoho CRM data from your iPhone.
+0 version of the native CRM app is available in iOS 8.
+From you iPhone, you can access data from Leads, Accounts, Contacts, Potentials, Cases, Vendors, Products, Tasks, Pricebooks, Sales orders, etc.
+Availability Permission Required Administrators need to activate it for users in other profiles.
+Features Zia Voice - Call or Chat with Zia to get answers for all your questions in Zoho CRM.
+Spotlight - Spotlight Search lets you see the contact information that you are searching for in a jiffy
 
 
 ---
@@ -218,14 +225,14 @@ Analytics/Reports Updated
 
 ### Industry-Specific Patterns
 
-**EdTech / Schools** — Student inquiry management, enrollment pipeline, course tracking
-**Solar / Renewable Energy** — Site assessment pipeline, proposal workflow, project milestones
-**Healthcare** — Patient inquiry, appointment scheduling, treatment plan tracking
-**Real Estate** — Property inquiry to closing, viewing scheduling, document management
-**BFSI** — Loan application processing, policy enrollment, compliance workflows
-**Manufacturing** — Inquiry to order pipeline, production scheduling, quality checks
-**Retail** — Order processing, customer onboarding, post-purchase engagement
-**Hospitality** — Booking inquiry to confirmation, event planning, preference tracking
+**EdTech / Schools** -- Student inquiry management, enrollment pipeline, course tracking
+**Solar / Renewable Energy** -- Site assessment pipeline, proposal workflow, project milestones
+**Healthcare** -- Patient inquiry, appointment scheduling, treatment plan tracking
+**Real Estate** -- Property inquiry to closing, viewing scheduling, document management
+**BFSI** -- Loan application processing, policy enrollment, compliance workflows
+**Manufacturing** -- Inquiry to order pipeline, production scheduling, quality checks
+**Retail** -- Order processing, customer onboarding, post-purchase engagement
+**Hospitality** -- Booking inquiry to confirmation, event planning, preference tracking
 
 ---
 
@@ -300,10 +307,10 @@ Stage 5: Completed/Closed
 
 ```
 Organization
-  └── Roles (Sales Rep, Manager, Admin)
-        └── Profiles (Standard, Limited, Read-Only)
-              └── Field-Level Permissions (Visible, Editable, Hidden)
-                    └── Record-Level Access (Owner, Assigned, All)
+  |__ Roles (Sales Rep, Manager, Admin)
+        |__ Profiles (Standard, Limited, Read-Only)
+              |__ Field-Level Permissions (Visible, Editable, Hidden)
+                    |__ Record-Level Access (Owner, Assigned, All)
 ```
 
 ### Scalability
@@ -323,25 +330,25 @@ Organization
 - [Configuring SAML-based SSO in CRM portals](https://help.zoho.com/portal/en/kb/crm/articles/configuring-saml-based-sso-in-crm-portals)
 - [WeChat for Zoho CRM](https://help.zoho.com/portal/en/kb/crm/articles/wechat-for-zoho-crm-3-8-2021)
 - [Zoho CRM for iPhone - An Overview](https://help.zoho.com/portal/en/kb/crm/articles/zoho-crm-iphone-an-overview)
+- [Working with notes in Zoho CRM iOS app ](https://help.zoho.com/portal/en/kb/crm/articles/working-with-notes-in-zoho-crm-ios-app)
 - [FAQs: Path Finder](https://help.zoho.com/portal/en/kb/crm/articles/faqs-path-finder)
 - [Call analytics](https://help.zoho.com/portal/en/kb/crm/articles/call-analytics)
 - [Team modules in Zoho CRM iOS app](https://help.zoho.com/portal/en/kb/crm/articles/team-modules-in-zoho-crm-ios-app)
+- [Installing the CRM Mobile App](https://help.zoho.com/portal/en/kb/crm/articles/installing-crm-mobile-app)
+- [Swipe actions in Zoho CRM Android app ](https://help.zoho.com/portal/en/kb/crm/articles/swipe-actions-in-zoho-crm-android-app)
 - [Converting Leads](https://help.zoho.com/portal/en/kb/crm/articles/convert-leads)
+- [Building a Subform](https://help.zoho.com/portal/en/kb/crm/articles/build-subforms)
 - [Setting up Webforms](https://help.zoho.com/portal/en/kb/crm/articles/set-up-web-forms)
 - [Working with Analytics in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/articles/working-with-analytics-in-zoho-crm-android-app)
+- [FAQs: Data Enrichment](https://help.zoho.com/portal/en/kb/crm/articles/faqs-data-enrichment)
 - [Creating Quotes](https://help.zoho.com/portal/en/kb/crm/articles/create-quotes)
+- [Customizing the navigation bar in the Zoho CRM iOS app ](https://help.zoho.com/portal/en/kb/crm/articles/customizing-the-navigation-bar-in-the-zoho-crm-ios-app)
 - [Using and Creating Macros](https://help.zoho.com/portal/en/kb/crm/articles/using-macros)
+- [Tags in Zoho CRM for Android](https://help.zoho.com/portal/en/kb/crm/articles/tags-in-zoho-crm-for-android)
 - [Using Native App for Tablets](https://help.zoho.com/portal/en/kb/crm/articles/using-native-app-for-tablets)
+- [FAQs: CRM Analytics App](https://help.zoho.com/portal/en/kb/crm/articles/faqs-crm-analytics-app)
 - [Aircall](https://help.zoho.com/portal/en/kb/crm/articles/integrate-with-aircall)
 - [Email Configuration IMAP](https://help.zoho.com/portal/en/kb/crm/articles/email-configuration-imap)
-- [User details in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/articles/user-details-in-zoho-crm-android-app)
-- [FAQs: Page layouts](https://help.zoho.com/portal/en/kb/crm/articles/faqs-page-layouts)
-- [Tencent](https://help.zoho.com/portal/en/kb/crm/articles/tencent-crm-integration)
-- [Locate people near you in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/articles/locate-people-near-you-in-the-zoho-crm-android-app)
-- [Many-to-Many Module Association](https://help.zoho.com/portal/en/kb/crm/articles/linking-modules)
-- [Team modules in Zoho CRM Android app](https://help.zoho.com/portal/en/kb/crm/articles/team-modules-in-zoho-crm-android-app)
-- [Associate Functions](https://help.zoho.com/portal/en/kb/crm/articles/associate-functions-workflow-rules)
-- [ Signals in Zoho CRM iOS app ](https://help.zoho.com/portal/en/kb/crm/articles/signals-in-zoho-crm-ios-app-24-2-2026)
 
 ---
 

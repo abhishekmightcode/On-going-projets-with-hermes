@@ -1,7 +1,7 @@
 # Assignment Rules & Territory Management
 
 > **Feature ID:** `10-Assignment-Rules`  
-> **Knowledge Base Articles:** 24  
+> **Knowledge Base Articles:** 36  
 > **Last Updated:** 2026-05-05
 
 ## Overview
@@ -14,28 +14,28 @@ Automatic record assignment, territory-based routing, round-robin, and threshold
 
 ### 1. Decision Guide for Territory Management
 
-Assumptions This document assumes that you are already aware of the basic concepts of territory management. For an understanding of the feature in Zoho CRM, take a look at the help document - Territory Management Overview . Introduction Territory Management is a system by which customer accounts are grouped based on a defined set of criteria. This makes for easy sharing of customer accounts among sales teams in your company. In Zoho CRM, the territory management feature lets you: Create territories and specify criteria that defines a territory. Build a territory hierarchy in addition to the role hierarchy in your account. Access predefined reports on territories, such as, Star performers across territories, Overall Sales Cycle Duration among territories, Revenue By Territories, etc. Create
-### 2. Setting up Webforms
+Assumptions This document assumes that you are already aware of the basic concepts of territory management. For an understanding of the feature in Zoho CRM, take a look at the help document - Territory Management Overview . Introduction Territory Management is a system by which customer accounts are grouped based on a defined set of criteria. This makes for easy sharing of customer accounts among sales teams in your company. In Zoho CRM, the territory management feature lets you: Create territories and specify criteria that defines a territory. Build a territory hierarchy in addition to the ro
+### 2. Setting Assignment Rules
 
-Creating a webform involves three steps: Building the form - Drag and drop fields to build a form and format it easily with the WYSIWYG editor. Specifying the form details - Add details such as form name, landing page URL (where the visitor needs to be redirected after the form is submitted) record assignment rule, notification details, etc. Generating the code for the form - Embed the form using various code formats. Codes for some third-party sites (WordPress, Google Sites, Facebook, and Joomla) are readily available. You can build webforms to generate records for the Leads , Contacts , Cases and any other Custom modules . While building a webform, the following elements are available in the form: Option Description Add fields Drag and drop the fields that are required in the form. By de
-### 3. Assignment Rules
+A sales success is closely coupled with the everyday activities of the reps, such as - number of follow-ups, promptness in getting back to the customers, offering quick answers to their queries, and responding to the support tickets. All these factors play a crucial role in moving the leads rapidly through the sales funnel, eventually leading to a successful sale closure. An important aspect in achieving the above depends on how well-organized and planned the lead assignment process in an organization is. Most businesses rely on multiple sources to generate leads. With each lead/customer havin
+### 3. Setting up Webforms
+
+Creating a webform involves three steps: Building the form - Drag and drop fields to build a form and format it easily with the WYSIWYG editor. Specifying the form details - Add details such as form name, landing page URL (where the visitor needs to be redirected after the form is submitted) record assignment rule, notification details, etc. Generating the code for the form - Embed the form using various code formats. Codes for some third-party sites (WordPress, Google Sites, Facebook, and Joomla) are readily available. You can build webforms to generate records for the Leads , Contacts , Case
+### 4. Assignment Rules
 
 Assign records to appropriate users using Assignment Rules Help guide Setting up Assignment Rules
-### 4. Automation in Team Module
+### 5. Automation in Team Module
 
-This document will cover the automation-related information for team modules. CRM for everyone opens up module creation to non-admins as mentioned here . This brings the work of customer facing teams into the CRM and gives it context. But teams will soon want to automate repetitive work to make their processes faster and to focus on more important tasks. Teams do not have to rely on org admins for automating their team's work or managing their team's processes. With CRM for everyone, team module admins can do this on their own. This lets teams configure and own their processes fully, while reducing the load on the org admins. They can do this by using the following features: Assignment rules Workflow rules Blueprint Approval process Assignment rules Assignment rules can be configured to au
-### 5. Zia Suggestions for Assignment Rules
+This document will cover the automation-related information for team modules. CRM for everyone opens up module creation to non-admins as mentioned here . This brings the work of customer facing teams into the CRM and gives it context. But teams will soon want to automate repetitive work to make their processes faster and to focus on more important tasks. Teams do not have to rely on org admins for automating their team's work or managing their team's processes. With CRM for everyone, team module admins can do this on their own. This lets teams configure and own their processes fully, while red
+### 6. Zia Suggestions for Assignment Rules
 
-Businesses spend a lot of money, time, and effort to bring leads into the sales funnel. Despite those efforts, research shows that about 24% of U.S. companies take about 24 hours on average to make their first move toward a lead—just enough time to turn those onboarded leads cold. There could be any number of reasons for this tardiness, like a shortage of employees, overloaded sales reps, or inefficient process management, but as we examine these causes, we find that the underlying problem is always about record ownership —either the lack of it or inaccuracy in it. Record ownership is an important determinant of successful lead turnover in a business. That's the first step, in fact. To whom is a lead assigned? Is that record relevant to the sales rep's territory? Does it match the rep's sk
-### 6. Managing multiple services in Non-Profit Organizations
+Businesses spend a lot of money, time, and effort to bring leads into the sales funnel. Despite those efforts, research shows that about 24% of U.S. companies take about 24 hours on average to make their first move toward a lead—just enough time to turn those onboarded leads cold. There could be any number of reasons for this tardiness, like a shortage of employees, overloaded sales reps, or inefficient process management, but as we examine these causes, we find that the underlying problem is always about record ownership —either the lack of it or inaccuracy in it. Record ownership is an impor
+### 7. Managing multiple services in Non-Profit Organizations
 
-Edition: All Paid editions | Industry: NGOs or Non-Profit Organizations | Features: Layouts, Workflow Rules, Blueprint, Assignment Rule, Reports and Dashboards The Requirement Life Drops is an NGO that works towards saving the environment with a focus on water conservation. They have four areas of focus which they call the "four pillars" of their organization. They are: afforestation, water conservation, waste management and awareness camps. Afforestation : Any organization, whether it is an educational institution, a company, or any other establishment, can approach Life Drops to help them plant trees on their premises. Water conservation : The NGO also accepts requests from local farmers to help with water body restoration efforts such as reviving rivers and constructing water conservati
-### 7. Zoho CRM Webforms for Google Sites
+Edition: All Paid editions | Industry: NGOs or Non-Profit Organizations | Features: Layouts, Workflow Rules, Blueprint, Assignment Rule, Reports and Dashboards The Requirement Life Drops is an NGO that works towards saving the environment with a focus on water conservation. They have four areas of focus which they call the "four pillars" of their organization. They are: afforestation, water conservation, waste management and awareness camps. Afforestation : Any organization, whether it is an educational institution, a company, or any other establishment, can approach Life Drops to help them pl
+### 8. Zoho CRM Webforms for Google Sites
 
-Webforms simplify the process of capturing visitors' or users' information from the website into your CRM system. They are designed to automate importing of data from website into Zoho CRM and to enable non-technical users to design and publish their own webforms. Zoho CRM webforms for Google Sites helps G Suite users to use webforms in Google sites to capture visitor information. Before setting the webform, ensure the following check-list: Create a default Email template to send automated replies to website visitors upon submission of their details. Create an Assignment rule if you wish to assign the incoming records to specific users. By default, all incoming records are assigned to the Administrator. Customize the fields to be added in the webform. Availability Permission Required All G
-### 8. Automatically assign leads from a particular source to selected reps
-
-Edition: Professional and above | Industry: Travel and Tourism | Feature: Assignment Rule Scenario Zylker Moments is a travel agency. They wish to automate assignment of imported leads, based on the following criteria. Rule Name : Assignment Rule based on Lead Source Criteria : If Lead Source is, Cold Call: Assign to Martha Hills Trade Show: Assign to Raghav Rao Advertisement: Assign to Amelia Burrows. For each user, assign a follow-up task called “Send Travel Preferences Survey”. Expected Result Solution Go to Setup > Automation > Assignment Rules . Choose the module: Leads . Click Create New Lead Assignment Rule . Enter the Rule Name: Assignment Rule based on Lead Source. Click +Create Rule Entry Under the Criteria section, enter the required conditions: Lead Source is Cold Call. Under t
+Webforms simplify the process of capturing visitors' or users' information from the website into your CRM system. They are designed to automate importing of data from website into Zoho CRM and to enable non-technical users to design and publish their own webforms. Zoho CRM webforms for Google Sites helps G Suite users to use webforms in Google sites to capture visitor information. Before setting the webform, ensure the following check-list: Create a default Email template to send automated replies to website visitors upon submission of their details. Create an Assignment rule if you wish to as
 
 
 ---
@@ -47,17 +47,17 @@ Edition: Professional and above | Industry: Travel and Tourism | Feature: Assign
 **Primary Module:** `ASSIGNMENT`
 
 **Standard Fields (inherited):**
-- `Created_By` (User) — Record creator
-- `Modified_By` (User) — Last modifier
-- `Created_Time` (DateTime) — Creation timestamp
-- `Modified_Time` (DateTime) — Last modification
-- `Owner` (User) — Record owner for access control
+- `Created_By` (User) -- Record creator
+- `Modified_By` (User) -- Last modifier
+- `Created_Time` (DateTime) -- Creation timestamp
+- `Modified_Time` (DateTime) -- Last modification
+- `Owner` (User) -- Record owner for access control
 
 **Key Articles:**
 - `Decision Guide for Territory Management`
+- `Setting Assignment Rules`
 - `Setting up Webforms`
 - `Assignment Rules`
-- `Automation in Team Module`
 
 ### API Reference
 
@@ -115,10 +115,10 @@ Analytics/Reports Updated
 
 ### This Feature Enables
 
-- **Leads-Management** — shares data model and workflows
-- **Analytics** — generates reports based on this module's data
-- **Automation** — triggers workflows based on record changes
-- **Mobile** — fully accessible via Zoho CRM mobile apps
+- **Leads-Management** -- shares data model and workflows
+- **Analytics** -- generates reports based on this module's data
+- **Automation** -- triggers workflows based on record changes
+- **Mobile** -- fully accessible via Zoho CRM mobile apps
 
 ### Interaction Patterns
 
@@ -137,60 +137,67 @@ Analytics/Reports Updated
 **Purpose:** Assumptions This document assumes that you are already aware of the basic concepts of territory management. For an understanding of the feature in Zoho CRM, take a look at the help document - Territor
 
 **Key Points:**
-- Assumptions This document assumes that you are already aware of the basic concepts of territory management.
-- For an understanding of the feature in Zoho CRM, take a look at the help document - Territory Management Overview.
-- Introduction Territory Management is a system by which customer accounts are grouped based on a defined set of criteria.
-- This makes for easy sharing of customer accounts among sales teams in your company.
-- In Zoho CRM, the territory management feature lets you: Create territor
+Assumptions This document assumes that you are already aware of the basic concepts of territory management.
+For an understanding of the feature in Zoho CRM, take a look at the help document - Territory Management Overview.
+Introduction Territory Management is a system by which customer accounts are grouped based on a defined set of criteria.
+This makes for easy sharing of customer accounts among sales teams in your company.
+In Zoho CRM, the territory management feature lets you: Create territories and specify criteria that defines a territory.
+Build a territory hierarchy in addition to the role hierarchy in your account
+
+
+### Setting Assignment Rules
+**Purpose:** A sales success is closely coupled with the everyday activities of the reps, such as - number of follow-ups, promptness in getting back to the customers, offering quick answers to their queries, and r
+
+**Key Points:**
+A sales success is closely coupled with the everyday activities of the reps, such as - number of follow-ups, promptness in getting back to the customers, offering quick answers to their queries, and responding to the support tickets.
+All these factors play a crucial role in moving the leads rapidly through the sales funnel, eventually leading to a successful sale closure.
+An important aspect in achieving the above depends on how well-organized and planned the lead assignment process in an organization is.
+Most businesses rely on multiple sources to generate leads.
+With each lead/customer having disparate requirements, it is best to avoid assigning them randomly to the reps.
+Instead, they could be assigned to reps who have an expertise with managing leads from a region or a specific product
 
 
 ### Setting up Webforms
 **Purpose:** Creating a webform involves three steps: Building the form - Drag and drop fields to build a form and format it easily with the WYSIWYG editor. Specifying the form details - Add details such as form n
 
 **Key Points:**
-- Creating a webform involves three steps: Building the form - Drag and drop fields to build a form and format it easily with the WYSIWYG editor.
-- Specifying the form details - Add details such as form name, landing page URL (where the visitor needs to be redirected after the form is submitted) record assignment rule, notification details, etc.
-- Generating the code for the form - Embed the form using various code formats.
-- Codes for some third-party sites (WordPress, Google Sites, Facebook, and Jooml
+Creating a webform involves three steps: Building the form - Drag and drop fields to build a form and format it easily with the WYSIWYG editor.
+Specifying the form details - Add details such as form name, landing page URL (where the visitor needs to be redirected after the form is submitted) record assignment rule, notification details, etc.
+Generating the code for the form - Embed the form using various code formats.
+Codes for some third-party sites (WordPress, Google Sites, Facebook, and Joomla) are readily available.
+You can build webforms to generate records for the Leads , Contacts , Cases and any other Custom modules.
+While building a webform, the following elements are available in the form: Option Description Add fields Drag and drop the fields that are required in the form
 
 
 ### Assignment Rules
 **Purpose:** Assign records to appropriate users using Assignment Rules Help guide Setting up Assignment Rules
 
 **Key Points:**
-- Assign records to appropriate users using Assignment Rules Help guide Setting up Assignment Rules
+Assign records to appropriate users using Assignment Rules Help guide Setting up Assignment Rules
 
 
 ### Automation in Team Module
-**Purpose:** This document will cover the automation-related information for team modules. CRM for everyone opens up module creation to non-admins as mentioned here . This brings the work of customer facing teams 
+**Purpose:** This document will cover the automation-related information for team modules. CRM for everyone opens up module creation to non-admins as mentioned here . This brings the work of customer facing teams
 
 **Key Points:**
-- This document will cover the automation-related information for team modules.
-- CRM for everyone opens up module creation to non-admins as mentioned here.
-- This brings the work of customer facing teams into the CRM and gives it context.
-- But teams will soon want to automate repetitive work to make their processes faster and to focus on more important tasks.
-- Teams do not have to rely on org admins for automating their team's work or managing their team's processes.
-- With CRM for everyone, team module
+This document will cover the automation-related information for team modules.
+CRM for everyone opens up module creation to non-admins as mentioned here.
+This brings the work of customer facing teams into the CRM and gives it context.
+But teams will soon want to automate repetitive work to make their processes faster and to focus on more important tasks.
+Teams do not have to rely on org admins for automating their team's work or managing their team's processes.
+With CRM for everyone, team module admins can do this on their own
 
 
 ### Zia Suggestions for Assignment Rules
 **Purpose:** Businesses spend a lot of money, time, and effort to bring leads into the sales funnel. Despite those efforts, research shows that about 24% of U.S. companies take about 24 hours on average to make th
 
 **Key Points:**
-- Businesses spend a lot of money, time, and effort to bring leads into the sales funnel.
-- Despite those efforts, research shows that about 24% of U.
-- companies take about 24 hours on average to make their first move toward a lead—just enough time to turn those onboarded leads cold.
-- There could be any number of reasons for this tardiness, like a shortage of employees, overloaded sales reps, or inefficient process management, but as we examine these causes, we find that the underlying problem is al
-
-
-### Managing multiple services in Non-Profit Organizations
-**Purpose:** Edition: All Paid editions | Industry: NGOs or Non-Profit Organizations | Features: Layouts, Workflow Rules, Blueprint, Assignment Rule, Reports and Dashboards The Requirement Life Drops is an NGO tha
-
-**Key Points:**
-- Edition: All Paid editions | Industry: NGOs or Non-Profit Organizations | Features: Layouts, Workflow Rules, Blueprint, Assignment Rule, Reports and Dashboards The Requirement Life Drops is an NGO that works towards saving the environment with a focus on water conservation.
-- They have four areas of focus which they call the "four pillars" of their organization.
-- They are: afforestation, water conservation, waste management and awareness camps.
-- Afforestation : Any organization, whether it is an edu
+Businesses spend a lot of money, time, and effort to bring leads into the sales funnel.
+Despite those efforts, research shows that about 24% of U.
+companies take about 24 hours on average to make their first move toward a lead—just enough time to turn those onboarded leads cold.
+There could be any number of reasons for this tardiness, like a shortage of employees, overloaded sales reps, or inefficient process management, but as we examine these causes, we find that the underlying problem is always about record ownership —either the lack of it or inaccuracy in it.
+Record ownership is an important determinant of successful lead turnover in a business.
+That's the first step, in fact
 
 
 ---
@@ -212,14 +219,14 @@ Analytics/Reports Updated
 
 ### Industry-Specific Patterns
 
-**EdTech / Schools** — Student inquiry management, enrollment pipeline, course tracking
-**Solar / Renewable Energy** — Site assessment pipeline, proposal workflow, project milestones
-**Healthcare** — Patient inquiry, appointment scheduling, treatment plan tracking
-**Real Estate** — Property inquiry to closing, viewing scheduling, document management
-**BFSI** — Loan application processing, policy enrollment, compliance workflows
-**Manufacturing** — Inquiry to order pipeline, production scheduling, quality checks
-**Retail** — Order processing, customer onboarding, post-purchase engagement
-**Hospitality** — Booking inquiry to confirmation, event planning, preference tracking
+**EdTech / Schools** -- Student inquiry management, enrollment pipeline, course tracking
+**Solar / Renewable Energy** -- Site assessment pipeline, proposal workflow, project milestones
+**Healthcare** -- Patient inquiry, appointment scheduling, treatment plan tracking
+**Real Estate** -- Property inquiry to closing, viewing scheduling, document management
+**BFSI** -- Loan application processing, policy enrollment, compliance workflows
+**Manufacturing** -- Inquiry to order pipeline, production scheduling, quality checks
+**Retail** -- Order processing, customer onboarding, post-purchase engagement
+**Hospitality** -- Booking inquiry to confirmation, event planning, preference tracking
 
 ---
 
@@ -294,10 +301,10 @@ Stage 5: Completed/Closed
 
 ```
 Organization
-  └── Roles (Sales Rep, Manager, Admin)
-        └── Profiles (Standard, Limited, Read-Only)
-              └── Field-Level Permissions (Visible, Editable, Hidden)
-                    └── Record-Level Access (Owner, Assigned, All)
+  |__ Roles (Sales Rep, Manager, Admin)
+        |__ Profiles (Standard, Limited, Read-Only)
+              |__ Field-Level Permissions (Visible, Editable, Hidden)
+                    |__ Record-Level Access (Owner, Assigned, All)
 ```
 
 ### Scalability
@@ -312,6 +319,7 @@ Organization
 ## Article Sources
 
 - [Decision Guide for Territory Management](https://help.zoho.com/portal/en/kb/crm/articles/territory-decision-management)
+- [Setting Assignment Rules](https://help.zoho.com/portal/en/kb/crm/articles/set-assignment-rules)
 - [Setting up Webforms](https://help.zoho.com/portal/en/kb/crm/articles/set-up-web-forms)
 - [Assignment Rules](https://help.zoho.com/portal/en/kb/crm/articles/assignment-rules-2-7-2021)
 - [Automation in Team Module](https://help.zoho.com/portal/en/kb/crm/articles/automation-in-team-modules)
@@ -320,21 +328,21 @@ Organization
 - [Zoho CRM Webforms for Google Sites](https://help.zoho.com/portal/en/kb/crm/articles/web-forms-google-sites)
 - [Automatically assign leads from a particular source to selected reps](https://help.zoho.com/portal/en/kb/crm/articles/lead-assignment-based-on-lead-source)
 - [Troubleshooting Blueprint](https://help.zoho.com/portal/en/kb/crm/articles/troubleshooting-blueprint)
+- [FAQs : Sales Forecasting](https://help.zoho.com/portal/en/kb/crm/articles/faqs-sales-forecasting)
+- [FAQs: Tagging](https://help.zoho.com/portal/en/kb/crm/articles/faqs-tagging)
 - [Using the MS Outlook Plug-in (Windows)](https://help.zoho.com/portal/en/kb/crm/articles/using-the-ms-outlook-plug-in-windows)
 - [Assigning Record Owner](https://help.zoho.com/portal/en/kb/crm/articles/assigning-record-owner)
 - [Assigning Territories](https://help.zoho.com/portal/en/kb/crm/articles/assign-territories)
 - [Sales process: Lead engagement](https://help.zoho.com/portal/en/kb/crm/articles/sales-process-lead-engagement)
 - [Create a system-defined, guided sales process for a step-by-step lead conversion](https://help.zoho.com/portal/en/kb/crm/articles/create-system-defined-sales-process-for-a-step-by-step-lead-conversion)
 - [Territory Management - An Overview](https://help.zoho.com/portal/en/kb/crm/articles/territory-management)
+- [Digital Employees: Behavior and Scope](https://help.zoho.com/portal/en/kb/crm/articles/digital-employees-behavior-and-scope)
 - [Kaizen posts 2023: API series](https://help.zoho.com/portal/en/kb/crm/articles/api-2023)
 - [Webforms - An Introduction](https://help.zoho.com/portal/en/kb/crm/articles/web-forms-introduction)
+- [FAQs: Import](https://help.zoho.com/portal/en/kb/crm/articles/faqs-import)
+- [Automate your Business Process](https://help.zoho.com/portal/en/kb/crm/articles/get-started-automate-business-process)
 - [Using Territories](https://help.zoho.com/portal/en/kb/crm/articles/use-territories)
 - [Working With Leads](https://help.zoho.com/portal/en/kb/crm/articles/leads-26-4-2026)
-- [Zia Email Emotion Analysis](https://help.zoho.com/portal/en/kb/crm/articles/zia-email-emotion-analysis)
-- [Address Field](https://help.zoho.com/portal/en/kb/crm/articles/address-field-in-zoho-crm)
-- [Blueprint: Sample Process Flow](https://help.zoho.com/portal/en/kb/crm/articles/sample-process-flow-blueprint)
-- [FAQs on Blueprint](https://help.zoho.com/portal/en/kb/crm/articles/faqs-on-blueprint)
-- [Assignment Rules](https://help.zoho.com/portal/en/kb/crm/articles/assignment-rules)
 
 ---
 

@@ -1,7 +1,7 @@
 # Campaigns & Marketing Automation
 
 > **Feature ID:** `06-Campaigns-Marketing`  
-> **Knowledge Base Articles:** 138  
+> **Knowledge Base Articles:** 186  
 > **Last Updated:** 2026-05-05
 
 ## Overview
@@ -14,28 +14,28 @@ Marketing campaigns, autoresponders, lead nurturing, and campaign tracking
 
 ### 1. FAQs: Zoho CRM for Google Ads
 
-Can I choose another list of client accounts at a later point after Google Ads integration with Zoho CRM? Yes. You can choose a different set of client accounts that you want to be tracked inside Zoho CRM at any point after integration. However, this does not erase the details fetched from the previous accounts. Zoho CRM will simply stop tracking the previous accounts and start tracking the new client accounts. Can I configure more than one client account with Zoho CRM? Yes. If the Google Ads account being integrated is an MCC account, you can select any or all client accounts that you would want to be tracked inside Zoho CRM. Can I integrate Google Ads Grant with Zoho CRM? Yes. The Google Ads Grant allows the nonprofit organizations to advertise on Google Ads at no cost. You can integrate
+Can I choose another list of client accounts at a later point after Google Ads integration with Zoho CRM? Yes. You can choose a different set of client accounts that you want to be tracked inside Zoho CRM at any point after integration. However, this does not erase the details fetched from the previous accounts. Zoho CRM will simply stop tracking the previous accounts and start tracking the new client accounts. Can I configure more than one client account with Zoho CRM? Yes. If the Google Ads account being integrated is an MCC account, you can select any or all client accounts that you would w
 ### 2. Schedule annual notifications for subscription renewals
 
-Edition: Enterprise | Industry: Media and Publishing | Feature: Workflow Rule Scenario The Zylker Weekly is one of the leading international publishers of Travel and Tourism and Hospitality magazines. Every month, they publish new editions of the magazines. The interested readers can subscribe to their annual subscription package by sending an email request to their marketing team. The sales agents send reminder emails to the existing customers for annual subscription renewal. If the subscription is renewed, they are sent the magazines every month. To be sure that the renewal payment is made on time, they require a process to automatically start sending reminder emails 15 days before the renewal date, and upgrade the subscription status based on the payment. The following process chart exp
+Edition: Enterprise | Industry: Media and Publishing | Feature: Workflow Rule Scenario The Zylker Weekly is one of the leading international publishers of Travel and Tourism and Hospitality magazines. Every month, they publish new editions of the magazines. The interested readers can subscribe to their annual subscription package by sending an email request to their marketing team. The sales agents send reminder emails to the existing customers for annual subscription renewal. If the subscription is renewed, they are sent the magazines every month. To be sure that the renewal payment is made o
 ### 3. Zoho CRM for Google Ads
 
-Google Ads is a powerful online advertising program designed to help you reach new customers and increase sales for your business through ads on Google Search and across Google's network of partner websites. By helping you drive more traffic to your site from visitors who are likely to be interested in what your business has to offer, Google Ads helps you capture more qualified leads for a better return on your online marketing investment (ROI). Google Ads' flexible online marketing platform includes comprehensive analytics and reporting tools, giving you easy access to the data you need to make strategic marketing decisions for your business. If you use Google Ads to drive potential customers to your website and a customer relationship management system (CRM) to track offline sales made t
+Google Ads is a powerful online advertising program designed to help you reach new customers and increase sales for your business through ads on Google Search and across Google's network of partner websites. By helping you drive more traffic to your site from visitors who are likely to be interested in what your business has to offer, Google Ads helps you capture more qualified leads for a better return on your online marketing investment (ROI). Google Ads' flexible online marketing platform includes comprehensive analytics and reporting tools, giving you easy access to the data you need to ma
 ### 4. SurveyMonkey
 
-SurveyMonkey is a survey platform where you can create simple to complex surveys and analyze those valuable responses. This extension helps you bring those surveys and survey responses in your Zoho CRM account and associates them with the CRM contacts. The surveys are added as campaigns and the contacts can be synchronized one-way from SurveyMonkey to Zoho CRM, or two-ways. Additionally, you can send survey to your contacts from Zoho CRM. Note: Please note that the SurveyMonkey extension for Zoho CRM is available in US, EU, CN, IN, AU, CA, and JP data centers. Install SurveyMonkey Installing the extension and authenticating it with your SurveyMonkey login credentials is the first step. Once that is done, the surveys and contacts can be synchronized. After installing three modules are creat
+SurveyMonkey is a survey platform where you can create simple to complex surveys and analyze those valuable responses. This extension helps you bring those surveys and survey responses in your Zoho CRM account and associates them with the CRM contacts. The surveys are added as campaigns and the contacts can be synchronized one-way from SurveyMonkey to Zoho CRM, or two-ways. Additionally, you can send survey to your contacts from Zoho CRM. Note: Please note that the SurveyMonkey extension for Zoho CRM is available in US, EU, CN, IN, AU, CA, and JP data centers. Install SurveyMonkey Installing t
 ### 5. Introducing Actions in Zoho CRM
 
 Create actions to automate your sales and marketing activities. Help guide Configuring Automatic Actions ​
 ### 6. What is ABM?
 
-Challenge With the current era of digital marketing, the need to surpass the older forms of marketing is both necessary and a demanding prospect. Understanding this urgency to come up with new strategies of business marketing, expanding companies across the globe had to come up with an answer to this quest for new marketing strategy. Some of the major difficulties that they faced with traditional marketing were: Lack of Personalization : Traditional marketing often involves a one-size-fits-all approach, leading to poor engagement with high-value accounts because their unique needs and pain points aren't addressed. Inefficient Resource Allocation : Without a clear focus on target accounts, resources are often spread thin across a broad audience, resulting in wasted time and budget. Misalign
+Challenge With the current era of digital marketing, the need to surpass the older forms of marketing is both necessary and a demanding prospect. Understanding this urgency to come up with new strategies of business marketing, expanding companies across the globe had to come up with an answer to this quest for new marketing strategy. Some of the major difficulties that they faced with traditional marketing were: Lack of Personalization : Traditional marketing often involves a one-size-fits-all approach, leading to poor engagement with high-value accounts because their unique needs and pain poi
 ### 7. Data Privacy
 
-A record's details are available in two sections - Info and Timeline. When you switch on GDPR Compliance in your Zoho CRM account, you will be able to view another section, namely Data Privacy . This section has the following details: Data Source Personal Fields Data Processing Bases View Data Source Data Subject information can be pushed into Zoho CRM from multiple sources such as the web-forms, by importing, APIs and third-party integrations. Data Source displays the information about how the record was Created and when it was Last Updated . Along with these information, additional details will also be available as listed in the table below. Source (Feature) Data Tracking Last Updated Details Source (Feature) Data Tracking Last Updated Details Zoho Finance Suite Portal Name - Google Cale
+A record's details are available in two sections - Info and Timeline. When you switch on GDPR Compliance in your Zoho CRM account, you will be able to view another section, namely Data Privacy . This section has the following details: Data Source Personal Fields Data Processing Bases View Data Source Data Subject information can be pushed into Zoho CRM from multiple sources such as the web-forms, by importing, APIs and third-party integrations. Data Source displays the information about how the record was Created and when it was Last Updated . Along with these information, additional details w
 ### 8. Setting Email Notifications
 
-Email Notifications are among the instant and scheduled actions associated with different automations in CRM. They are alerts, notifications, information, or details sent to leads, contacts and users within the organization. When you associate an email notification to an automation, the selected email is automatically sent to the chosen recipients when the configuration criteria is met. Availability Permission Required Users with either Manage Automation or Modules Customization permissions can access this feature.. To set up an email notification Go to Setup[ ] > Automation > Actions > Email Notifications . In the Email Notifications page, click Create Email Notification . In the Create Email Notification, page, do the following: Enter a Name for the alert. Select the Module from the drop
+Email Notifications are among the instant and scheduled actions associated with different automations in CRM. They are alerts, notifications, information, or details sent to leads, contacts and users within the organization. When you associate an email notification to an automation, the selected email is automatically sent to the chosen recipients when the configuration criteria is met. Availability Permission Required Users with either Manage Automation or Modules Customization permissions can access this feature.. To set up an email notification Go to Setup[ ] > Automation > Actions > Email
 
 
 ---
@@ -47,11 +47,11 @@ Email Notifications are among the instant and scheduled actions associated with 
 **Primary Module:** `CAMPAIGNS`
 
 **Standard Fields (inherited):**
-- `Created_By` (User) — Record creator
-- `Modified_By` (User) — Last modifier
-- `Created_Time` (DateTime) — Creation timestamp
-- `Modified_Time` (DateTime) — Last modification
-- `Owner` (User) — Record owner for access control
+- `Created_By` (User) -- Record creator
+- `Modified_By` (User) -- Last modifier
+- `Created_Time` (DateTime) -- Creation timestamp
+- `Modified_Time` (DateTime) -- Last modification
+- `Owner` (User) -- Record owner for access control
 
 **Key Articles:**
 - `FAQs: Zoho CRM for Google Ads`
@@ -117,10 +117,10 @@ Analytics/Reports Updated
 
 ### This Feature Enables
 
-- **Leads-Management** — shares data model and workflows
-- **Analytics** — generates reports based on this module's data
-- **Automation** — triggers workflows based on record changes
-- **Mobile** — fully accessible via Zoho CRM mobile apps
+- **Leads-Management** -- shares data model and workflows
+- **Analytics** -- generates reports based on this module's data
+- **Automation** -- triggers workflows based on record changes
+- **Mobile** -- fully accessible via Zoho CRM mobile apps
 
 ### Interaction Patterns
 
@@ -139,58 +139,68 @@ Analytics/Reports Updated
 **Purpose:** Can I choose another list of client accounts at a later point after Google Ads integration with Zoho CRM? Yes. You can choose a different set of client accounts that you want to be tracked inside Zoho
 
 **Key Points:**
-- Can I choose another list of client accounts at a later point after Google Ads integration with Zoho CRM? Yes.
-- You can choose a different set of client accounts that you want to be tracked inside Zoho CRM at any point after integration.
-- However, this does not erase the details fetched from the previous accounts.
-- Zoho CRM will simply stop tracking the previous accounts and start tracking the new client accounts.
-- Can I configure more than one client account with Zoho CRM? Yes
+Can I choose another list of client accounts at a later point after Google Ads integration with Zoho CRM.
+You can choose a different set of client accounts that you want to be tracked inside Zoho CRM at any point after integration.
+However, this does not erase the details fetched from the previous accounts.
+Zoho CRM will simply stop tracking the previous accounts and start tracking the new client accounts.
+Can I configure more than one client account with Zoho CRM.
+If the Google Ads account being integrated is an MCC account, you can select any or all client accounts that you would want to be tracked inside Zoho CRM
 
 
 ### Schedule annual notifications for subscription renewals
 **Purpose:** Edition: Enterprise | Industry: Media and Publishing | Feature: Workflow Rule Scenario The Zylker Weekly is one of the leading international publishers of Travel and Tourism and Hospitality magazines.
 
 **Key Points:**
-- Edition: Enterprise | Industry: Media and Publishing | Feature: Workflow Rule Scenario The Zylker Weekly is one of the leading international publishers of Travel and Tourism and Hospitality magazines.
-- Every month, they publish new editions of the magazines.
-- The interested readers can subscribe to their annual subscription package by sending an email request to their marketing team.
-- The sales agents send reminder emails to the existing customers for annual subscription renewal
+Edition: Enterprise | Industry: Media and Publishing | Feature: Workflow Rule Scenario The Zylker Weekly is one of the leading international publishers of Travel and Tourism and Hospitality magazines.
+Every month, they publish new editions of the magazines.
+The interested readers can subscribe to their annual subscription package by sending an email request to their marketing team.
+The sales agents send reminder emails to the existing customers for annual subscription renewal.
+If the subscription is renewed, they are sent the magazines every month.
+To be sure that the renewal payment is made on time, they require a process to automatically start sending reminder emails 15 days before the renewal date, and upgrade the subscription status based on the payment
 
 
 ### Zoho CRM for Google Ads
 **Purpose:** Google Ads is a powerful online advertising program designed to help you reach new customers and increase sales for your business through ads on Google Search and across Google's network of partner we
 
 **Key Points:**
-- Google Ads is a powerful online advertising program designed to help you reach new customers and increase sales for your business through ads on Google Search and across Google's network of partner websites.
-- By helping you drive more traffic to your site from visitors who are likely to be interested in what your business has to offer, Google Ads helps you capture more qualified leads for a better return on your online marketing investment (ROI).
-- Google Ads' flexible online marketing platform inc
+Google Ads is a powerful online advertising program designed to help you reach new customers and increase sales for your business through ads on Google Search and across Google's network of partner websites.
+By helping you drive more traffic to your site from visitors who are likely to be interested in what your business has to offer, Google Ads helps you capture more qualified leads for a better return on your online marketing investment (ROI).
+Google Ads' flexible online marketing platform includes comprehensive analytics and reporting tools, giving you easy access to the data you need to make strategic marketing decisions for your business.
+If you use Google Ads to drive potential customers to your website and a customer relationship management system (CRM) to track offline sales made through phone calls, emails, or direct sales, it can be difficult for your business to determine how your online campaign investments lead to offline conversion data stored in Zoho CRM.
+With Zoho CRM for Google Ads , you can now import your Google Ads marketing investments into Zoho CRM so you can see which keywords and campaigns are responsible for each offline sale.
+Plus, you can also export Zoho CRM sales data into Google Ads so you can better optimize your bids and budgets to yield maximum revenue and profits
 
 
 ### SurveyMonkey
 **Purpose:** SurveyMonkey is a survey platform where you can create simple to complex surveys and analyze those valuable responses. This extension helps you bring those surveys and survey responses in your Zoho CR
 
 **Key Points:**
-- SurveyMonkey is a survey platform where you can create simple to complex surveys and analyze those valuable responses.
-- This extension helps you bring those surveys and survey responses in your Zoho CRM account and associates them with the CRM contacts.
-- The surveys are added as campaigns and the contacts can be synchronized one-way from SurveyMonkey to Zoho CRM, or two-ways.
-- Additionally, you can send survey to your contacts from Zoho CRM.
-- Note: Please note that the SurveyMonkey extension for Zoh
+SurveyMonkey is a survey platform where you can create simple to complex surveys and analyze those valuable responses.
+This extension helps you bring those surveys and survey responses in your Zoho CRM account and associates them with the CRM contacts.
+The surveys are added as campaigns and the contacts can be synchronized one-way from SurveyMonkey to Zoho CRM, or two-ways.
+Additionally, you can send survey to your contacts from Zoho CRM.
+Note: Please note that the SurveyMonkey extension for Zoho CRM is available in US, EU, CN, IN, AU, CA, and JP data centers.
+Install SurveyMonkey Installing the extension and authenticating it with your SurveyMonkey login credentials is the first step
 
 
 ### Introducing Actions in Zoho CRM
 **Purpose:** Create actions to automate your sales and marketing activities. Help guide Configuring Automatic Actions ​
 
 **Key Points:**
-- Create actions to automate your sales and marketing activities.
-- Help guide Configuring Automatic Actions ​
+Create actions to automate your sales and marketing activities.
+Help guide Configuring Automatic Actions ​
 
 
 ### What is ABM?
 **Purpose:** Challenge With the current era of digital marketing, the need to surpass the older forms of marketing is both necessary and a demanding prospect. Understanding this urgency to come up with new strateg
 
 **Key Points:**
-- Challenge With the current era of digital marketing, the need to surpass the older forms of marketing is both necessary and a demanding prospect.
-- Understanding this urgency to come up with new strategies of business marketing, expanding companies across the globe had to come up with an answer to this quest for new marketing strategy.
-- Some of the major difficulties that they faced with traditional marketing were: Lack of Personalization : Traditional marketing often involves a one-size-fits-all a
+Challenge With the current era of digital marketing, the need to surpass the older forms of marketing is both necessary and a demanding prospect.
+Understanding this urgency to come up with new strategies of business marketing, expanding companies across the globe had to come up with an answer to this quest for new marketing strategy.
+Some of the major difficulties that they faced with traditional marketing were: Lack of Personalization : Traditional marketing often involves a one-size-fits-all approach, leading to poor engagement with high-value accounts because their unique needs and pain points aren't addressed.
+Inefficient Resource Allocation : Without a clear focus on target accounts, resources are often spread thin across a broad audience, resulting in wasted time and budget.
+Misaligned Sales and Marketing : Discrepancies between sales and marketing teams can lead to conflicting strategies and a failure to prioritize high-value accounts effectively.
+Difficulty in Measuring ROI : Traditional marketing metrics may not accurately reflect the impact on key accounts, making it challenging to demonstrate the value of marketing efforts
 
 
 ---
@@ -212,14 +222,14 @@ Analytics/Reports Updated
 
 ### Industry-Specific Patterns
 
-**EdTech / Schools** — Student inquiry management, enrollment pipeline, course tracking
-**Solar / Renewable Energy** — Site assessment pipeline, proposal workflow, project milestones
-**Healthcare** — Patient inquiry, appointment scheduling, treatment plan tracking
-**Real Estate** — Property inquiry to closing, viewing scheduling, document management
-**BFSI** — Loan application processing, policy enrollment, compliance workflows
-**Manufacturing** — Inquiry to order pipeline, production scheduling, quality checks
-**Retail** — Order processing, customer onboarding, post-purchase engagement
-**Hospitality** — Booking inquiry to confirmation, event planning, preference tracking
+**EdTech / Schools** -- Student inquiry management, enrollment pipeline, course tracking
+**Solar / Renewable Energy** -- Site assessment pipeline, proposal workflow, project milestones
+**Healthcare** -- Patient inquiry, appointment scheduling, treatment plan tracking
+**Real Estate** -- Property inquiry to closing, viewing scheduling, document management
+**BFSI** -- Loan application processing, policy enrollment, compliance workflows
+**Manufacturing** -- Inquiry to order pipeline, production scheduling, quality checks
+**Retail** -- Order processing, customer onboarding, post-purchase engagement
+**Hospitality** -- Booking inquiry to confirmation, event planning, preference tracking
 
 ---
 
@@ -294,10 +304,10 @@ Stage 5: Completed/Closed
 
 ```
 Organization
-  └── Roles (Sales Rep, Manager, Admin)
-        └── Profiles (Standard, Limited, Read-Only)
-              └── Field-Level Permissions (Visible, Editable, Hidden)
-                    └── Record-Level Access (Owner, Assigned, All)
+  |__ Roles (Sales Rep, Manager, Admin)
+        |__ Profiles (Standard, Limited, Read-Only)
+              |__ Field-Level Permissions (Visible, Editable, Hidden)
+                    |__ Record-Level Access (Owner, Assigned, All)
 ```
 
 ### Scalability
@@ -322,20 +332,20 @@ Organization
 - [Address Locator for Zoho CRM](https://help.zoho.com/portal/en/kb/crm/articles/address-locator-for-zoho-crm)
 - [Survey Comparison](https://help.zoho.com/portal/en/kb/crm/articles/survey-comparison)
 - [Zoho Survey Integration - Overview](https://help.zoho.com/portal/en/kb/crm/articles/zoho-survey-crm-integration)
+- [FAQs: Review Process](https://help.zoho.com/portal/en/kb/crm/articles/faqs-review-process)
 - [Setting Field Updates](https://help.zoho.com/portal/en/kb/crm/articles/field-updates)
+- [FAQs: Zoho CRM for Google Apps](https://help.zoho.com/portal/en/kb/crm/articles/faqs-zoho-crm-for-google-apps)
 - [Common COQL Errors](https://help.zoho.com/portal/en/kb/crm/articles/troubleshoot-coql)
 - [Integrating Zoho Campaigns with Zoho CRM](https://help.zoho.com/portal/en/kb/crm/articles/zoho-campaigns-crm-integration)
 - [Booking appointments for services](https://help.zoho.com/portal/en/kb/crm/articles/booking-appointments-for-services)
+- [FAQs: Record Management](https://help.zoho.com/portal/en/kb/crm/articles/faqs-record-management)
 - [Facebook Adverts Manager](https://help.zoho.com/portal/en/kb/crm/articles/facebook-advert-manager-crm-integration)
 - [An overview of user management in Zoho CRM](https://help.zoho.com/portal/en/kb/crm/articles/an-overview-of-user-management-in-zoho-crm)
+- [FAQs: Data Enrichment](https://help.zoho.com/portal/en/kb/crm/articles/faqs-data-enrichment)
 - [Using and Creating Macros](https://help.zoho.com/portal/en/kb/crm/articles/using-macros)
 - [Automation in Team Module](https://help.zoho.com/portal/en/kb/crm/articles/automation-in-team-modules)
 - [Setting up Advanced CRM Analytics](https://help.zoho.com/portal/en/kb/crm/articles/zoho-analytics-crm-integrations)
 - [Segmentation Analysis](https://help.zoho.com/portal/en/kb/crm/articles/segmentation-analysis)
-- [Managing Notes and Attachments](https://help.zoho.com/portal/en/kb/crm/articles/manage-notes-and-attachments)
-- [Manage Users, Roles, and Permissions](https://help.zoho.com/portal/en/kb/crm/articles/get-started-manage-users)
-- [Working with Campaigns](https://help.zoho.com/portal/en/kb/crm/articles/campaigns)
-- [Attaching Documents from Zoho Docs](https://help.zoho.com/portal/en/kb/crm/articles/attachment-zoho-docs)
 
 ---
 
