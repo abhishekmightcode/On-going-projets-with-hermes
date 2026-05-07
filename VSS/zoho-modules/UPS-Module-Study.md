@@ -1,39 +1,23 @@
-# UPS Module — VSS Zoho CRM
+# UPS Module — VSS
 
-> Custom module for tracking channel partners / distributors.
-> Status: **Active** — 3 records as of May 2026
+## Schema
+Custom module in VSS Zoho CRM. Fields:
+- Name (text)
+- Phone (phone)
+- Email (email)
+- Dealer_Type (picklist)
+- Address fields (street, city, state, zip, coordinates)
+- Total_Lifetime_Value (currency)
+- Last_Order_Date (date)
+- Last_Order_Value (currency)
+- Total_visits (number)
+- Next_Follow_up_date_and_time (datetime)
+- Dealer_Code (text) — dealer ID from Excel
+- Owner_email (email)
 
-## Fields
-
-| Field Name | Type | Notes |
-|-----------|------|-------|
-| Name | Text | Dealer name |
-| Phone | Phone | Contact number |
-| Email | Email | Contact email |
-| Dealer_Type | Picklist? | Type of UPS partner |
-| Address_of_the_dealer | Address | Full address with city/state/country/zip |
-| Total_Lifetime_Value | Currency | Total business value |
-| Last_Order_Date | Date | Last order placed |
-| Last_Order_Value | Currency | Value of last order |
-| Total_visits | Number | Field visit count |
-| Next_Follow_up_date_and_time | DateTime | Scheduled follow-up |
-| Owner_email | Email | Owner email |
+## Subforms
+- Dealer_meets (subform) — meeting/visit records per dealer
 
 ## Records
-
-| Name | Phone | Lifetime Value | Last Order |
-|------|-------|----------------|------------|
-| Shivakanth | +916366922515 | — | — |
-| abhi | +917483419328 | — | — |
-| Eastman distributor | +919844141862 | — | — |
-
-## Observations
-- Module is early stage — most fields are empty
-- Acts as a **channel partner / distributor registry**
-- No orders or visits data captured yet
-- No linked Deals or Project_Execution records visible
-
-## API Name
-```
-UPS
-```
+- 60+ dealer records imported from `DEALER CONTACT_NO.xlsx`
+- Each record: Dealer_Code + Name + Phone (+91 format)
