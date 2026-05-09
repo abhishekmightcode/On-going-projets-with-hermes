@@ -1,7 +1,32 @@
 # VSS Field App — Master Implementation Plan
-**Status:** PHASE 1 IN PROGRESS
+**Status:** ✅ PHASE 1 DEPLOYED
 **Project:** VSS (V Sustain Solar Solutions)
-**Last Updated:** 2026-05-08
+**Last Updated:** 2026-05-09
+
+---
+
+## ✅ PHASE 1 COMPLETED — What's Built
+
+The app is LIVE at: **https://abhishekmightcode.github.io/vss-ups-field-app/**
+
+### Architecture
+```
+Browser → Firebase Firestore (read cache, instant load)
+        ↕ (bidirectional sync)
+     Zoho CRM (source of truth)
+
+Web App (no Google Forms for text):
+  ├── 📍 Send Location → GPS → Zoho CRM (direct API)
+  ├── 📝 Submit Info   → In-app web form → Zoho CRM (direct API)
+  └── 📷 Upload Photo → Google Form (photo only — setup pending)
+```
+
+### Firebase Doc IDs
+- **Zoho records**: keyed by Zoho numeric ID (e.g. `1171062000002868005`)
+- **Future csv_master dealers**: keyed by CSV dealer code (e.g. `1000036809`)
+- **Fix applied 2026-05-09**: Previously both sources used the same numeric IDs causing duplicates. Now separated: Zoho records use their own Zoho IDs, csv_master dealers use their CSV codes.
+
+### Fields Updated by "Submit Info"
 
 ---
 
