@@ -1,7 +1,7 @@
 # VSS Field App — Master Implementation Plan
 **Status:** ✅ PHASE 1 DEPLOYED
 **Project:** VSS (V Sustain Solar Solutions)
-**Last Updated:** 2026-05-09
+**Last Updated:** 2026-05-09 (full data reset)
 
 ---
 
@@ -22,9 +22,10 @@ Web App (no Google Forms for text):
 ```
 
 ### Firebase Doc IDs
-- **Zoho records**: keyed by Zoho numeric ID (e.g. `1171062000002868005`)
-- **Future csv_master dealers**: keyed by CSV dealer code (e.g. `1000036809`)
-- **Fix applied 2026-05-09**: Previously both sources used the same numeric IDs causing duplicates. Now separated: Zoho records use their own Zoho IDs, csv_master dealers use their CSV codes.
+- **All records use `dealer_code` as doc ID** (e.g. `1000036809`) — clean, CSV-sourced, no duplicates
+- `zoho_id` field in each doc stores the Zoho CRM numeric record ID (e.g. `1171062000002864011`)
+- Zoho records have their own IDs (not used as Firebase doc IDs)
+- **Updated 2026-05-09:** Full data reset — Zoho UPS module wiped and reloaded with 80 dealers from CSV. Firebase wiped and reloaded to match exactly.
 
 ### Fields Updated by "Submit Info"
 
