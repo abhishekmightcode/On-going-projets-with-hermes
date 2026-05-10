@@ -1,117 +1,92 @@
-# VSS — Current Status
+# VSS — Status
 
 **Last updated:** 2026-05-09
 
----
-
-## ✅ What Is Working
-
-### Field App (Production)
-- **URL:** https://abhishekmightcode.github.io/vss-ups-field-app/
-- **GitHub repo:** `abhishekmightcode/vss-ups-field-app`
-- Dealer list loads from Firebase instantly
-- Dealer detail modal shows: name, phone, dealer code, record ID, type, LTV, address, GPS status, visit count
-- **Send Location button** — GPS → Zoho CRM via `PUT /crm/v2/UPS/{record_id}` with lat/lng ✅
-- **Submit Info button** — In-app form → Zoho CRM PUT + Dealer Meets POST ✅
-- **Upload Photo button** — Shows Google Form (disabled until form is created by user)
-- Firebase syncs from Zoho on app load + every hour via cron
-- Toast notifications for success/error ✅
-- Filter chips (All / Distributor / Retailer / Service Partner / Institution) ✅
-- Search (dealer name, city, code) ✅
-
-### Zoho CRM
-- 80 dealer records in UPS module, all with 10-digit `Dealer_code` + `+91` phones
-- Zoho record IDs captured and used as Firebase doc IDs
-- Server-based OAuth (client ID + client secret + refresh token)
-
-### Firebase
-- Collection `upsdealers` — 80 docs, doc ID = Zoho record ID (PRIMARY KEY)
-- `dealer_code` stored as field inside each doc (secondary key)
-- Hourly sync via `vss_zoho_firebase_sync.py` (cron job ID: `e7474b1dd47e`, schedule: `0 * * * *`)
-
----
-
-## ❌ What Is NOT Working / Pending
-
-### Google Form Photo Upload
-- **Status:** Not set up yet
-- User needs to create a Google Form with: Record ID (hidden), Dealer Code (hidden), Photo (file upload)
-- Once created, update `config.js` with `GOOGLE_FORM` values (`enabled: true`, `base_url`, `entry_record_id`, `entry_dealer_code`)
-- Apps Script needed to: form submit → upload to Drive → get URL → POST to Zoho Dealer Meets sub-form
-
-### Dealer Meets Sub-form (Visit History)
-- Currently when `submitInfoForm()` runs, it creates a Dealer Meets entry in Zoho via POST
-- The app does NOT yet fetch and display Dealer Meets history from Zoho in the "Recent Visits" section of the modal
-- Firebase does NOT store Dealer Meets array consistently after sync
-- **Fix needed:** Fetch Dealer Meets sub-form records via GET and display in app
-
-### Visit History in App
-- "Recent Visits" section in modal shows `d.dealer_meets` from Firebase (set locally on submit)
-- On app reload, `dealer_meets` comes from Firebase — but Firebase sync doesn't fetch sub-form data
-- **Fix needed:** `syncFromZoho()` should also fetch Dealer Meets sub-form per record
-
-### First Sync on App Load
-- `syncFromZoho()` runs after `loadFromFirebase()` but shows stale data briefly
-- Not a functional bug, but UX could be improved (show loading indicator during sync)
-
----
-
-## 🔧 Known Bugs Fixed (2026-05-09)
-
-| Bug | Fix | Commit |
-|-----|-----|--------|
-| `docRef` undefined in `syncFromZoho()` | Added missing `docRef` declaration | `ecb5edf` |
-| Firebase doc ID used `dealer_code` in `sendLocation()` | Changed to `activeDealer.id` (Zoho record ID) | `ecb5edf` |
-| Firebase doc ID used `dealer_code` in `submitInfoForm()` | Changed to `activeDealer.id` (Zoho record ID) | `ecb5edf` |
-| `data.dealer_code = String(code)` overwrote mapped value | Removed the errant line | `8f266e2` |
-| Firebase collection name was `ups_dealers` (underscore) | Changed to `upsdealers` | `8755ea9` |
-| `modalRecordId` not shown in dealer modal | Added field with 🔑 icon | `8755ea9` |
-
----
-
-## 📋 Next Steps (Priority Order)
-
-1. **Create Google Form** for photo upload — user action needed
-2. **Display Dealer Meets history in app** — fetch sub-form data from Zoho on modal open
-3. **Fix `syncFromZoho()`** to also fetch Dealer Meets sub-form per record
-4. **Add photo badge** on dealer cards when photo has been uploaded
-5. **PanaceaX implementation** — once Abhishek clarifies scope
-6. **n8n workflow** for automated daily sync report
-
----
-
-## 📊 Data Model Summary
+## Current Architecture
 
 ```
-Firebase Collection: upsdealers
-Doc ID = Zoho Record ID (PRIMARY KEY)    e.g. "1171062000002901006"
-                                             
-Field: dealer_code = "1000036809"         (secondary key, human-readable)
-Field: id = "1171062000002901006"         (same as doc ID, for reference)
-Field: name = "Sri Bhyraveshwara Battery Point"
-Field: phone = "+919845367915"
-Field: lat, lng = GPS coordinates (set when employee sends location)
-Field: location_synced = boolean
-Field: visit_count = number
-Field: last_visit_date = ISO date string
-Field: dealer_meets = array (set locally on submit)
-Field: last_synced = Firestore timestamp
+Field Employee (mobile browser)
+  └─── "📍 Send Location" ──→ n8n webhook ──→ Zoho CRM (handled in n8n workflow)
+  └─── "📝 Submit Info"    ──→ n8n webhook ──→ Zoho CRM (handled in n8n workflow)
+  └─── Firebase (read-cache, seeded by server-side Zoho sync)
 ```
 
----
+**Web app:** `https://abhishekmightcode.github.io/vss-ups-field-app/`
+**Webhook:** `https://vsustainsolar.app.n8n.cloud/webhook/ed515a09-7182-4541-9f7d-5b356d2e5770`
 
-## 🔑 Key Zoho API Facts
+## Two Payloads
 
-- **DC:** `.in` (India) — `crm.zoho.in`
-- **Module:** UPS (API name)
-- **Update record:** `PUT /crm/v2/UPS/{record_id}` — body: `{ "data": [{ ...fields }] }`
-- **Create Dealer Meets:** `POST /crm/v2/UPS/{record_id}/Dealer_meets` — body: `{ "data": [{ ...subform_fields }] }`
-- **Get all records:** `GET /crm/v2/UPS?fields=ALL&per_page=200&page=1`
-- **Latitude field:** `Address_of_the_dealer_Coordinates_Latitude`
-- **Longitude field:** `Address_of_the_dealer_Coordinates_Longitude`
-- **Dealer_code field:** `Dealer_code` (string, 255 chars — stores 10-digit codes)
-- **Phone field:** `Phone` — must include `+91` prefix
+### Send Location (`action: "send_location"`)
+```json
+{
+  "action": "send_location",
+  "timestamp": "2026-05-09T...",
+  "dealer": {
+    "zoho_id": "1171062000002901006",
+    "dealer_code": "1000036809",
+    "name": "Ae Battery Point"
+  },
+  "location": {
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "accuracy": 10
+  }
+}
+```
 
----
+### Submit Info (`action: "submit_info"`)
+```json
+{
+  "action": "submit_info",
+  "timestamp": "2026-05-09T...",
+  "dealer": {
+    "zoho_id": "1171062000002901006",
+    "dealer_code": "1000036809",
+    "name": "Ae Battery Point",
+    "phone": "+919448043392"
+  },
+  "visit": {
+    "visit_number": 1,
+    "visit_date": "2026-05-09",
+    "visit_notes": "Checked stock, suggested Exide upgrade",
+    "competition_in_use": "Exide, Luminous",
+    "follow_up_type": "Call"
+  },
+  "fields": {
+    "Dealer_Type": "Retailer",
+    "Existing_Battery_stock": "20",
+    "Existing_UPS_stock": "5",
+    "Existing_High_KV_UPS_stock": "2",
+    "Approx_value_in_outlet": "50000",
+    "Credit_value_with_dealer": "20000",
+    "Follow_up_date_and_time": "2026-05-12T10:00:00.000Z",
+    "Follow_up_notes": "Follow up on Exide stock"
+  }
+}
+```
 
-*Last updated: 2026-05-09*
+## What's Working
+
+- ✅ Dealer list loads from Firebase
+- ✅ Firebase seeded from Zoho via server-side sync (Node.js script)
+- ✅ Send Location sends GPS + dealer info to n8n webhook
+- ✅ Submit Info sends full form + visit data to n8n webhook
+- ✅ Firebase updates locally after each action
+
+## What's Pending (n8n side)
+
+- n8n workflow needs to receive webhook payloads and write to Zoho CRM
+- Dealer Meets sub-form entries in Zoho (for visit history)
+- Photo upload via Google Form (button exists, not wired)
+
+## Known Issues
+
+- n8n workflow not yet configured to consume these payloads
+- Cloudflare tunnel / Zoho proxy **no longer needed** — kept as fallback reference
+
+## Removed (2026-05-09)
+
+- Cloudflare tunnel dependency
+- Local Node.js Zoho proxy (port 3000)
+- `getZohoToken()`, `zohoUpdateRecord()`, `zohoCreateDealerMeets()`
+- Browser CORS issues → gone, webhook POST has no CORS restrictions
