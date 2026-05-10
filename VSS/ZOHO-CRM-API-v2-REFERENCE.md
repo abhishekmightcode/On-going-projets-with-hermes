@@ -570,6 +570,67 @@ POST https://www.zohoapis.com/crm/v2/{module_api_name}/{record_id}/actions/add_t
 
 ---
 
+## VSS Module Field Maps (Confirmed May 2026)
+
+### UPS — 43 Fields (GET /crm/v2/settings/fields?module=UPS)
+
+**List API visibility:** `id` only with current token. Use COQL or single-record fetch for full data.
+
+**Identity:** `id`, `Name`, `Dealer_Code`, `Phone`, `Email`, `Owner`, `Owner_email`
+**Location:** `Address_of_the_dealer`, `Address_of_the_dealer_Street_Address`, `Address_of_the_dealer_Flat_House_No_Building_Apart`, `Address_of_the_dealer_City`, `Address_of_the_dealer_State_Province`, `Address_of_the_dealer_Country_Region`, `Address_of_the_dealer_Zip_Postal_Code`, `Address_of_the_dealer_Coordinates`, `Address_of_the_dealer_Coordinates_Latitude` (double), `Address_of_the_dealer_Coordinates_Longitude` (double), `Address_map_URL`
+**Classification:** `Dealer_Type` (picklist), `Tag`
+**Visits:** `Dealer_meets` (subform), `Total_visits` (formula), `Follow_up_date_and_time`, `Follow_up_notes`, `Next_Follow_up_date_and_time`, `Last_Activity_Time`
+**Stock:** `Existing_Battery_stock` (integer), `Existing_UPS_stock` (integer), `Existing_High_KV_UPS_stock` (integer), `Approx_value_in_outlet` (integer), `Credit_value_with_dealer` (integer)
+**Financial:** `Last_Order_Date` (date), `Last_Order_Value` (integer), `Total_Lifetime_Value` (integer)
+**Email:** `Email_Opt_Out` (boolean), `Unsubscribed_Mode` (picklist), `Unsubscribed_Time`
+**System:** `Created_Time`, `Modified_Time`, `Created_By`, `Modified_By`, `Record_Image`, `Locked__s`
+
+---
+
+### Leads — 62 Fields (GET /crm/v2/settings/fields?module=Leads)
+
+**List API visibility:** FULL — all fields visible with current token.
+
+**Identity:** `id`, `Salutation` (picklist), `First_Name`, `Last_Name`, `Full_Name`, `Name1`, `Company`, `Designation`
+**Contact:** `Phone` (phone), `Mobile` (phone), `Email` (email), `Secondary_Email`, `Skype_ID`, `Twitter`, `Fax`
+**Address:** `Address` (textarea), `Street`, `Flat_House_No_Building_Apartment_Name`, `City`, `State` (picklist), `Country` (picklist), `Zip_Code`, `Latitude` (double), `Longitude` (double), `Coordinates` (textarea)
+**Status/Source:** `Lead_Source` (picklist), `Lead_Status` (picklist: Attempted to Contact, Contacted, Hot, In Progress, Junk Lead, Lost Lead, New Lead, Not Qualified, Open), `Rating` (picklist: Hot, Warm, Cold)
+**Business:** `Industry` (picklist), `Annual_Revenue` (currency), `No_of_Employees` (integer), `Website` (website)
+**Sales:** `Closing_date` (datetime), `Amount_closed` (integer)
+**Follow-up:** `Follow_up_date_and_time`, `Follow_up_notes` (textarea), `Follow_up_subject`, `Next_Follow_up_date_and_time`, `Copy_follow_up_notes`, `Copy_follow_up_subject`
+**Enrichment:** `Enrich_Status__s` (picklist), `Last_Enriched_Time__s` (datetime)
+**Ads:** `ad_campaign` (text), `ad_set` (text), `leadchain0__Social_Lead_ID` (text)
+**System:** `Created_Time`, `Modified_Time`, `Created_By`, `Modified_By`, `Owner`, `Last_Activity_Time`, `Record_Image`, `Tag`, `Locked__s`, `Description` (textarea), `Reason_for_junk` (textarea), `Reason_for_marking_not_qualified` (textarea), `Email_Opt_Out` (boolean), `Unsubscribed_Mode`, `Unsubscribed_Time`, `Change_Log_Time__s` (datetime)
+
+---
+
+### Project_Execution — 56 Fields (GET /crm/v2/settings/fields?module=Project_Execution)
+
+**List API visibility:** FULL — all fields visible with current token.
+
+**Identity:** `id`, `Name`, `Customer_name`, `Email`, `Phone` (phone), `Owner`, `Owner1` (email)
+**Address:** `Address` (textarea), `Address_Street_Address`, `Address_Flat_House_No_Building_Apartment_Name`, `Address_City`, `Address_State_Province` (picklist), `Address_Country_Region` (picklist), `Address_Zip_Postal_Code`, `Address_Coordinates` (textarea), `Address_Coordinates_Latitude` (double), `Address_Coordinates_Longitude` (double)
+**Project:** `Project_type` (picklist), `Execution_stage` (picklist), `Current_on_site_execution` (picklist), `On_site_execution_stage` (multiselectpicklist)
+**Schedule:** `Date_and_time_of_execution` (datetime), `Day_1` (date), `Day_2` (date), `Day_3` (date)
+**Team:** `Project_lead` (picklist), `Project_assistance_team` (multiselectpicklist), `Project_assistance_team_Day2` (multiselectpicklist), `Project_assistance_team_Day3` (multiselectpicklist)
+**Installation:** `Structure_setup` (textarea), `ACDB_DCDB_setup` (textarea), `Panel_mounting` (textarea), `Inverter_UPS_Battery_installation` (textarea), `Electrical_wiring` (textarea), `Lightning_arrester` (textarea), `Unloading_on_roof` (textarea), `Material_Delivered_on_Location` (textarea), `Commissioning` (textarea), `test_muoliti_line` (textarea)
+**Financials:** `Total_deal_amount` (integer), `Sanctioned_load` (double), `Advance_amount_received` (integer), `Second_installment_amount` (integer), `Second_installment_received` (picklist), `Full_payment_cleared` (picklist), `Pending_payment_amount` (integer)
+**System:** `Created_Time`, `Modified_Time`, `Created_By`, `Modified_By`, `Last_Activity_Time`, `Record_Image`, `Tag`, `Locked__s`, `Unsubscribed_Mode`, `Unsubscribed_Time`
+
+---
+
+### Tasks — 19 Fields (GET /crm/v2/settings/fields?module=Tasks)
+
+**List API visibility:** FULL — all fields visible with current token.
+
+**Core:** `id`, `Subject` (text), `Status` (picklist: Not Started, In Progress, Completed, Waiting for Input, Deferred), `Priority` (picklist: High, Medium, Low, None), `Due_Date` (date)
+**Details:** `Description` (textarea)
+**Timing:** `Closed_Time` (datetime), `Remind_At` (ALARM), `Send_Notification_Email` (boolean), `Recurring_Activity` (RRULE)
+**Relations:** `Who_Id` (lookup — Contact), `What_Id` (lookup — any CRM record e.g. Project_Execution, UPS, Deals)
+**System:** `Created_Time`, `Modified_Time`, `Created_By`, `Modified_By`, `Owner`, `Last_Activity_Time`, `Tag`, `Locked__s`
+
+---
+
 ## Critical Rules
 
 1. **Always wrap body as `{"data": [...]}`** — bare arrays fail with `INVALID_DATA`
