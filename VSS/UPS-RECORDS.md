@@ -1,0 +1,1249 @@
+# VSS UPS Module — All Records
+**Total Records:** 65
+**Last Fetched:** 2026-05-12
+
+---
+
+## Fresh (1)
+
+### SAI POWER SOLUTIONS
+- **Zoho ID:** `1171062000002926161`
+- **Phone:** +919611159149
+- **Dealer Code:** 1000226489
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** 2026-05-12T06:29
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+## Visit Done (0)
+
+## Revisit Needed (0)
+
+## Not contacted (64)
+
+### SRI VENKATESWARA BATTERYS SALES AND SERV
+- **Zoho ID:** `1171062000002926160`
+- **Phone:** +919740075491
+- **Dealer Code:** 1000225151
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### J P ENTERPRISES
+- **Zoho ID:** `1171062000002926159`
+- **Phone:** +919900553029
+- **Dealer Code:** 1000225149
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### AADITYA POWER SYSTEM
+- **Zoho ID:** `1171062000002926158`
+- **Phone:** +919448059232
+- **Dealer Code:** 1000224331
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### SRI SAI ENTERPRISES
+- **Zoho ID:** `1171062000002926157`
+- **Phone:** +918123850567
+- **Dealer Code:** 1000223930
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### GOUTHAM ELECTRONICS
+- **Zoho ID:** `1171062000002926156`
+- **Phone:** +919739592490
+- **Dealer Code:** 1000223080
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Sri Basaveshwara Batteries
+- **Zoho ID:** `1171062000002926155`
+- **Phone:** +919353678727
+- **Dealer Code:** 1000222997
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### GREENLEAF POWER SOLUTIONS
+- **Zoho ID:** `1171062000002926154`
+- **Phone:** +918553941004
+- **Dealer Code:** 1000222780
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Sri Devi Battery House
+- **Zoho ID:** `1171062000002926153`
+- **Phone:** +919019232349
+- **Dealer Code:** 1000222281
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Sathya Sai Enterprises
+- **Zoho ID:** `1171062000002926152`
+- **Phone:** +918217836848
+- **Dealer Code:** 1000220044
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### INDITECH POWER CONTROLS
+- **Zoho ID:** `1171062000002926151`
+- **Phone:** +919483343761
+- **Dealer Code:** 1000211535
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### OMKAR POWER SOLUTIONS
+- **Zoho ID:** `1171062000002926150`
+- **Phone:** +919538933997
+- **Dealer Code:** 1000209930
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### VIKAS K M
+- **Zoho ID:** `1171062000002926149`
+- **Phone:** +919591767417
+- **Dealer Code:** 1000208372
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Sri Devi battery house
+- **Zoho ID:** `1171062000002926148`
+- **Phone:** +919036543234
+- **Dealer Code:** 1000206349
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### microsys enterprises
+- **Zoho ID:** `1171062000002926147`
+- **Phone:** +919901475024
+- **Dealer Code:** 1000206348
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### VIBRANT POWER TECHNOLOGIES
+- **Zoho ID:** `1171062000002926146`
+- **Phone:** +917090708099
+- **Dealer Code:** 1000205824
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### kamplis power solutions
+- **Zoho ID:** `1171062000002926145`
+- **Phone:** +919880737217
+- **Dealer Code:** 1000205179
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### S V ENTERPRISES
+- **Zoho ID:** `1171062000002926144`
+- **Phone:** +919060405480
+- **Dealer Code:** 1000204044
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### RPM POWER SOLUTIONS
+- **Zoho ID:** `1171062000002926143`
+- **Phone:** +919741639741
+- **Dealer Code:** 1000200900
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Sri Nanjundeshwara enterprises
+- **Zoho ID:** `1171062000002926142`
+- **Phone:** +919739880029
+- **Dealer Code:** 1000200748
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### SM battery and auto electrical
+- **Zoho ID:** `1171062000002926141`
+- **Phone:** +917899957727
+- **Dealer Code:** 1000200743
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### R G POWER SOLUTIONS
+- **Zoho ID:** `1171062000002926140`
+- **Phone:** +919986749007
+- **Dealer Code:** 1000200436
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### SLV ENTERPRISES
+- **Zoho ID:** `1171062000002926139`
+- **Phone:** +919008000553
+- **Dealer Code:** 1000200370
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Thirumala enterprises
+- **Zoho ID:** `1171062000002926138`
+- **Phone:** +919986362488
+- **Dealer Code:** 1000199375
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Manjunatha battery works
+- **Zoho ID:** `1171062000002926137`
+- **Phone:** +919845647293
+- **Dealer Code:** 1000197798
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### saanvy enterprises
+- **Zoho ID:** `1171062000002926136`
+- **Phone:** +917795354392
+- **Dealer Code:** 1000195216
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### VINAYAKA UPS AND BATTERY
+- **Zoho ID:** `1171062000002926135`
+- **Phone:** +916363931257
+- **Dealer Code:** 1000193343
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### SRI LAKSHMIBALAJI ENTERPRISES
+- **Zoho ID:** `1171062000002926134`
+- **Phone:** +919742792691
+- **Dealer Code:** 1000193342
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### KARIYAPPA SHIVAKUMAR
+- **Zoho ID:** `1171062000002926133`
+- **Phone:** +917829686639
+- **Dealer Code:** 1000193341
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### R V POWER Technologies
+- **Zoho ID:** `1171062000002926132`
+- **Phone:** +919845597853
+- **Dealer Code:** 1000193232
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### SLV BATTERY POINT
+- **Zoho ID:** `1171062000002926131`
+- **Phone:** +919742711113
+- **Dealer Code:** 1000189175
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### SN POWER SOLUTION
+- **Zoho ID:** `1171062000002926130`
+- **Phone:** +917795853959
+- **Dealer Code:** 1000189174
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### POWERCON K K ENTERPRISES
+- **Zoho ID:** `1171062000002926129`
+- **Phone:** +919845381220
+- **Dealer Code:** 1000189173
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### HIGH LIFE
+- **Zoho ID:** `1171062000002926128`
+- **Phone:** +919845466796
+- **Dealer Code:** 1000189172
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### CHHAYA POWER SOLUTIONS
+- **Zoho ID:** `1171062000002926127`
+- **Phone:** +919448614111
+- **Dealer Code:** 1000189171
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### G-POWER SOLUTIONS
+- **Zoho ID:** `1171062000002926126`
+- **Phone:** +919449553650
+- **Dealer Code:** 1000189169
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Sr power point
+- **Zoho ID:** `1171062000002926125`
+- **Phone:** +919019363579
+- **Dealer Code:** 1000189168
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### ozone power inc
+- **Zoho ID:** `1171062000002926124`
+- **Phone:** +919964510444
+- **Dealer Code:** 1000188879
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### M/s ROOPA ENTERPRISES
+- **Zoho ID:** `1171062000002926123`
+- **Phone:** +917483769659
+- **Dealer Code:** 1000188878
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### SRS ENTERPRISES
+- **Zoho ID:** `1171062000002926122`
+- **Phone:** +918867359670
+- **Dealer Code:** 1000188877
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### BHARATH POWER SOLUTIONS
+- **Zoho ID:** `1171062000002926121`
+- **Phone:** +919902029306
+- **Dealer Code:** 1000188876
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### RAVI ELECTRICAL
+- **Zoho ID:** `1171062000002926120`
+- **Phone:** +919845198076
+- **Dealer Code:** 1000188875
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Power backup center
+- **Zoho ID:** `1171062000002926119`
+- **Phone:** +918722111099
+- **Dealer Code:** 1000188874
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### shivam power solution
+- **Zoho ID:** `1171062000002926118`
+- **Phone:** +919844510641
+- **Dealer Code:** 1000188873
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### SRI RANGANATHA BATTERY POINT
+- **Zoho ID:** `1171062000002926117`
+- **Phone:** +919845613618
+- **Dealer Code:** 1000177172
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### SLN sphere solutions
+- **Zoho ID:** `1171062000002926116`
+- **Phone:** +919880286269
+- **Dealer Code:** 1000126307
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### OM Durga Devi Darshan Battery
+- **Zoho ID:** `1171062000002926115`
+- **Phone:** +918970075135
+- **Dealer Code:** 1000102597
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Auto Power Inc
+- **Zoho ID:** `1171062000002926114`
+- **Phone:** +919986988999
+- **Dealer Code:** 1000102581
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Sri Laxmi BatteryandAuto Electrical Cent
+- **Zoho ID:** `1171062000002926113`
+- **Phone:** +919845421341
+- **Dealer Code:** 1000082657
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Sri Vigneshwara Automobiles
+- **Zoho ID:** `1171062000002926112`
+- **Phone:** +919845269960
+- **Dealer Code:** 1000077586
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Av Power Systems and Services
+- **Zoho ID:** `1171062000002926111`
+- **Phone:** +919880408640
+- **Dealer Code:** 1000074031
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### S S ENTERPRISES
+- **Zoho ID:** `1171062000002926110`
+- **Phone:** +919739779917
+- **Dealer Code:** 1000073322
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### S r Battry service
+- **Zoho ID:** `1171062000002926109`
+- **Phone:** +919738289633
+- **Dealer Code:** 1000070351
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### KAVERI INFOTEK
+- **Zoho ID:** `1171062000002926108`
+- **Phone:** +919845653675
+- **Dealer Code:** 1000070113
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### UNIVERSAL POWER SYSTEMS
+- **Zoho ID:** `1171062000002926107`
+- **Phone:** +919008011225
+- **Dealer Code:** 1000063649
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### sapthagiri batteries
+- **Zoho ID:** `1171062000002926106`
+- **Phone:** +919972535556
+- **Dealer Code:** 1000050253
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### thirumala battery house
+- **Zoho ID:** `1171062000002926105`
+- **Phone:** +919945037722
+- **Dealer Code:** 1000049566
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### s.m.auto batteries
+- **Zoho ID:** `1171062000002926104`
+- **Phone:** +919900159324
+- **Dealer Code:** 1000047223
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### power instrument
+- **Zoho ID:** `1171062000002926103`
+- **Phone:** +919845394418
+- **Dealer Code:** 1000047208
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Thirumala Batteries
+- **Zoho ID:** `1171062000002926102`
+- **Phone:** +919886002223
+- **Dealer Code:** 1000037576
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Sri Lakshmi Auto Electrical
+- **Zoho ID:** `1171062000002926101`
+- **Phone:** +919448278651
+- **Dealer Code:** 1000037509
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Mohit Power System
+- **Zoho ID:** `1171062000002926100`
+- **Phone:** +919449354228
+- **Dealer Code:** 1000037174
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Lalith Enterprises
+- **Zoho ID:** `1171062000002926099`
+- **Phone:** +919019257576
+- **Dealer Code:** 1000037111
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Gayatri Batteries
+- **Zoho ID:** `1171062000002926098`
+- **Phone:** +919448043392
+- **Dealer Code:** 1000036990
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
+### Ae Battery Point
+- **Zoho ID:** `1171062000002926097`
+- **Phone:** +910
+- **Dealer Code:** 1000036809
+- **Address:** India
+- **Created:** 2026-05-12
+- **Last Activity:** N/A
+- **Dealer Type:** -
+- **Last Order Date:** -
+- **Existing Battery Stock:** -
+- **Last Order Value:** -
+- **Existing UPS Stock:** -
+- **Total Lifetime Value:** -
+- **Existing High KV UPS Stock:** -
+- **Follow up Date/Time:** -
+- **Follow up Notes:** -
+- **Credit Value with Dealer:** -
+- **Approx Value in Outlet:** -
+---
